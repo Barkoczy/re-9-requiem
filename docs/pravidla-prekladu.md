@@ -78,21 +78,29 @@ Všechna jména zůstávají v angličtině:
 - Wrenwood Hotel, Rhodes Hill, ARK
 - Spencer Mansion (historické zmínky)
 
-### 2.3 Názvy zbraní a předmětů
+### 2.3 Názvy zbraní a předmětů (kontextově)
 
-Herní názvy zbraní zůstávají v angličtině:
+V inventáři, obchodě a seznamech itemů zůstávají kanonické názvy zbraní
+v angličtině:
 
 - Matilda IMP, S&S M232, MSBG 500, Requiem
 - First Aid Spray, Green Herb, Red Herb
 - Mortal Edge, Hunting Knife, R.I.P. Knife, Kotetsu
 - Body Armor, Hatchet
 
+V dialogu a souvislých větách se používá přirozená čeština (herní žargon):
+
+- obecný výraz lze přeložit: `Hatchet` → „sekyrka"/„sekera" podle tónu postavy
+- modelové označení lze ponechat: „samopal Stiri REVO3 A1" (případně komunitní
+  slang „samopal MP9", pokud sedí kontext)
+- vždy držte význam věty, ne mechanický přepis názvu itemu
+
 ### 2.4 Zkratky a organizace
 
 - BSAA, FBI, DSO, S.T.A.R.S., R.P.D.
 - Umbrella Corporation (skloňuje se: „Umbrelly", genitiv)
 - The Connections (nesklonné)
-- T-Virus, Elpis (nesklonné)
+- T-Virus (pádové tvary povoleny: „T-Viru", „T-Virem"), Elpis (nesklonné)
 
 ### 2.5 Technické značky
 
@@ -140,6 +148,7 @@ Konzistentní překlad klíčových herních termínů:
 | Rhodes Hill Chronic Care Center | pečovatelské centrum Rhodes Hill | |
 | Trophy | trofej | achievement |
 | Concept art | koncepty | ne „koncepční art" |
+| Hatchet | Hatchet / sekyrka | item name = Hatchet, dialog = kontextově sekyrka/sekera |
 
 ---
 
