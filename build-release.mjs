@@ -2,7 +2,7 @@
 // Usage: npm run release
 // Requires: npm run build must be run first (mod/ directory with built .msg.23 files)
 
-import { existsSync, mkdirSync, cpSync, readFileSync, writeFileSync } from "fs";
+import { existsSync, mkdirSync, cpSync, readFileSync, rmSync } from "fs";
 import { execSync } from "child_process";
 import { dirname, resolve } from "path";
 import { fileURLToPath } from "url";
@@ -12,7 +12,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 // --- Configuration ---
 const MOD_OUTPUT_DIR =
   process.env.RE9_MOD_OUTPUT ||
-  "/mnt/c/Users/henri/Documents/RE-Requiem-CZ/mod";
+  "C:\\Users\\henri\\Documents\\RE-Requiem-CZ\\mod";
 
 const DIST_DIR = resolve(__dirname, "dist");
 const INSTALLER_DIR = resolve(__dirname, "installer");
@@ -28,7 +28,7 @@ if (!existsSync(modNatives)) {
 
 // --- Prepare dist directory ---
 if (existsSync(DIST_DIR)) {
-  execSync(`rm -rf "${DIST_DIR}"`);
+  rmSync(DIST_DIR, { recursive: true, force: true });
 }
 mkdirSync(DIST_DIR, { recursive: true });
 
@@ -52,7 +52,10 @@ cpSync(resolve(INSTALLER_DIR, "modinfo.ini"), resolve(fluffyModDir, "modinfo.ini
 
 // Create ZIP
 const fluffyZip = resolve(DIST_DIR, `RE9-CZ-Preklad-v${VERSION}-FluffyMM.zip`);
-execSync(`cd "${fluffyDir}" && zip -r "${fluffyZip}" RE9-CZ-Preklad/`, { stdio: "inherit" });
+execSync(
+  `powershell -NoProfile -Command "Compress-Archive -Path '${fluffyModDir}' -DestinationPath '${fluffyZip}' -Force"`,
+  { stdio: "inherit" }
+);
 
 console.log(`OK: ${fluffyZip}\n`);
 
@@ -75,7 +78,10 @@ cpSync(resolve(INSTALLER_DIR, "install.ps1"), resolve(cliModDir, "install.ps1"))
 
 // Create ZIP
 const cliZip = resolve(DIST_DIR, `RE9-CZ-Preklad-v${VERSION}-CLI.zip`);
-execSync(`cd "${cliDir}" && zip -r "${cliZip}" RE9-CZ-Preklad/`, { stdio: "inherit" });
+execSync(
+  `powershell -NoProfile -Command "Compress-Archive -Path '${cliModDir}' -DestinationPath '${cliZip}' -Force"`,
+  { stdio: "inherit" }
+);
 
 console.log(`OK: ${cliZip}\n`);
 

@@ -30,7 +30,7 @@ PrivilegesRequiredOverridesAllowed=dialog
 Uninstallable=yes
 UninstallFilesDir={app}\re9-cz-mod-uninstall
 CreateUninstallRegKey=yes
-LicenseFile=..\LICENSE
+LicenseFile=LICENSE
 InfoBeforeFile=info-before.rtf
 
 [Languages]
