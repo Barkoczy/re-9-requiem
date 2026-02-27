@@ -1,6 +1,6 @@
 {
   "name": "re9-requiem-cz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Czech localization mod for Resident Evil 9: Requiem",
   "type": "module",
   "scripts": {
@@ -9,7 +9,13 @@
     "patch": "node scripts/utils/patch-remsg.mjs",
     "postinstall": "node scripts/utils/patch-remsg.mjs"
   },
-  "keywords": ["resident-evil", "re9", "localization", "czech", "mod"],
+  "keywords": [
+    "resident-evil",
+    "re9",
+    "localization",
+    "czech",
+    "mod"
+  ],
   "license": "MIT",
   "private": true,
   "dependencies": {

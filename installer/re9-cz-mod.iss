@@ -3,7 +3,7 @@
 ; Requires: Inno Setup 6.x (https://jrsoftware.org/isinfo.php)
 
 #define MyAppName "RE9 Requiem - Cesky preklad"
-#define MyAppVersion "1.0.0"
+#define MyAppVersion "1.0.1"
 #define MyAppPublisher "Barkoczy"
 #define MyAppURL "https://github.com/Barkoczy/re-9-requiem"
 #define SteamAppId "3764200"
@@ -37,7 +37,8 @@ InfoBeforeFile=info-before.rtf
 Name: "czech"; MessagesFile: "compiler:Languages\Czech.isl"
 
 [Files]
-Source: "natives\*"; DestDir: "{app}\natives"; Flags: ignoreversion recursesubdirs createallsubdirs
+; Install as patch PAK — RE9 loads this natively without any mod loader
+Source: "re9-cz-preklad.pak"; DestDir: "{app}"; DestName: "re_chunk_000.pak.patch_001.pak"; Flags: ignoreversion
 
 [Messages]
 czech.SelectDirLabel3=Vyberte korenovy adresar hry {#GameDirName}.
@@ -190,21 +191,12 @@ begin
 end;
 
 procedure CurStepChanged(CurStep: TSetupStep);
-var
-  FileCount: Integer;
-  FindRec: TFindRec;
 begin
   if CurStep = ssPostInstall then
   begin
-    // Count installed .msg.23 files for verification
-    FileCount := 0;
-    if FindFirst(ExpandConstant('{app}\natives\stm\message\dialog\*.msg.23'), FindRec) then
-    begin
-      repeat
-        FileCount := FileCount + 1;
-      until not FindNext(FindRec);
-      FindClose(FindRec);
-    end;
-    Log('Installed dialog .msg.23 files: ' + IntToStr(FileCount));
+    if FileExists(ExpandConstant('{app}\re_chunk_000.pak.patch_001.pak')) then
+      Log('Patch PAK installed successfully.')
+    else
+      Log('WARNING: Patch PAK not found after install.');
   end;
 end;

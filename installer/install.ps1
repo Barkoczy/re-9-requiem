@@ -1,5 +1,6 @@
 # RE9 Requiem - Czech Translation Mod Installer
 # Requires: Windows 10/11, PowerShell 5.1+
+# Installs re9-cz-preklad.pak as re_chunk_000.pak.patch_001.pak into the game root.
 
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
@@ -9,7 +10,8 @@ Add-Type -AssemblyName System.Drawing
 # --- Constants ---
 $DEFAULT_GAME_PATH = "C:\Program Files (x86)\Steam\steamapps\common\RESIDENT EVIL requiem BIOHAZARD requiem"
 $SCRIPT_DIR = Split-Path -Parent $MyInvocation.MyCommand.Definition
-$NATIVES_SOURCE = Join-Path $SCRIPT_DIR "natives"
+$PAK_SOURCE = Join-Path $SCRIPT_DIR "re9-cz-preklad.pak"
+$PAK_DEST_NAME = "re_chunk_000.pak.patch_001.pak"
 $WINDOW_TITLE = "RE9: Requiem — Český překlad"
 
 # --- Validation ---
@@ -20,7 +22,6 @@ function Test-GameDirectory {
         return @{ Valid = $false; Reason = "Adresář neexistuje." }
     }
 
-    # RE Engine games contain .pak data archives
     $pakFiles = Get-ChildItem -Path $Path -Filter "re_chunk_*.pak" -ErrorAction SilentlyContinue
     if ($pakFiles.Count -eq 0) {
         return @{ Valid = $false; Reason = "Nenalezeny herní soubory (re_chunk_*.pak).`nToto není kořenový adresář hry RE Engine." }
@@ -30,11 +31,7 @@ function Test-GameDirectory {
 }
 
 function Test-ModSource {
-    if (-not (Test-Path $NATIVES_SOURCE)) {
-        return $false
-    }
-    $msgFiles = Get-ChildItem -Path $NATIVES_SOURCE -Filter "*.msg.23" -Recurse -ErrorAction SilentlyContinue
-    return ($msgFiles.Count -gt 0)
+    return (Test-Path $PAK_SOURCE)
 }
 
 # --- GUI ---
@@ -46,7 +43,6 @@ $form.FormBorderStyle = "FixedDialog"
 $form.MaximizeBox = $false
 $form.Font = New-Object System.Drawing.Font("Segoe UI", 9)
 
-# Title label
 $lblTitle = New-Object System.Windows.Forms.Label
 $lblTitle.Text = "Instalace českého překladu"
 $lblTitle.Font = New-Object System.Drawing.Font("Segoe UI", 14, [System.Drawing.FontStyle]::Bold)
@@ -55,12 +51,11 @@ $lblTitle.Size = New-Object System.Drawing.Size(500, 30)
 $form.Controls.Add($lblTitle)
 
 $lblDesc = New-Object System.Windows.Forms.Label
-$lblDesc.Text = "Mod nahradí polský jazykový slot českým textem.`nPo instalaci zvolte v nastavení hry Jazyk → Polski."
+$lblDesc.Text = "Mod nahraje český překlad do hry přes patch PAK soubor.`nPo instalaci zvolte v nastavení hry Jazyk → Polski."
 $lblDesc.Location = New-Object System.Drawing.Point(20, 50)
 $lblDesc.Size = New-Object System.Drawing.Size(500, 35)
 $form.Controls.Add($lblDesc)
 
-# Path group
 $lblPath = New-Object System.Windows.Forms.Label
 $lblPath.Text = "Cílový adresář hry:"
 $lblPath.Location = New-Object System.Drawing.Point(20, 100)
@@ -79,21 +74,18 @@ $btnBrowse.Location = New-Object System.Drawing.Point(440, 121)
 $btnBrowse.Size = New-Object System.Drawing.Size(90, 25)
 $form.Controls.Add($btnBrowse)
 
-# Status label
 $lblStatus = New-Object System.Windows.Forms.Label
 $lblStatus.Text = ""
 $lblStatus.Location = New-Object System.Drawing.Point(20, 160)
 $lblStatus.Size = New-Object System.Drawing.Size(500, 60)
 $form.Controls.Add($lblStatus)
 
-# Progress bar
 $progressBar = New-Object System.Windows.Forms.ProgressBar
 $progressBar.Location = New-Object System.Drawing.Point(20, 225)
 $progressBar.Size = New-Object System.Drawing.Size(510, 22)
 $progressBar.Visible = $false
 $form.Controls.Add($progressBar)
 
-# Buttons
 $btnInstall = New-Object System.Windows.Forms.Button
 $btnInstall.Text = "Instalovat"
 $btnInstall.Location = New-Object System.Drawing.Point(340, 260)
@@ -125,14 +117,12 @@ $btnInstall.Add_Click({
     $lblStatus.Text = "Ověřuji..."
     $form.Refresh()
 
-    # Check mod source files
     if (-not (Test-ModSource)) {
         $lblStatus.ForeColor = [System.Drawing.Color]::Red
-        $lblStatus.Text = "Chyba: Složka 'natives' s přeloženými soubory nebyla nalezena`nvedle instalátoru. Zkontrolujte úplnost stažených souborů."
+        $lblStatus.Text = "Chyba: Soubor 're9-cz-preklad.pak' nebyl nalezen`nvedle instalátoru. Zkontrolujte úplnost stažených souborů."
         return
     }
 
-    # Validate game directory
     $check = Test-GameDirectory -Path $txtPath.Text
     if (-not $check.Valid) {
         $lblStatus.ForeColor = [System.Drawing.Color]::Red
@@ -140,11 +130,10 @@ $btnInstall.Add_Click({
         return
     }
 
-    # Confirm overwrite if natives already exists in game dir
-    $targetNatives = Join-Path $txtPath.Text "natives\stm\message"
-    if (Test-Path $targetNatives) {
+    $destPak = Join-Path $txtPath.Text $PAK_DEST_NAME
+    if (Test-Path $destPak) {
         $confirm = [System.Windows.Forms.MessageBox]::Show(
-            "V herním adresáři již existují modifikované soubory.`nPřepsat?",
+            "Soubor '$PAK_DEST_NAME' již v herním adresáři existuje.`nPřepsat?",
             "Potvrzení",
             [System.Windows.Forms.MessageBoxButtons]::YesNo,
             [System.Windows.Forms.MessageBoxIcon]::Question
@@ -155,45 +144,24 @@ $btnInstall.Add_Click({
         }
     }
 
-    # Copy files
     $btnInstall.Enabled = $false
     $btnBrowse.Enabled = $false
     $txtPath.Enabled = $false
     $progressBar.Visible = $true
     $progressBar.Style = "Marquee"
-    $lblStatus.Text = "Kopíruji soubory..."
+    $lblStatus.Text = "Kopíruji patch PAK..."
     $form.Refresh()
 
     try {
-        $files = Get-ChildItem -Path $NATIVES_SOURCE -Recurse -File
-        $total = $files.Count
+        Copy-Item -Path $PAK_SOURCE -Destination $destPak -Force
+
         $progressBar.Style = "Continuous"
-        $progressBar.Minimum = 0
-        $progressBar.Maximum = $total
-        $progressBar.Value = 0
-        $copied = 0
-
-        foreach ($file in $files) {
-            $relativePath = $file.FullName.Substring($SCRIPT_DIR.Length + 1)
-            $destPath = Join-Path $txtPath.Text $relativePath
-            $destDir = Split-Path -Parent $destPath
-
-            if (-not (Test-Path $destDir)) {
-                New-Item -ItemType Directory -Path $destDir -Force | Out-Null
-            }
-
-            Copy-Item -Path $file.FullName -Destination $destPath -Force
-            $copied++
-            $progressBar.Value = $copied
-            if ($copied % 10 -eq 0) { $form.Refresh() }
-        }
-
-        $progressBar.Value = $total
+        $progressBar.Value = 100
         $lblStatus.ForeColor = [System.Drawing.Color]::DarkGreen
-        $lblStatus.Text = "Instalace dokončena! Zkopírováno $copied souborů.`nV nastavení hry zvolte: Jazyk → Polski"
+        $lblStatus.Text = "Instalace dokončena!`nV nastavení hry zvolte: Jazyk → Polski"
 
         [System.Windows.Forms.MessageBox]::Show(
-            "Český překlad byl úspěšně nainstalován!`n`nZkopírováno: $copied souborů`n`nV nastavení hry zvolte:`nJazyk → Polski",
+            "Český překlad byl úspěšně nainstalován!`n`nV nastavení hry zvolte:`nJazyk → Polski",
             "Hotovo",
             [System.Windows.Forms.MessageBoxButtons]::OK,
             [System.Windows.Forms.MessageBoxIcon]::Information
@@ -210,7 +178,6 @@ $btnInstall.Add_Click({
     }
 })
 
-# Auto-check default path on load
 $form.Add_Shown({
     if (Test-Path $DEFAULT_GAME_PATH) {
         $lblStatus.ForeColor = [System.Drawing.Color]::DarkGreen
