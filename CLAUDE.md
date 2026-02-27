@@ -11,6 +11,7 @@ Czech translation mod for **Resident Evil 9: Requiem** (RE Engine). Replaces the
 ```bash
 npm install          # Install deps + auto-patch remsg (postinstall hook)
 npm run build        # Build mod: apply translations to original MSG files
+npm run release      # Package dist/ (Fluffy MM ZIP, CLI ZIP, Inno Setup input)
 npm run patch        # Manually re-apply remsg uint64 patch
 ```
 
@@ -62,6 +63,15 @@ Keys match `entry.name` in the original MSG file. Empty strings `""` are intenti
 - `scripts/utils/verify_translations.py` — checks translation keys match originals (no missing/extra/empty)
 - `scripts/utils/final_check.py` — validates JSON, checks HTML/XML tag preservation
 - `scripts/utils/fix_quotes.py` — fixes typographic quotes in translation scripts
+
+## Installer / Release
+
+Three distribution methods in `installer/`:
+- **EXE installer** (`re9-cz-mod.iss`): Inno Setup 6 script. Auto-detects Steam path via registry (`Steam App 3764200`), validates `re_chunk_*.pak`, Czech UI. Compile: `ISCC.exe re9-cz-mod.iss`.
+- **CLI installer** (`install.bat` + `install.ps1`): PowerShell GUI with folder picker and game validation.
+- **Fluffy Mod Manager** (`modinfo.ini`): Standard RE Engine mod manager package format.
+
+`npm run release` builds all three packages into `dist/`.
 
 ## Commit Convention
 

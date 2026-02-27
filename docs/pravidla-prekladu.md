@@ -118,7 +118,7 @@ Konzistentní překlad klíčových herních termínů:
 |------------|---------|----------|
 | Blood Collector | sběrač krve | zařízení Grace |
 | Supply Crate | zásobovací bedna | obchod/úložiště |
-| Dot Sight | kolimační hledáček | zaměřovač na zbrani |
+| Dot Sight | kolimátor | zaměřovač na zbrani; NIKDY ne „kolimační hledáček" |
 | Infected blood | nakažená krev | ne „infikovaná" |
 | Microsamples | mikrovzorky | měna z krve |
 | Crafting | výroba | ne anglicky |
@@ -189,7 +189,19 @@ Před buildem by měly proběhnout:
 - Správné pády po předložkách
 - Atmosféra odpovídající survival horror žánru
 
-### 5.3 Známé výjimky
+### 5.3 Ochrana zavedeného herního žargonu
+
+Terminologický slovník (sekce 3) je **závazný**. Zavedené herní výrazy
+(kolimátor, parírování, zombík atd.) se **nesmí nahrazovat** formálnějšími
+nebo „spisovnějšími" alternativami. Pokud hráčská komunita běžně používá
+konkrétní termín, je to správný překlad — bez ohledu na to, zda existuje
+„přesnější" český ekvivalent.
+
+Příklad zakázané záměny:
+- ~~kolimační hledáček~~ → **kolimátor** (zavedený herní žargon)
+- ~~zaměřovací přístroj~~ → **kolimátor**
+
+### 5.4 Známé výjimky
 
 - `gui_credits.msg.23` — převážně anglická jména (vývojářský tým), diakritika
   není vyžadována

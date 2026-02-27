@@ -1,0 +1,913 @@
+kind	file	key	detail
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_gdpr.msg.23.json	Dev1_Term_GDPR_PrivacyPolicy_Popup	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_gdpr.msg.23.json	Dev1_Term_GDPR_PrivacyPolicy_Popup	src_lf=0 dst_lf=4
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_gdpr.msg.23.json	Dev1_Term_GDPR_AgeConfirm_Confirmation	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_gdpr.msg.23.json	Dev1_Term_GDPR_AgeConfirm_Confirmation	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_option.msg.23.json	Dev1_Term_Option_ButtonIconType_Desc	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_option.msg.23.json	Dev1_Term_Option_ButtonIconType_Desc	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_option.msg.23.json	Dev1_Term_Option_UpscaleSharpness_Desc	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_option.msg.23.json	Dev1_Term_Option_UpscaleSharpness_Desc	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_option.msg.23.json	Dev1_Term_Option_FSR_Desc	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_option.msg.23.json	Dev1_Term_Option_FSR_Desc	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_option.msg.23.json	Dev1_Term_Option_DLSS_SUPERRESOLUTION_Desc	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_option.msg.23.json	Dev1_Term_Option_DLSS_SUPERRESOLUTION_Desc	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_option.msg.23.json	Dev1_Term_Option_DLSS_FRAMEGENERATION_Desc	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_option.msg.23.json	Dev1_Term_Option_DLSS_FRAMEGENERATION_Desc	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_Autosave_Announce2	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_Autosave_Announce2	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_SystemData_LoadFail_DataDelete	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_SystemData_LoadFail_DataDelete	src_lf=0 dst_lf=4
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_SaveFail_NoSpace_PC	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_SaveFail_NoSpace_PC	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_SaveFail_NoSpace_PS5	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_SaveFail_NoSpace_PS5	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_SaveFail_NoSpace_XSX	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_SaveFail_NoSpace_XSX	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_SaveFail_NoSpace_NSW	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_SaveFail_NoSpace_NSW	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_Transfer_During	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_Transfer_During	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_UpDate_Prompt1	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_UpDate_Prompt1	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_UpDate_Prompt2	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_saveload.msg.23.json	Dev1_Term_Saveload_UpDate_Prompt2	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_system.msg.23.json	Dev1_Term_System_ControllerDisconnect_PS	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_system.msg.23.json	Dev1_Term_System_ControllerDisconnect_PS	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_system.msg.23.json	Dev1_Term_System_ControllerDisconnect_XB	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_system.msg.23.json	Dev1_Term_System_ControllerDisconnect_XB	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_system.msg.23.json	Dev1_Term_System_Error_PC	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/term/dev1_term_system.msg.23.json	Dev1_Term_System_Error_PC	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/importedpackage/dev1term/message/trial/dev1_term_trial.msg.23.json	Dev1_Term_Trial_UnderDevelopment	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/importedpackage/dev1term/message/trial/dev1_term_trial.msg.23.json	Dev1_Term_Trial_UnderDevelopment	src_lf=0 dst_lf=2
+protected_term_missing	natives/stm/message/dialog/dialog_battlepl.msg.23.json	BattlePL_2000_0010_ch0100	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/dialog/dialog_battlepl.msg.23.json	BattlePL_2001_0010_ch0100	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/dialog/dialog_battlepl.msg.23.json	BattlePL_2002_0010_ch0100	source contains 'Hatchet'
+crlf_mismatch	natives/stm/message/dialog/dialog_centba.msg.23.json	CentBA_c410s200_0050_ch0600	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_centba.msg.23.json	CentBA_c410s200_0050_ch0600	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_centba.msg.23.json	CentBA_c410s200_0070_ch0600	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_centba.msg.23.json	CentBA_c410s200_0070_ch0600	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_centba.msg.23.json	CentBA_c410s200_0110_ch0100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_centba.msg.23.json	CentBA_c410s200_0110_ch0100	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_centba.msg.23.json	CentBA_c410s200_0130_ch0600	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_centba.msg.23.json	CentBA_c410s200_0130_ch0600	src_lf=0 dst_lf=1
+lf_mismatch	natives/stm/message/dialog/dialog_centba.msg.23.json	CentBA_c410s201_0040_ch0600	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_centba.msg.23.json	CentBA_0025_0020_ch0600	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_centba.msg.23.json	CentBA_0025_0020_ch0600	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_centba.msg.23.json	CentBA_1040_0010_ch0100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_centba.msg.23.json	CentBA_1040_0010_ch0100	src_lf=0 dst_lf=1
+czechized_name	natives/stm/message/dialog/dialog_centce.msg.23.json	CentCE_3300_0010_ch0600	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_centhw.msg.23.json	CentHW_1002_0010_ch0600	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_centrb.msg.23.json	CentRB_c442s300_0010_ch0600	matches '\bLeone\b', expected 'Leon'
+crlf_mismatch	natives/stm/message/dialog/dialog_centuc.msg.23.json	CentUC_0060_0010_ch0100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_centuc.msg.23.json	CentUC_0060_0010_ch0100	src_lf=0 dst_lf=1
+lf_mismatch	natives/stm/message/dialog/dialog_centuc.msg.23.json	CentUC_0070_0010_ch0100	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_centuc.msg.23.json	CentUC_c450s900_0010_ch0100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_centuc.msg.23.json	CentUC_c450s900_0010_ch0100	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_centuc.msg.23.json	CentUC_c450s900_0030_ch0100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_centuc.msg.23.json	CentUC_c450s900_0030_ch0100	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_centuc.msg.23.json	CentUC_c450s900_0040_ch0600	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_centuc.msg.23.json	CentUC_c450s900_0040_ch0600	src_lf=0 dst_lf=1
+czechized_name	natives/stm/message/dialog/dialog_ending.msg.23.json	Ending_c540s200_0100_ch0200	matches '\bLeone\b', expected 'Leon'
+crlf_mismatch	natives/stm/message/dialog/dialog_ending.msg.23.json	Ending_c540s400_0030_ch9928	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_ending.msg.23.json	Ending_c540s400_0030_ch9928	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c110s000_0170_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c110s000_0170_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c110s000_0220_ch1500	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c110s000_0220_ch1500	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c110s000_0270_ch1500	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c110s000_0270_ch1500	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c110s000_0350_ch1500	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c110s000_0350_ch1500	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s100_0110_ch4030	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s100_0110_ch4030	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s100_0150_ch4030	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s100_0150_ch4030	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s100_0160_ch4030	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s100_0160_ch4030	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s100_0210_ch4030	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s100_0210_ch4030	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s310_0080_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s310_0080_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s310_0190_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s310_0190_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s410_0070_ch4210	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s410_0070_ch4210	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s410_0080_ch4210	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s410_0080_ch4210	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s500_0050_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s500_0050_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s500_0100_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s500_0100_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s500_0120_ch1800	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s500_0120_ch1800	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s500_0150_ch1800	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s500_0150_ch1800	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s500_0250_ch1800	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s500_0250_ch1800	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_2099_0010_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_2099_0010_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_2610_0010_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_2610_0010_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s900_0110_ch5100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_c111s900_0110_ch5100	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_9030_0030_ch2000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_9030_0030_ch2000	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_9041_0020_ch2000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_9041_0020_ch2000	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_9041_0050_ch2000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_9041_0050_ch2000	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_9050_0020_ch2100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_9050_0020_ch2100	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_9050_0030_ch2100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_hotel3.msg.23.json	Hotel3_9050_0030_ch2100	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_mange.msg.23.json	ManGE_0650_0010_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_mange.msg.23.json	ManGE_0650_0010_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_mange.msg.23.json	ManGE_c311s610_0010_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_mange.msg.23.json	ManGE_c311s610_0010_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_mangm3.msg.23.json	ManGM3_c321s200_0070_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_mangm3.msg.23.json	ManGM3_c321s200_0070_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_mangm3.msg.23.json	ManGM3_0820_0010_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_mangm3.msg.23.json	ManGM3_0820_0010_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_mangm3.msg.23.json	ManGM3_c321s400_0170_ch5100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_mangm3.msg.23.json	ManGM3_c321s400_0170_ch5100	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_mangm3.msg.23.json	ManGM3_1000_0010_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_mangm3.msg.23.json	ManGM3_1000_0010_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_mangm3.msg.23.json	ManGM3_2200_0020_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_mangm3.msg.23.json	ManGM3_2200_0020_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_mangm3.msg.23.json	ManGM3_2200_0030_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_mangm3.msg.23.json	ManGM3_2200_0030_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_mangua.msg.23.json	ManGUA_1000_0010_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_mangua.msg.23.json	ManGUA_1000_0010_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_mangua.msg.23.json	ManGUA_1500_0040_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_mangua.msg.23.json	ManGUA_1500_0040_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_mangua.msg.23.json	ManGUA_c341s050_0240_ch1510	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_mangua.msg.23.json	ManGUA_c341s050_0240_ch1510	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_mangua.msg.23.json	ManGUA_c341s050_0290_ch1510	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_mangua.msg.23.json	ManGUA_c341s050_0290_ch1510	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_mangua.msg.23.json	ManGUA_1517_0010_ch1510	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_mangua.msg.23.json	ManGUA_1517_0010_ch1510	src_lf=0 dst_lf=1
+czechized_name	natives/stm/message/dialog/dialog_mangw.msg.23.json	ManGW_0163_0010_ch0200	matches '\bLeone\b', expected 'Leon'
+crlf_mismatch	natives/stm/message/dialog/dialog_manlc.msg.23.json	ManLC_1005_0030_ch0100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_manlc.msg.23.json	ManLC_1005_0030_ch0100	src_lf=0 dst_lf=1
+czechized_name	natives/stm/message/dialog/dialog_manlc.msg.23.json	ManLC_c342s800_0040_ch0200	matches '\bLeone\b', expected 'Leon'
+crlf_mismatch	natives/stm/message/dialog/dialog_manlc.msg.23.json	ManLC_c342s800_0120_ch0100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_manlc.msg.23.json	ManLC_c342s800_0120_ch0100	src_lf=0 dst_lf=1
+czechized_name	natives/stm/message/dialog/dialog_manlh.msg.23.json	ManLH_c312s700_0280_ch5100	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_manlm.msg.23.json	ManLM_c322s000_0240_ch0600	matches '\bLeone\b', expected 'Leon'
+protected_term_missing	natives/stm/message/dialog/dialog_manlm.msg.23.json	ManLM_c322s900_0110_ch0600	source contains 'T-Virus'
+crlf_mismatch	natives/stm/message/dialog/dialog_movie.msg.23.json	Movie_c991s000_0030_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_movie.msg.23.json	Movie_c991s000_0030_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_movie.msg.23.json	Movie_c991s000_0080_ch1500	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_movie.msg.23.json	Movie_c991s000_0080_ch1500	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_movie.msg.23.json	Movie_c991s000_0090_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_movie.msg.23.json	Movie_c991s000_0090_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_movie.msg.23.json	Movie_c991s000_0120_ch0200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_movie.msg.23.json	Movie_c991s000_0120_ch0200	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_movie.msg.23.json	Movie_c991s000_0340_ch5100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_movie.msg.23.json	Movie_c991s000_0340_ch5100	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_movie.msg.23.json	Movie_c991s000_0560_ch0900	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_movie.msg.23.json	Movie_c991s000_0560_ch0900	src_lf=0 dst_lf=1
+protected_term_missing	natives/stm/message/dialog/dialog_streetms.msg.23.json	StreetMS_c112s000_0140_ch0600	source contains 'T-Virus'
+czechized_name	natives/stm/message/dialog/dialog_streetms.msg.23.json	StreetMS_c112s000_0170_ch0600	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_streetms.msg.23.json	StreetMS_c112s100_0110_ch0600	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_streetms.msg.23.json	StreetMS_c112s900_0010_ch0600	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_streetms.msg.23.json	StreetMS_c112s900_0070_ch0600	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underco.msg.23.json	UnderCO_c520s100_0020_ch0200	matches '\bLeone\b', expected 'Leon'
+protected_term_missing	natives/stm/message/dialog/dialog_underco.msg.23.json	UnderCO_c520s100_0160_ch0200	source contains 'Zeno'
+czechized_name	natives/stm/message/dialog/dialog_underco.msg.23.json	UnderCO_1500_0010_ch0200	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underco.msg.23.json	UnderCO_c520s400_0220_ch0600	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underco.msg.23.json	UnderCO_3600_0020_ch0600	matches '\bLeone\b', expected 'Leon'
+protected_term_missing	natives/stm/message/dialog/dialog_underco.msg.23.json	UnderCO_c520s700_0360_ch5400	source contains 'Requiem'
+czechized_name	natives/stm/message/dialog/dialog_underco.msg.23.json	UnderCO_c520s700_0370_ch0200	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underco.msg.23.json	UnderCO_c520s700_0380_ch0200	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underco.msg.23.json	UnderCO_3900_0010_ch0200	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underco.msg.23.json	UnderCO_c520s920_0010_ch0200	matches '\bLeone\b', expected 'Leon'
+crlf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_1100_0010_ch0100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_1100_0010_ch0100	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_2000_0010_ch9916	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_2000_0010_ch9916	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_2000_0020_ch9916	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_2000_0020_ch9916	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_2000_0030_ch9916	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_2000_0030_ch9916	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_c510s400_0020_ch0900	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_c510s400_0020_ch0900	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_5000_0010_ch0100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_5000_0010_ch0100	src_lf=0 dst_lf=1
+lf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_5010_0010_ch0900	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_5030_0020_ch0900	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_5030_0020_ch0900	src_lf=0 dst_lf=1
+lf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_5040_0010_ch0100	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_5045_0010_ch0100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_5045_0010_ch0100	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_c510s900_0030_ch8000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_c510s900_0030_ch8000	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_c510s900_0060_ch8000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_c510s900_0060_ch8000	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_c510s900_0100_ch8000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_c510s900_0100_ch8000	src_lf=0 dst_lf=1
+czechized_name	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_c510s900_0150_ch0200	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_c510s900_0315_ch0200	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underhb.msg.23.json	UnderHB_c510s900_0320_ch0200	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underlb.msg.23.json	UnderLB_c530s100_0150_ch0200	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underlb.msg.23.json	UnderLB_c530s100_0430_ch0200	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underlb.msg.23.json	UnderLB_c530s100_0450_ch0200	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underlb.msg.23.json	UnderLB_c530s800_0140_ch0200	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underlb.msg.23.json	UnderLB_c530s900_0060_ch0600	matches '\bLeone\b', expected 'Leon'
+protected_term_missing	natives/stm/message/dialog/dialog_underlb.msg.23.json	UnderLB_c530s900_0330_ch9925	source contains 'Umbrella', expected one of ['Umbrella', 'Umbrelly']
+protected_term_missing	natives/stm/message/dialog/dialog_underlb.msg.23.json	UnderLB_c530s900_0350_ch9924	source contains 'Alyssa'
+czechized_name	natives/stm/message/dialog/dialog_underlb.msg.23.json	UnderLB_c531s100_0050_ch0200	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underlb.msg.23.json	UnderLB_c531s100_0070_ch0200	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underlb.msg.23.json	UnderLB_c531s100_0090_ch0200	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underlb.msg.23.json	UnderLB_c531s100_0110_ch0200	matches '\bLeone\b', expected 'Leon'
+czechized_name	natives/stm/message/dialog/dialog_underlb.msg.23.json	UnderLB_c531s900_0010_ch0200	matches '\bLeone\b', expected 'Leon'
+protected_term_missing	natives/stm/message/gamesystem/activity.msg.23.json	ActivityTask_010_010	source contains 'Wrenwood Hotel'
+protected_term_missing	natives/stm/message/gamesystem/activity.msg.23.json	Activity0101_Body	source contains 'Wrenwood Hotel'
+protected_term_missing	natives/stm/message/gamesystem/activity.msg.23.json	Activity0301_Body	source contains 'Wrenwood Hotel'
+protected_term_missing	natives/stm/message/gamesystem/activity.msg.23.json	Activity0503_Body	source contains 'Zeno'
+protected_term_missing	natives/stm/message/gamesystem/activity.msg.23.json	ActivityHelp_101_200_Title	source contains 'Wrenwood Hotel'
+protected_term_missing	natives/stm/message/gamesystem/activity.msg.23.json	ActivityHelp_101_400_Title	source contains 'Alyssa'
+protected_term_missing	natives/stm/message/gamesystem/activity.msg.23.json	ActivityHelp_440_700_Body	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/gamesystem/activity.msg.23.json	ActivityHelp_510_300_Body	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/gamesystem/bonus.msg.23.json	bo10_02_002_Title	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/gamesystem/bonus.msg.23.json	bo10_02_002_Description	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/gamesystem/bonus.msg.23.json	bo30_00_007_Title	source contains 'Wrenwood Hotel'
+protected_term_missing	natives/stm/message/gamesystem/bonus.msg.23.json	bo30_00_045_Title	source contains 'Zeno'
+protected_term_missing	natives/stm/message/gamesystem/bonus.msg.23.json	bo30_00_046_Title	source contains 'Zeno'
+crlf_mismatch	natives/stm/message/gamesystem/bonus.msg.23.json	bo60_00_090_Description	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/bonus.msg.23.json	bo60_00_410_Description	src_crlf=0 dst_crlf=0
+protected_term_missing	natives/stm/message/gamesystem/bonus.msg.23.json	bo60_00_410_Description	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/gamesystem/bonus.msg.23.json	bo60_00_470_Description	source contains 'Hatchet'
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_101_001_01	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_101_002_01	src_crlf=0 dst_crlf=0
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_101_005_00	source contains 'Alyssa'
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_101_005_01	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_302_017_01	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_320_001_01	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_303_005_01	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_445_000_02	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_304_001_01	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_304_001_02	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_304_001_03	src_crlf=0 dst_crlf=0
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_304_001_03	source contains 'T-Virus'
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_324_004_01	source contains 'Victor Gideon'
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_440_000_02	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_410_000_01	src_crlf=0 dst_crlf=0
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_110_000_00	source contains 'Victor Gideon'
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_110_000_02	source contains 'Victor Gideon'
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_110_000_02	source contains 'T-Virus'
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_304_006_01	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_302_028_02	src_crlf=0 dst_crlf=0
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_302_029_03	source contains 'T-Virus'
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_302_029_04	source contains 'T-Virus'
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_440_002_02	src_crlf=0 dst_crlf=0
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_510_002_01	source contains 'T-Virus'
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_510_002_02	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_320_006_01	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_410_002_01	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_410_002_02	src_crlf=0 dst_crlf=0
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_410_002_02	source contains 'T-Virus'
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_410_002_03	src_crlf=0 dst_crlf=0
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_502_001_02	source contains 'T-Virus'
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_502_006_00	source contains 'Alyssa'
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_502_007_01	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_502_007_02	src_crlf=0 dst_crlf=0
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_502_007_03	source contains 'Alyssa'
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_302_035_01	source contains 'T-Virus'
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_510_003_01	src_crlf=0 dst_crlf=0
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_999_000_13	source contains 'T-Virus'
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_999_000_14	source contains 'T-Virus'
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_999_000_20	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_999_000_22	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_999_000_25	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_999_000_29	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_999_000_33	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_999_000_36	src_crlf=0 dst_crlf=0
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_999_000_37	source contains 'T-Virus'
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_999_000_46	source contains 'Albert Wesker'
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_999_000_47	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_999_000_52	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_999_000_53	src_crlf=0 dst_crlf=0
+protected_term_missing	natives/stm/message/gamesystem/file.msg.23.json	File_999_000_55	source contains 'Alyssa'
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_999_000_57	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/file.msg.23.json	File_999_000_59	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it00_00_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it00_00_000	src_lf=0 dst_lf=3
+protected_term_missing	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it00_00_000	source contains 'Green Herb'
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it00_00_100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it00_00_100	src_lf=0 dst_lf=2
+protected_term_missing	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it00_00_100	source contains 'Green Herb'
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it00_00_200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it00_00_200	src_lf=0 dst_lf=1
+protected_term_missing	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it00_00_200	source contains 'Green Herb'
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it00_01_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it00_01_000	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_000	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_000_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_000_01	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_001	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_001	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_001_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_001_01	src_lf=0 dst_lf=4
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_002	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_002	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_002_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_002_01	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_003	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_003	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_003_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_003_01	src_lf=0 dst_lf=4
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_004	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_004	src_lf=0 dst_lf=4
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_004_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_004_01	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_005	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_005	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_005_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_005_01	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_006	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_006	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_006_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_00_006_01	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_01_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_01_000	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_01_000_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_01_000_01	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_01_002	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_01_002	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_01_002_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_01_002_01	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_01_003	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_01_003	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_01_003_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_01_003_01	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_02_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_02_000	src_lf=0 dst_lf=4
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_02_000_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_02_000_01	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_03_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_03_000	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_03_000_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_03_000_01	src_lf=0 dst_lf=4
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_03_001	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_03_001	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_03_001_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_03_001_01	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_03_003	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_03_003	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_03_003_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_03_003_01	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_04_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_04_000	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_04_000_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_04_000_01	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_05_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_05_000	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_05_000_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_05_000_01	src_lf=0 dst_lf=4
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_05_001	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_05_001	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_05_001_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_05_001_01	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_05_002	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_05_002	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_05_002_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_05_002_01	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_001	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_001	src_lf=0 dst_lf=3
+protected_term_missing	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_001	source contains 'Hatchet'
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_001_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_001_01	src_lf=0 dst_lf=4
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_001_09	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_001_09	src_lf=0 dst_lf=1
+protected_term_missing	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_001_09	source contains 'Hatchet'
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_003	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_003	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_005	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_005	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_006	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_006	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_006_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_006_01	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_006_09	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_006_09	src_lf=0 dst_lf=1
+protected_term_missing	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_006_09	source contains 'Hatchet'
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_007	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_007	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_008	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_20_008	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_30_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_30_000	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_30_001	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_30_001	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_30_002	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it10_30_002	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it20_00_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it20_00_000	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it20_00_002	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it20_00_002	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it20_00_003	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it20_00_003	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it20_00_004	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it20_00_004	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it20_00_005	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it20_00_005	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_100	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_100	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_101	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_101	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_102	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_102	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_103	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_103	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_104	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_104	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_105	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_105	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_106	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_106	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_107	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_107	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_108	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_108	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_109	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_109	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_200	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_200	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_201	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_201	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_202	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_202	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_203	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_203	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_204	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_204	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_205	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_205	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_300	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_300	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_301	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_301	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_302	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_302	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_303	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_303	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_304	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_304	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_305	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_305	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_306	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_306	src_lf=0 dst_lf=4
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_307	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_307	src_lf=0 dst_lf=4
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_308	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_308	src_lf=0 dst_lf=3
+protected_term_missing	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_308	source contains 'Hatchet'
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_309	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_309	src_lf=0 dst_lf=3
+protected_term_missing	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_309	source contains 'Hatchet'
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_310	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_310	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_311	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_311	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_400	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_400	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_401	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_401	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_402	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_402	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_403	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_403	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_404	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_404	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_405	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_405	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_406	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_406	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_407	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_407	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_500	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_500	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_501	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_501	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_502	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_502	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_503	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_503	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_504	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_504	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_505	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_505	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_506	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_506	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_507	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_507	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_701	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_701	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_702	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_702	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_703	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_703	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_704	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_704	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_705	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_705	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_706	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it30_00_706	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it40_00_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it40_00_000	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it40_01_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it40_01_000	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it40_02_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it40_02_000	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it40_03_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it40_03_000	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it40_05_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it40_05_000	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it50_00_001	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it50_00_001	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it50_00_002	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it50_00_002	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it50_00_006	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it50_00_006	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it50_00_012	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it50_00_012	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it50_00_014	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it50_00_014	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it50_00_017	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it50_00_017	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it50_00_018	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it50_00_018	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_013	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_013	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_038	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_038	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_039	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_039	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_040	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_040	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_041	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_041	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_042	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_042	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_045	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_045	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_046	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_046	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_047	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_047	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_048	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_048	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_049	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_049	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_050	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_050	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_051	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_051	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_053	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_053	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_055	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_055	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_063	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_063	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_064	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_064	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_065	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_065	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_067	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_067	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_068	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_068	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_069	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_069	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_073	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_073	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_074	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_074	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_075	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_075	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_076	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_076	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_077	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_077	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_080	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_080	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_081	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_081	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_082	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_082	src_lf=0 dst_lf=2
+protected_term_missing	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_082	source contains 'Wrenwood Hotel'
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_083	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_083	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_085	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_085	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_086	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_086	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_087	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_087	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_088	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_088	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_089	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_089	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_090	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_090	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_091	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_091	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_092	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_092	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_093	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_093	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_094	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_094	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_096	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_096	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_097	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_097	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_098	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_098	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_103	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_103	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_105	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_105	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_107	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_107	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_108	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_108	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_111	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_111	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_112	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_112	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_113	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_113	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_114	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_114	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_115	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_115	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_116	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_116	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_117	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_117	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_118	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_118	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_119	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_119	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_120	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_120	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_122	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it60_00_122	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it70_01_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it70_01_000	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it70_03_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it70_03_000	src_lf=0 dst_lf=1
+protected_term_missing	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it70_03_000	source contains 'Body Armor'
+protected_term_missing	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_00_004	source contains 'Wrenwood Hotel'
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_00_006	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_00_006	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_00_007	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_00_007	src_lf=0 dst_lf=2
+protected_term_missing	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_00_007	source contains 'Wrenwood Hotel'
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_00_008	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_00_008	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_00_009	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_00_009	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_00_010	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_00_010	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_01_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_01_000	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_01_001	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_01_001	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_02_002	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_02_002	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_02_004	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_02_004	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_05_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_05_000	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_05_001	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_05_001	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_06_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_06_000	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_06_003	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_06_003	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_06_004	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_06_004	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_06_010	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_06_010	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_07_001	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_07_001	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_07_002	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_07_002	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_07_003	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_07_003	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_001	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_001	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_003	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_003	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_005	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_005	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_006	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_006	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_007	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_007	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_008	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_008	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_008_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_008_01	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_008_02	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_008_02	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_009	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_009	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_010	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_010	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_011	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/item.msg.23.json	Item_Caption_it99_50_011	src_lf=0 dst_lf=2
+protected_term_missing	natives/stm/message/gamesystem/objective.msg.23.json	Ob_010_010	source contains 'Wrenwood Hotel'
+crlf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop00_302_12	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop00_302_12	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop00_420_05	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop00_420_05	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop20_302_24	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop20_302_24	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop20_302_28	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop20_302_28	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop20_302_30	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop20_302_30	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop20_303_04	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop20_303_04	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop20_420_00	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop20_420_00	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop99_310_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop99_310_01	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop99_320_03	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop99_320_03	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop99_320_04	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop99_320_04	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop99_302_14	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop99_302_14	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop99_502_06	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop99_502_06	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop99_502_07	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop99_502_07	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop99_302_20	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop99_302_20	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop20_302_37	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gamesystem/searchtelop.msg.23.json	Telop20_302_37	src_lf=0 dst_lf=1
+protected_term_missing	natives/stm/message/gamesystem/tipscommonid.msg.23.json	TipsCommon_0270_Body	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/gamesystem/tipscommonid.msg.23.json	TipsCommon_0370_Body	source contains 'Body Armor'
+crlf_mismatch	natives/stm/message/gamesystem/tipssummaryid.msg.23.json	TispSummary_02_000_Body	src_crlf=0 dst_crlf=0
+protected_term_missing	natives/stm/message/gamesystem/tipssummaryid.msg.23.json	TispSummary_19_000_Body	source contains 'Zeno'
+protected_term_missing	natives/stm/message/gamesystem/trophy.msg.23.json	Tr60_00_410_Description	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/gamesystem/trophy.msg.23.json	Tr60_00_470_Description	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/gamesystem/tutoriallist.msg.23.json	TutorialList_012_Description_00	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/gamesystem/tutoriallist.msg.23.json	TutorialList_013_Title	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/gamesystem/tutoriallist.msg.23.json	TutorialList_013_Description	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/gamesystem/tutoriallist.msg.23.json	TutorialList_014_Description	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/gamesystem/tutoriallist.msg.23.json	TutorialList_017_Description	source contains 'Green Herb'
+protected_term_missing	natives/stm/message/gamesystem/tutoriallist.msg.23.json	TutorialList_027_Description	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/gamesystem/tutoriallist.msg.23.json	TutorialList_034_Description	source contains 'Licker'
+protected_term_missing	natives/stm/message/gamesystem/tutoriallist.msg.23.json	TutorialList_068_Title	source contains 'Body Armor'
+protected_term_missing	natives/stm/message/gamesystem/tutoriallist.msg.23.json	TutorialList_068_Description	source contains 'Body Armor'
+crlf_mismatch	natives/stm/message/gui/gui_common.msg.23.json	Com_Guide_Input0	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_common.msg.23.json	Com_Guide_Input0	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_common.msg.23.json	Com_Guide_Input1	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_common.msg.23.json	Com_Guide_Input1	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_common.msg.23.json	Com_Guide_Input2	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_common.msg.23.json	Com_Guide_Input2	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_common.msg.23.json	Com_Guide_Input3	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_common.msg.23.json	Com_Guide_Input3	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_common.msg.23.json	Com_Guide_Bike_Operate	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_common.msg.23.json	Com_Guide_Bike_Operate	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gui/gui_common.msg.23.json	Com_Guide_Bike_Battle	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_common.msg.23.json	Com_Guide_Bike_Battle	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gui/gui_common.msg.23.json	Com_Date_Full	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_common.msg.23.json	Com_Date_Full	src_lf=0 dst_lf=1
+tag_mismatch	natives/stm/message/gui/gui_dialogbox.msg.23.json	DialogBox_KeyBindings_Confirm01	src=['<COLOR preset="TextColor1">', '<PLURAL {0} "is an unset action" "are {0} unset actions">', '</COLOR>', '<PLURAL {0} "action" "actions">', '<PLURAL {0} "it to its default setting" "them to their default settings">'] dst=['<COLOR preset="TextColor1">', '<PLURAL {0} "nenastavená akce" "{0} nenastavených akcí">', '</COLOR>', '<PLURAL {0} "akci" "akce">', '<PLURAL {0} "její výchozí nastavení" "jejich výchozí nastavení">']
+tag_mismatch	natives/stm/message/gui/gui_dialogbox.msg.23.json	DialogBox_Config_Conflict_Warning	src=['<COLOR preset="TextColor1">', '<PLURAL {0} "is a duplicate assignment" "are {0} duplicate assignments">', '</COLOR>'] dst=['<COLOR preset="TextColor1">', '<PLURAL {0} "duplicitní přiřazení" "{0} duplicitních přiřazení">', '</COLOR>']
+crlf_mismatch	natives/stm/message/gui/gui_dialogbox.msg.23.json	DialogBox_DLC_RegionError_PC	src_crlf=0 dst_crlf=0
+protected_term_missing	natives/stm/message/gui/gui_keybindings.msg.23.json	KeyBindings_Button_List42_Text	source contains 'Hatchet'
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Area_010	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Area_010	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_001_001	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_001_001	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_001_002	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_001_002	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_001_003	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_001_003	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_001_014	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_001_014	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_001_017	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_001_018	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_001_025	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_001_025	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_002_002	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_002_002	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_002_007	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_002_007	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_003_002	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_003_002	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_101_002	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_030_101_002	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_440_102_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_440_102_000	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_440_101_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_440_101_000	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_440_101_002	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_440_101_002	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Area_031	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Area_031	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Area_050	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Area_050	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_050_102_006	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_050_102_006	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Area_060	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Area_060	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Area_070_00	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Area_070_00	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Area_070_01	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Area_070_01	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_070_101_001	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_070_101_001	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_070_101_002	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_070_101_002	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_070_100_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_070_100_000	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_070_100_004	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_070_100_004	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_070_100_007	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_070_100_007	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_070_100_016	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_070_100_016	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_070_100_017	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_070_100_017	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_400_001_003	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_400_001_003	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_400_001_006	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_400_001_006	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_400_002_003	src_crlf=0 dst_crlf=0
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_400_002_004	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_400_002_004	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_400_002_005	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_400_002_005	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_080_102	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_080_102	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_090_001_011	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_090_001_011	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_090_101_001	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_090_101_001	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_090_102_006	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_090_102_006	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_090_102_009	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_090_102_009	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_090_104_003	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_090_104_003	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_090_104_004	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_090_104_004	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_090_105_001	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_090_105_001	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_090_106_000	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_map.msg.23.json	Map_Room_090_106_000	src_lf=0 dst_lf=1
+tag_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Bonus_Progress_Title0	src=['<PLURAL {0} "one time" "{0} times">'] dst=['<PLURAL {0} "jednou" "{0}krát">']
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Difficulty_Type1_Guide	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Difficulty_Type1_Guide	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Difficulty_Type1_Guide_RE	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Difficulty_Type1_Guide_RE	src_lf=0 dst_lf=3
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Difficulty_Type2_Guide	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Difficulty_Type2_Guide	src_lf=0 dst_lf=5
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Difficulty_Type2_Guide_RE	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Difficulty_Type2_Guide_RE	src_lf=0 dst_lf=5
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Difficulty_Type3_Guide	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Difficulty_Type3_Guide	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Viewpoint_Mode_Select_Text	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Viewpoint_Mode_Select_Text	src_lf=0 dst_lf=4
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Viewpoint_Mode_Select_Text_RE	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Viewpoint_Mode_Select_Text_RE	src_lf=0 dst_lf=4
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Viewpoint_Mode_Select_Text_ShowBH	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Viewpoint_Mode_Select_Text_ShowBH	src_lf=0 dst_lf=6
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Viewpoint_Mode_Select_Text_ShowRE	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Viewpoint_Mode_Select_Text_ShowRE	src_lf=0 dst_lf=6
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Renet_Url_Guide	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Renet_Url_Guide	src_lf=0 dst_lf=8
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Renet_Url_Guide_RE	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Renet_Url_Guide_RE	src_lf=0 dst_lf=8
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_PlayData_AgeConfirm_XB	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_PlayData_AgeConfirm_XB	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_AccountLink_CAPID_BH	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_AccountLink_CAPID_BH	src_lf=0 dst_lf=5
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_AccountLink_CAPID_RE	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_AccountLink_CAPID_RE	src_lf=0 dst_lf=5
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_AccountLink_CAPID_Register_02	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_AccountLink_CAPID_Register_02	src_lf=0 dst_lf=2
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_AccountLink_Option_Text_BH	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_AccountLink_Option_Text_BH	src_lf=0 dst_lf=4
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_AccountLink_Option_Text_RE	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_AccountLink_Option_Text_RE	src_lf=0 dst_lf=5
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_EULA_Option_Guide	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_EULA_Option_Guide	src_lf=0 dst_lf=1
+crlf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_RUnderDevelopment_Short	src_crlf=0 dst_crlf=0
+lf_mismatch	natives/stm/message/gui/gui_menu.msg.23.json	Menu_RUnderDevelopment_Short	src_lf=0 dst_lf=1
+missing_key	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Renet_Detail0	Non-empty source entry missing in translation
+missing_key	natives/stm/message/gui/gui_menu.msg.23.json	Menu_Renet_Detail1	Non-empty source entry missing in translation
+protected_term_missing	natives/stm/message/gui/gui_option.msg.23.json	Option_InfiniteWeapon_Ax	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/gui/gui_option.msg.23.json	Option_InfiniteWeapon_Ax_Text	source contains 'Hatchet'
+protected_term_missing	natives/stm/message/gui/gui_savearea.msg.23.json	SaveArea_01_01	source contains 'Wrenwood Hotel'
+protected_term_missing	natives/stm/message/soundsupport/soundsupport_dialog_underlb.msg.23.json	Ss_UnderLB_c531s100_0020	source contains 'Hatchet'

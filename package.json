@@ -5,11 +5,12 @@
   "type": "module",
   "scripts": {
     "build": "node build-mod.mjs",
+    "release": "node build-release.mjs",
     "patch": "node scripts/utils/patch-remsg.mjs",
     "postinstall": "node scripts/utils/patch-remsg.mjs"
   },
   "keywords": ["resident-evil", "re9", "localization", "czech", "mod"],
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "remsg": "^1.2.0"

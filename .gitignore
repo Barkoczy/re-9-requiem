@@ -6,6 +6,7 @@ json/
 
 # Build output
 mod/
+dist/
 
 # Python artifacts
 __pycache__/

@@ -42,11 +42,29 @@ RE9_GAME_DATA=/cesta/k/game-data RE9_MOD_OUTPUT=/cesta/k/output npm run build
 
 ### Instalace do hry
 
+Existují 3 způsoby instalace:
+
+#### A) EXE instalátor (doporučeno)
+
+Stáhněte `RE9-CZ-Preklad-v*-Setup.exe` z [Releases](https://github.com/Barkoczy/re-9-requiem/releases).
+Instalátor automaticky detekuje herní adresář ze Steam registru, ověří přítomnost
+herních souborů (`re_chunk_*.pak`) a zkopíruje překlad.
+
+#### B) Fluffy Mod Manager
+
+Stáhněte `RE9-CZ-Preklad-v*-FluffyMM.zip` z Releases.
+Přetáhněte ZIP do [Fluffy Mod Manageru](https://www.nexusmods.com/site/mods/818)
+a aktivujte mod.
+
+#### C) Ruční kopírování
+
 Zkopírujte výstupní adresář `natives/` do kořenového adresáře hry:
 
 ```bash
 cp -r /cesta/k/output/natives "/cesta/ke/hre/RESIDENT EVIL requiem BIOHAZARD requiem/"
 ```
+
+#### Po instalaci
 
 Ve hře přejděte do **Nastavení → Jazyk → Polski**.
 
@@ -70,7 +88,9 @@ re-9-requiem/
 ├── patches/               # Dokumentace oprav závislostí
 ├── docs/                  # Kompletní dokumentace projektu
 ├── json/                  # Extrahovaná originální data (v .gitignore)
+├── installer/             # Instalační soubory (Inno Setup, CLI, Fluffy MM)
 ├── build-mod.mjs          # Hlavní build skript
+├── build-release.mjs      # Sestavení distribučních balíčků
 ├── package.json           # NPM konfigurace
 └── .gitignore
 ```
@@ -91,8 +111,21 @@ Kompletní dokumentace je v adresáři [`docs/`](docs/):
 - [Architektura](docs/architektura.md) — technický popis formátů a pipeline
 - [Průvodce přispíváním](docs/prispivani.md) — jak upravovat a přidávat překlady
 
+## Sestavení distribučních balíčků
+
+```bash
+npm run build              # sestav mod
+npm run release            # vytvoř distribuční balíčky do dist/
+```
+
+Výstup v `dist/`:
+- `RE9-CZ-Preklad-v*-FluffyMM.zip` — Fluffy Mod Manager
+- `RE9-CZ-Preklad-v*-CLI.zip` — CLI instalátor (bat/ps1)
+- `inno/` — vstup pro Inno Setup 6 (kompilace: `ISCC.exe re9-cz-mod.iss` → `.exe`)
+
 ## Licence
 
-Tento projekt je neoficiální fan překlad. Veškerá práva k obsahu hry náleží
-společnosti Capcom Co., Ltd. Překladové texty jsou poskytovány bez záruky
-výhradně pro osobní použití.
+[MIT](LICENSE) — Překladové texty a nástroje.
+
+Veškerá práva k obsahu hry náleží společnosti Capcom Co., Ltd.
+Mod je neoficiální fan překlad pro osobní použití.
