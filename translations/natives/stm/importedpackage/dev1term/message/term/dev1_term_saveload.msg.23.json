@@ -1,0 +1,12 @@
+{
+  "Dev1_Term_Saveload_Autosave_Announce2": "Hra obsahuje funkci automatického ukládání.\nNevypínej hru, dokud je zobrazena výše uvedená ikona.",
+  "Dev1_Term_Saveload_SystemData_LoadFail": "Nepodařilo se načíst systémová uložená data.",
+  "Dev1_Term_Saveload_SystemData_LoadFail_DataDelete": "Nelze načíst systémová uložená data.\n\nSmaž všechna herní uložená data a restartuj hru.\nRestartování bez smazání dat povede\nk nenačitatelným uloženým datům.",
+  "Dev1_Term_Saveload_SaveFail_NoSpace_PC": "Na disku není dostatek volného místa.\nPro uložení hry potřebuješ alespoň\n{0} MB volného místa.",
+  "Dev1_Term_Saveload_SaveFail_NoSpace_PS5": "Na úložišti konzole PlayStation®5 není dostatek\nvolného místa. Pro uložení hry potřebuješ\nalespoň {0} MB volného místa.",
+  "Dev1_Term_Saveload_SaveFail_NoSpace_XSX": "Na úložišti konzole Xbox Series X|S není dostatek\nvolného místa. Pro uložení hry potřebuješ\nalespoň {0} MB volného místa.",
+  "Dev1_Term_Saveload_SaveFail_NoSpace_NSW": "V systémové paměti konzole Nintendo Switch 2 není\ndostatek volného místa. Pro uložení hry potřebuješ\nalespoň {0} MB volného místa.",
+  "Dev1_Term_Saveload_Transfer_During": "Probíhá přenos uložených dat.\nNevypínej prosím hru.",
+  "Dev1_Term_Saveload_UpDate_Prompt1": "Tvá uložená data nelze použít, protože nejsou kompatibilní\ns touto verzí hry. Aktualizuj prosím hru\nna nejnovější verzi.",
+  "Dev1_Term_Saveload_UpDate_Prompt2": "Tvá uložená data nelze použít, protože nejsou kompatibilní\ns touto verzí hry. Aktualizuj prosím hru\nna nejnovější verzi. Pokud hru spustíš v tomto stavu,\ntvá uložená data budou přepsána."
+}

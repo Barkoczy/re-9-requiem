@@ -1,0 +1,17 @@
+{
+  "Pause_TItle": "POZASTAVENO",
+  "Pause_Menu": "MENU PAUZY",
+  "Pause_Restart": "Restartovat",
+  "Pause_Quit_Game": "Ukončit",
+  "Pause_Return_Game": "Zpět do hry",
+  "Pause_Skip": "Přeskočit",
+  "Pause_Retry": "Zkusit znovu",
+  "Pause_Restart_Guide": "Spustit hru od posledního uložení.",
+  "Pause_Return_Quit_Guide": "Návrat do hlavního menu.",
+  "Pause_Return_Game_Guide": "Návrat do hry.",
+  "Pause_Skip_Guide0": "Přeskočit cutscénu.",
+  "Pause_Skip_Guide1": "Přeskočit video.",
+  "Pause_Tutorial": "Tutoriály",
+  "Pause_Tutorial_Guide": "Zobrazit tutoriály.",
+  "Pause_Retry_Guide": "Restartovat od začátku."
+}

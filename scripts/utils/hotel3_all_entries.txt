@@ -1,0 +1,294 @@
+'Hotel3_c110s000_0000_ch1500': '<Sound Team ID>'
+'Hotel3_c110s000_0000_ch0200': '<Sound Team ID>'
+'Hotel3_c110s000_0090_ch1500': 'Grace!'
+'Hotel3_c110s000_0100_ch1500': 'Grace!'
+'Hotel3_c110s000_0110_ch1500': 'Grace Ashcroft.'
+'Hotel3_c110s000_0120_ch0200': 'Uh, yes?'
+'Hotel3_c110s000_0130_ch1500': 'My office.'
+'Hotel3_c110s000_0140_ch0200': 'Oh... Umm...'
+'Hotel3_c110s000_0150_ch0200': 'Coming!'
+'Hotel3_c110s000_0160_ch0200': 'Oh, shit.'
+'Hotel3_c110s000_0170_ch0200': 'I-If this is about the report\r\nyou asked for yesterday,'
+'Hotel3_c110s000_0180_ch0200': "it'll be ready in three—"
+'Hotel3_c110s000_0190_ch0200': 'no, no, two days, tops.'
+'Hotel3_c110s000_0200_ch1500': 'Put a hold on that for now.'
+'Hotel3_c110s000_0210_ch1500': 'We found another body.'
+'Hotel3_c110s000_0220_ch1500': "One that exhibits the same pathology as\r\nthe others we've been investigating."
+'Hotel3_c110s000_0230_ch1500': 'Now I need a good technical analyst on this.'
+'Hotel3_c110s000_0240_ch0200': 'OK.'
+'Hotel3_c110s000_0250_ch1500': 'I need your eyes on the crime scene.'
+'Hotel3_c110s000_0260_ch1500': 'The Wrenwood Hotel.'
+'Hotel3_c110s000_0265_ch1500': 'Look...'
+'Hotel3_c110s000_0270_ch1500': "I know that's where your\r\nmother was murdered..."
+'Hotel3_c110s000_0280_ch1500': "and I know it'll be upsetting for you."
+'Hotel3_c110s000_0290_ch1500': 'Alyssa died eight years ago.'
+'Hotel3_c110s000_0300_ch1500': "Perhaps it's time for you to face the past?"
+'Hotel3_c110s000_0310_ch1500': 'Confront that fear head-on.'
+'Hotel3_c110s000_0320_ch1500': 'Grace...'
+'Hotel3_c110s000_0330_ch1500': "I won't force you to go,"
+'Hotel3_c110s000_0340_ch1500': 'but do you think you can do this for me?'
+'Hotel3_c110s000_0350_ch1500': 'Investigate that crime scene and report\r\nback to me with your findings.'
+'Hotel3_c110s000_0360_ch1500': "That's all for now."
+'Hotel3_c111s000_0000_ch2010': '<Sound Team ID>'
+'Hotel3_c111s000_0000_ch0200': '<Sound Team ID>'
+'Hotel3_c111s000_0010_ch0200': 'Sorry.'
+'Hotel3_0010_0010_ch0200': 'I need to head to the hotel.'
+'Hotel3_0020_0010_ch0200': 'It should be around here.'
+'Hotel3_c111s100_0000_ch0200': '<Sound Team ID>'
+'Hotel3_c111s100_0000_ch4030': '<Sound Team ID>'
+'Hotel3_c111s100_0010_ch4030': 'Hey, miss?'
+'Hotel3_c111s100_0020_ch4030': "Hey, that's a restricted area."
+'Hotel3_c111s100_0030_ch4030': "You can't go in there."
+'Hotel3_c111s100_0040_ch0200': 'A-Ah, oh, um...'
+'Hotel3_c111s100_0050_ch0200': 'Wh-Why?'
+'Hotel3_c111s100_0060_ch4030': "It's an active crime scene."
+'Hotel3_c111s100_0070_ch0200': 'Oh! Right, sorry. Um...'
+'Hotel3_c111s100_0080_ch0200': 'Just a sec.'
+'Hotel3_c111s100_0090_ch4030': "Oh, you're FBI?"
+'Hotel3_c111s100_0100_ch0200': 'I am.'
+'Hotel3_c111s100_0110_ch4030': 'Investigating all these\r\nstrange deaths, huh?'
+'Hotel3_c111s100_0120_ch0200': 'Mm-hmm.'
+'Hotel3_c111s100_0130_ch4030': 'This the fifth one, now, right?'
+'Hotel3_c111s100_0140_ch4030': 'I heard they all have the same weird bruises.'
+'Hotel3_c111s100_0150_ch4030': "So you think it's something infectious,\r\nor terrorism, or...?"
+'Hotel3_c111s100_0160_ch4030': 'Why else would the FBI\r\nbe investigating, right?'
+'Hotel3_c111s100_0170_ch4030': 'Hey, are you with me?'
+'Hotel3_c111s100_0175_ch0200': 'Oh, um. Uh...'
+'Hotel3_c111s100_0180_ch0200': 'There might be answers inside.'
+'Hotel3_c111s100_0190_ch4030': 'Yeah. Sure. Right.'
+'Hotel3_c111s100_0200_ch4030': 'Be careful in there.'
+'Hotel3_c111s100_0210_ch4030': "Whole building's condemned—word is they're\r\nfinally gonna bring the whole place down."
+'Hotel3_c111s100_0220_ch0200': 'Yeah. Thanks.'
+'Hotel3_0211_0010_ch0200': 'Why am I even here?'
+'Hotel3_0430_0000_ch0200': '<Sound Team ID>'
+'Hotel3_0450_0000_ch0200': '<Sound Team ID>'
+'Hotel3_c111s210_0000_ch0200': '<Sound Team ID>'
+'Hotel3_c111s210_0010_ch0200': "I can't..."
+'Hotel3_c111s210_0020_ch0200': "It's too much."
+'Hotel3_c111s210_0030_ch0200': 'Come on, Grace.'
+'Hotel3_c111s220_0000_ch0200': '<Sound Team ID>'
+'Hotel3_c111s220_0010_ch0200': "Wh-Who's there!?"
+'Hotel3_c111s220_0020_ch0200': 'Oh my god.'
+'Hotel3_c111s220_0030_ch0200': 'Wh-What do I do?'
+'Hotel3_0610_0010_ch9906': 'The body of a man...Elbridge this...'
+'Hotel3_0610_0020_ch9906': 'The police...string of mysterious deaths...'
+'Hotel3_0650_0010_ch0200': 'Shit...'
+'Hotel3_0850_0010_ch0200': 'What? Who...?'
+'Hotel3_c111s301_0000_ch0200': '<Sound Team ID>'
+'Hotel3_c111s310_0000_ch0200': '<Sound Team ID>'
+'Hotel3_c111s310_0000_ch5100': '<Sound Team ID>'
+'Hotel3_c111s310_0000_ch1800': '<Sound Team ID>'
+'Hotel3_c111s310_0010_ch1800': 'Hey, hun.'
+'Hotel3_c111s310_0020_ch0200': 'Hi, Mom.'
+'Hotel3_c111s310_0030_ch1800': 'You have been on that thing all day.'
+'Hotel3_c111s310_0040_ch0200': "Well, if you're gonna work so late..."
+'Hotel3_c111s310_0050_ch1800': 'Get some sleep, eh?'
+'Hotel3_c111s310_0060_ch0200': "I'm almost done. Just a sec."
+'Hotel3_c111s310_0070_ch1800': 'What am I going to do with you?'
+'Hotel3_c111s310_0080_ch0200': 'What you always do.\r\nNag at me until I go to bed.'
+'Hotel3_c111s310_0090_ch1800': "It's really coming down hard."
+'Hotel3_c111s310_0100_ch0200': 'Mom, phone.'
+'Hotel3_c111s310_0110_ch0200': 'Mom.'
+'Hotel3_c111s310_0120_ch1800': "It's right beside you."
+'Hotel3_c111s310_0130_ch0200': 'Ugh, fine!'
+'Hotel3_c111s310_0140_ch0200': 'Hello?'
+'Hotel3_c111s310_0150_ch5100': 'Miss Ashcroft?'
+'Hotel3_c111s310_0160_ch0200': 'Yes.'
+'Hotel3_c111s310_0170_ch1800': 'Who was it?'
+'Hotel3_c111s310_0180_ch0200': 'Dunno.'
+'Hotel3_c111s310_0190_ch0200': 'They asked for Miss Ashcroft\r\nand then they hung up on me.'
+'Hotel3_c111s310_0200_ch0200': 'Rude.'
+'Hotel3_c111s310_0210_ch0200': 'What the...?'
+'Hotel3_c111s310_0220_ch1800': "They're coming."
+'Hotel3_c111s310_0230_ch1800': 'Grace, we need to go.'
+'Hotel3_c111s310_0240_ch0200': 'Go where?'
+'Hotel3_c111s310_0250_ch0200': "Mom, what's going on?"
+'Hotel3_c111s310_0260_ch1800': 'Hurry!'
+'Hotel3_c111s310_0270_ch0200': "Wait, who's coming? What's wrong?"
+'Hotel3_c111s310_0290_ch1800': 'We need to keep our voices down.'
+'Hotel3_c111s310_0300_ch0200': 'This is ridiculous.'
+'Hotel3_c111s310_0310_ch1800': 'Come on!'
+'Hotel3_c111s310_0320_ch0200': "Tell me what's going on."
+'Hotel3_c111s310_0330_ch1800': 'Now is not the time.'
+'Hotel3_1110_0000_ch1800': '<Sound Team ID>'
+'Hotel3_1110_0010_ch1800': 'Grace! Hurry!'
+'Hotel3_1110_0020_ch1800': 'Keep moving!'
+'Hotel3_1300_0000_ch1800': '<Sound Team ID>'
+'Hotel3_1300_0010_ch1800': 'Stay close.'
+'Hotel3_1300_0020_ch1800': 'Grace! Come on, keep moving.'
+'Hotel3_1360_0010_ch0200': 'Mom, wait!'
+'Hotel3_1371_0010_ch1800': 'Grace, please focus.'
+'Hotel3_1415_0010_ch0200': "I'm coming!"
+'Hotel3_1420_0010_ch1800': 'Grace. Stay close to me.'
+'Hotel3_c111s410_0000_ch1800': '<Sound Team ID>'
+'Hotel3_c111s410_0000_ch0200': '<Sound Team ID>'
+'Hotel3_c111s410_0000_ch4210': '<Sound Team ID>'
+'Hotel3_c111s410_0010_ch4210': 'Hello?'
+'Hotel3_c111s410_0020_ch4210': "Who's there?"
+'Hotel3_c111s410_0030_ch4210': 'Oh!'
+'Hotel3_c111s410_0040_ch4210': "I'm so sorry about the power outage."
+'Hotel3_c111s410_0050_ch0200': 'Uh, what happened?'
+'Hotel3_c111s410_0060_ch4210': "Oh, it's probably the electrical panel."
+'Hotel3_c111s410_0070_ch4210': "It's forty years old, so it doesn't\r\ntake much to trip it."
+'Hotel3_c111s410_0080_ch4210': "It's really no excuse, and I apologize\r\nfor the inconvenience."
+'Hotel3_c111s410_0090_ch0200': "Oh, no, it's fine."
+'Hotel3_c111s410_0100_ch1800': "Yeah, don't worry about it."
+'Hotel3_c111s410_0110_ch4210': 'I should have it fixed soon,'
+'Hotel3_c111s410_0120_ch4210': 'I just need to find my—'
+'Hotel3_c111s410_0130_ch0200': 'Oh my god!'
+'Hotel3_c111s410_0145_ch0200': 'Mom!'
+'Hotel3_c111s410_0150_ch0200': 'What the hell, Mom!?'
+'Hotel3_c111s410_0160_ch1800': 'No, no, no! Grace! No.'
+'Hotel3_c111s410_0170_ch1800': 'Grace, stay close to me.'
+'Hotel3_c111s410_0180_ch0200': "Are you gonna tell me what's going on!?"
+'Hotel3_c111s410_0200_ch0200': 'Mom, what are you doing!?'
+'Hotel3_c111s410_0210_ch1800': 'Something important.'
+'Hotel3_c111s410_0220_ch0200': 'What did you hide behind that painting?'
+'Hotel3_c111s410_0230_ch1800': "I'll explain later."
+'Hotel3_c111s410_0240_ch1800': 'We need to find another way out.'
+'Hotel3_1450_0000_ch1800': '<Sound Team ID>'
+'Hotel3_1450_0010_ch1800': 'Grace! Come on!'
+'Hotel3_1460_0010_ch1800': 'Keep moving, Grace. Keep moving.'
+'Hotel3_1500_0000_ch1800': '<Sound Team ID>'
+'Hotel3_1500_0010_ch1800': 'Come on, Grace!'
+'Hotel3_1500_0020_ch1800': 'Come on, hurry!'
+'Hotel3_c111s500_0000_ch1800': '<Sound Team ID>'
+'Hotel3_c111s500_0000_ch0200': '<Sound Team ID>'
+'Hotel3_c111s500_0000_ch4010': '<Sound Team ID>'
+'Hotel3_c111s500_0010_ch1800': 'Come on in now, Grace.'
+'Hotel3_c111s500_0020_ch0200': "I'm calling the police!"
+'Hotel3_c111s500_0030_ch1800': "No! Don't call the police!"
+'Hotel3_c111s500_0035_ch0200': 'No, no, no! Shh!'
+'Hotel3_c111s500_0040_ch0200': 'Hello?'
+'Hotel3_c111s500_0050_ch0200': 'Yes, I want to report a murder...\r\nNo, murders!'
+'Hotel3_c111s500_0060_ch1800': 'Grace!'
+'Hotel3_c111s500_0070_ch0200': 'Th-The Wrenwood Hotel.'
+'Hotel3_c111s500_0080_ch0200': 'Yes. Hurry! Please.'
+'Hotel3_c111s500_0090_ch0200': 'The police are on their way.'
+'Hotel3_c111s500_0095_ch0200': 'Oh my god.'
+'Hotel3_c111s500_0100_ch0200': "Mom, I feel like...\r\nI'm gonna throw up."
+'Hotel3_c111s500_0110_ch1800': 'Grace?'
+'Hotel3_c111s500_0120_ch1800': 'Grace, look at me.\r\nGrab my hands.'
+'Hotel3_c111s500_0130_ch1800': 'OK, look at me. Look at me.'
+'Hotel3_c111s500_0140_ch1800': 'In...and out... Breathe in, and out.'
+'Hotel3_c111s500_0150_ch1800': 'Oh, Grace. I promise you I will explain\r\nthis all to you one of these days.'
+'Hotel3_c111s500_0160_ch1800': 'Grace.'
+'Hotel3_c111s500_0170_ch1800': 'Please know that you are my hope.'
+'Hotel3_c111s500_0180_ch1800': 'Never forget that.'
+'Hotel3_c111s500_0190_ch0200': 'What are you talking about?'
+'Hotel3_c111s500_0200_ch1800': 'Just...'
+'Hotel3_c111s500_0210_ch1800': 'I love you.'
+'Hotel3_c111s500_0220_ch0200': 'I love you too.'
+'Hotel3_c111s500_0230_ch1800': 'OK?'
+'Hotel3_c111s500_0240_ch0200': "Mom, I'm scared!"
+'Hotel3_c111s500_0250_ch1800': 'No, no, no. We need to find\r\na way out of here now.'
+'Hotel3_c111s500_0260_ch0200': "B-But we don't have any of our stuff, though."
+'Hotel3_c111s500_0270_ch1800': 'We can come back for it later, Grace.'
+'Hotel3_c111s500_0280_ch0200': "I don't under—"
+'Hotel3_c111s500_0290_ch4010': 'Found you.'
+'Hotel3_c111s500_0300_ch0200': 'No... No!'
+'Hotel3_c111s500_0310_ch0200': 'Mom! Mom, please!'
+'Hotel3_c111s500_0320_ch0200': 'No...Mom!'
+'Hotel3_c111s500_0330_ch0200': 'No, please, no!'
+'Hotel3_c111s510_0000_ch0200': '<Sound Team ID>'
+'Hotel3_c111s510_0000_ch1800': '<Sound Team ID>'
+'Hotel3_c111s510_0010_ch0200': "I'm so sorry, Mom."
+'Hotel3_c111s510_0020_ch0200': 'This is all my fault.'
+'Hotel3_c111s510_0030_ch0200': 'Hello?'
+'Hotel3_c111s510_0040_ch0200': 'Who is this?'
+'Hotel3_c111s510_0050_ch0200': 'I need to get out of here.'
+'Hotel3_c111s510_0060_ch1800': 'Something important.'
+'Hotel3_c111s510_0070_ch1800': "I'll explain later."
+'Hotel3_c111s510_0090_ch0200': 'What did you hide behind that painting?'
+'Hotel3_2030_0010_ch0200': "It wasn't this way."
+'Hotel3_2040_0000_ch0200': '<Sound Team ID>'
+'Hotel3_2099_0010_ch0200': "I'm sure it was the painting in the lobby.\r\nWhatever she hid could still be there."
+'Hotel3_c111s610_0000_ch0200': '<Sound Team ID>'
+'Hotel3_c111s620_0000_ch0200': '<Sound Team ID>'
+'Hotel3_c111s620_0000_ch4030': '<Sound Team ID>'
+'Hotel3_c111s620_0010_ch0200': 'S-Sorry, Officer.'
+'Hotel3_c111s620_0020_ch0200': "What's wrong?"
+'Hotel3_c111s620_0030_ch4030': 'Something...stung me.'
+'Hotel3_c111s620_0040_ch0200': 'Are you OK?'
+'Hotel3_c111s620_0050_ch0200': 'Wh-What do I do? Um...'
+'Hotel3_c111s620_0060_ch0200': 'Oh, shit...'
+'Hotel3_c111s620_0070_ch4030': "Can't..."
+'Hotel3_c111s620_0080_ch0200': 'Come on!'
+'Hotel3_c111s620_0090_ch4030': 'Go...in there!'
+'Hotel3_c111s620_0100_ch4030': "Can't...go...in there!"
+'Hotel3_c111s620_0110_ch0200': "I'm stuck!"
+'Hotel3_2110_0010_ch0200': 'W-Wait! What are you doing!?'
+'Hotel3_2120_0010_ch0200': 'Stop! Stop shooting!'
+'Hotel3_2305_0000_ch0200': '<Sound Team ID>'
+'Hotel3_2305_0000_ch4030': '<Sound Team ID>'
+'Hotel3_2310_0000_ch0200': '<Sound Team ID>'
+'Hotel3_2310_0000_ch4030': '<Sound Team ID>'
+'Hotel3_2310_0010_ch0200': 'Get away! G-Get away from me!'
+'Hotel3_2311_0000_ch0200': '<Sound Team ID>'
+'Hotel3_2311_0000_ch4030': '<Sound Team ID>'
+'Hotel3_2311_0010_ch0200': 'Shit! Stay away!'
+'Hotel3_2610_0010_ch0200': 'What the hell!? What the hell!?\r\nWhat the hell!? What the hell!?'
+'Hotel3_2700_0000_ch4030': '<Sound Team ID>'
+'Hotel3_2700_0000_ch0200': '<Sound Team ID>'
+'Hotel3_2701_0000_ch4030': '<Sound Team ID>'
+'Hotel3_2701_0000_ch0200': '<Sound Team ID>'
+'Hotel3_c111s900_0000_ch0200': '<Sound Team ID>'
+'Hotel3_c111s900_0000_ch5100': '<Sound Team ID>'
+'Hotel3_c111s900_0000_ch4030': '<Sound Team ID>'
+'Hotel3_c111s900_0020_ch0200': 'What the...?'
+'Hotel3_c111s900_0030_ch0200': 'I-Is...'
+'Hotel3_c111s900_0040_ch0200': 'Is anyone there?'
+'Hotel3_c111s900_0050_ch0200': 'H-Hello?'
+'Hotel3_c111s900_0060_ch5100': "It hasn't been easy."
+'Hotel3_c111s900_0070_ch5100': 'But after much effort, here we finally are.'
+'Hotel3_c111s900_0080_ch0200': 'Who are you?'
+'Hotel3_c111s900_0090_ch5100': "I'm the one who planted that body."
+'Hotel3_c111s900_0100_ch5100': "I'm the one that brought you here."
+'Hotel3_c111s900_0110_ch5100': "I know now that you're the one\r\nthat I've been searching for."
+'Hotel3_c111s900_0120_ch5100': 'The special one. The chosen one.'
+'Hotel3_c111s900_0130_ch5100': 'Miss Ashcroft.'
+'Hotel3_c111s900_0140_ch5100': 'Shh...'
+'Hotel3_c111s900_0150_ch5100': 'Rest now, Grace.'
+'Hotel3_c111s900_0160_ch5100': 'We have so much to do.'
+'Hotel3_9000_0010_ch2000': 'Yes, I know.'
+'Hotel3_9001_0010_ch2000': 'Uh-huh.'
+'Hotel3_9002_0010_ch2000': "No, no that's fine."
+'Hotel3_9003_0010_ch2000': 'Yeah, I understand.'
+'Hotel3_9004_0010_ch2000': 'Oh, no trouble at all.'
+'Hotel3_9005_0010_ch2000': 'Yeah...uh-huh. Of course.'
+'Hotel3_9006_0010_ch2000': 'Yes. I will get right on it.'
+'Hotel3_9010_0010_ch2000': 'What is it?'
+'Hotel3_9011_0010_ch2000': 'Yeah, I know that.'
+'Hotel3_9012_0010_ch2000': '[tch]'
+'Hotel3_9013_0010_ch2000': 'Hello?'
+'Hotel3_9014_0010_ch2000': 'Give me a break.'
+'Hotel3_9015_0010_ch2000': 'Do I sound like I care?'
+'Hotel3_9016_0010_ch2000': "Yeah, that's right."
+'Hotel3_9017_0010_ch2000': 'I need you to handle it.'
+'Hotel3_9030_0010_ch2000': 'So? What happened with the missus?'
+'Hotel3_9030_0020_ch2000': 'Man, she was pissed. But she forgave me in the end.'
+'Hotel3_9030_0030_ch2000': 'You got off easy. Not going to do anything\r\nstupid like that again, are you?'
+'Hotel3_9030_0040_ch2000': "No way. I swear I'll never do it again."
+'Hotel3_9030_0050_ch2000': 'Anyway, how about you?'
+'Hotel3_9030_0060_ch2000': "Same as always. Can't complain."
+'Hotel3_9030_0070_ch2000': "You're no fun is what you mean."
+'Hotel3_9030_0080_ch2000': "Not my fault you're all drama."
+'Hotel3_9040_0010_ch2000': "Sorry I'm late!"
+'Hotel3_9040_0020_ch2100': "It's fine. I only just got here myself."
+'Hotel3_9040_0030_ch2000': "Where's Kevin?"
+'Hotel3_9040_0040_ch2100': "He's late too."
+'Hotel3_9041_0010_ch2100': 'So. Where are we going today?'
+'Hotel3_9041_0020_ch2000': 'That restaurant I heard about.\r\nThe really popular one. Finally managed to book a table.'
+'Hotel3_9041_0030_ch2100': "Really? Can't wait!"
+'Hotel3_9041_0040_ch2000': "Well, you're going to have to."
+'Hotel3_9041_0050_ch2000': "Kevin's really late this time.\r\nI hope he didn't forget."
+'Hotel3_9041_0060_ch2100': "Looks like the meal's on him then."
+'Hotel3_9041_0070_ch2000': 'You got that right.'
+'Hotel3_9050_0010_ch2100': 'Did you hear Eric was promoted?'
+'Hotel3_9050_0020_ch2100': 'That asshole? What the hell\r\nare the managers thinking?'
+'Hotel3_9050_0030_ch2100': "Yeah, right? He's a kiss ass who goofs off\r\nwhile we do all the damn work."
+'Hotel3_9050_0040_ch2100': "The weather's so bad today."
+'Hotel3_9050_0050_ch2100': "Yeah, can't remember the last time it wasn't."
+'Hotel3_9050_0060_ch2100': 'The weather report said it was going to be clear.'
+'Hotel3_9050_0070_ch2100': 'Guess they were wrong.'
+'Hotel3_9050_0080_ch2100': 'Augh. This sucks.'

@@ -1,0 +1,21 @@
+{
+  "SaveLoad_Save_Title": "ULOŽIT",
+  "SaveLoad_Load_Title": "NAČÍST HRU",
+  "SaveLoad_Subhead0": "PŘÍBĚH",
+  "SaveLoad_Subhead1": "HERNÍ MÓD",
+  "SaveLoad_Subhead2": "ULOŽENÍ",
+  "SaveLoad_Subhead3": "OBLAST",
+  "SaveLoad_Subhead4": "NAPOSLEDY ULOŽENO",
+  "SaveLoad_Saved_Location": "{0} / {1}",
+  "SaveLoad_NowLoad": "NAČÍTÁNÍ",
+  "SaveLoad_AutoSave": "Automatické uložení",
+  "SaveLoad_AutoSave_Short": "AUTO",
+  "SaveLoad_AutoSave_Short1": "AUTO 01",
+  "SaveLoad_AutoSave_Short2": "AUTO 02",
+  "SaveLoad_NewData": "Nové uložení",
+  "SaveLoad_NoData": "ŽÁDNÁ DATA",
+  "SaveLoad_ClearData": "Dokončená data",
+  "SaveLoad_Guide0": "Vytvořit uloženou pozici.",
+  "SaveLoad_Guide1": "Přepsat uloženou pozici.",
+  "SaveLoad_Guide2": "Načíst uloženou pozici."
+}

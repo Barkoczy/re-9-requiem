@@ -1,0 +1,13 @@
+{
+  "Dev1_Term_Store_StoreName_PC": "Internetový obchod",
+  "Dev1_Term_Store_StoreName_PS": "PlayStation®Store",
+  "Dev1_Term_Store_StoreName_XB": "Microsoft Store",
+  "Dev1_Term_Store_StoreName_NSW1": "Nintendo eShop",
+  "Dev1_Term_Store_StoreName_PC_Desc": "Přejít do internetového obchodu.",
+  "Dev1_Term_Store_StoreName_PS_Desc": "Přejít do PlayStation®Store.",
+  "Dev1_Term_Store_StoreName_XB_Desc": "Přejít do Microsoft Store.",
+  "Dev1_Term_Store_StoreName_NSW_Desc": "Přejít do Nintendo eShop.",
+  "Dev1_Term_Store_JumpConfirm_PC": "Připojit se k internetovému obchodu?",
+  "Dev1_Term_Store_JumpConfirm_PS": "Připojit se k PlayStation®Store?",
+  "Dev1_Term_Store_JumpConfirm_XB": "Připojit se k Microsoft Store?"
+}

@@ -1,0 +1,2030 @@
+--- File_101_000_00 ---
+Wrenwood City Guide
+
+--- File_101_000_01 ---
+Welcome to the beautiful and historic city
+of Wrenwood!
+
+Come soak in the nostalgia of a bygone era
+with chic art galleries, classic restaurants,
+and plenty of stores where you can shop
+till you drop.
+
+If you want to get away from the modern hustle
+and bustle, Wrenwood is the place to be!
+
+--- File_101_001_00 ---
+Hotel Pamphlet
+
+--- File_101_001_01 ---
+The Wrenwood Hotel has been welcoming
+guests from all walks of life since opening
+its doors in 1928.
+
+Experience the warm embrace of nearly
+a century's worth of history along with
+Wrenwood's time-honored traditions.
+
+--- File_101_002_00 ---
+Notice of Closure
+
+--- File_101_002_01 ---
+To all employees,
+
+Following the recent incident, management
+has been working hard to restore public trust.
+
+Unfortunately, due to the extent of the damage,
+it is unclear if it will be possible to reopen.
+Consequently, it is with great regret that we
+must announce the official closure of
+The Wrenwood Hotel.
+
+We apologize greatly for the impact this may
+have on you and your families, and wish to
+extend our heartfelt gratitude for the support
+and hard work you have brought to the
+long-standing business.
+
+--- File_101_003_00 ---
+Investigation Report
+
+--- File_101_003_01 ---
+Submitted by:
+FBI Special Agent, Kyle Eames
+
+--- File_101_003_02 ---
+Overview:
+On September 28, 2026 at 11:20 p.m., the body
+of a man was found at an abandoned hotel
+in the midwestern city of Wrenwood.
+
+--- File_101_003_03 ---
+The body was discovered in the hotel restroom.
+Based on the level of decay, it is suspected to
+have been there for several days.
+
+--- File_101_003_04 ---
+Prior to this incident, multiple cases of
+similarly mysterious deaths have been
+reported in locations across the United States.
+
+--- File_101_003_05 ---
+H. Ramirez (59): Pronounced dead at Stoneville
+                           Hospital
+E. Wilkins (51): Pronounced dead at Hotel
+                           Dehnbar
+
+--- File_101_003_06 ---
+K. White (67): Pronounced dead at Green Oak
+                           Apartments
+M. Warren (90): Pronounced dead at Night Valley
+                           Nursing Home
+
+--- File_101_003_07 ---
+It has been confirmed that all the identified
+victims were survivors of the Raccoon City
+incident.
+
+--- File_101_003_08 ---
+The victims' bodies all had extensive black
+bruising.
+
+--- File_101_005_00 ---
+Alyssa's Journal
+
+--- File_101_005_01 ---
+October 17, 2018
+
+Work has settled down and we're heading
+to a new town the day after tomorrow.
+I'm thankful my freelance work allows me to
+work anywhere, but I'm worried about Grace.
+It's difficult for her to make friends when
+we're constantly on the move. Maybe we
+can spend a little more time in the next town.
+
+--- File_101_005_02 ---
+October 18, 2018
+
+Finished some research and stopped in
+a cafe when I noticed a hooded man.
+I could have sworn he was watching me.
+Maybe I'm just being paranoid.
+
+--- File_101_005_03 ---
+October 19, 2018
+
+I saw that hooded man again.
+He's definitely following me.
+
+We only just got here, but I think we
+should move on. I can't let anything
+happen to Grace.
+
+--- File_301_000_00 ---
+Progress Notes
+
+--- File_301_000_01 ---
+22:03 - Began blood extraction
+22:05 - Checked pulse,
+               no abnormalities
+22:11 - Administered Dexifil
+22:18 - Condition stable, ready
+               for further examination
+
+--- File_301_001_00 ---
+Note on Cardboard Box
+
+--- File_301_001_01 ---
+To Staff,
+
+I have moved some items out of the closet.
+
+The <COLOR preset="TextColor0">screwdriver</COLOR> is now in <COLOR preset="TextColor0">the toolbox in the
+nurses' station</COLOR>.
+
+The sewing kit is [text is blurred and illegible]
+
+--- File_302_000_00 ---
+Whiteboard Scrawl
+
+--- File_302_000_01 ---
+Medication Room
+
+Unauthorized personnel are not permitted
+past this point.
+
+In the case of irregularities, contact
+the lead researcher immediately.
+
+In emergencies—
+
+--- File_302_002_00 ---
+Care Center Pamphlet
+
+--- File_302_002_01 ---
+Director: Victor Gideon
+"Transforming lives through medicine."
+
+Chairman: Mitchell Bennett
+Lead Researcher: Anthony Richardson
+Security Manager: Luke Clark
+
+"Dignity of the moon, trust of the sun,
+serenity of the stars. We are partners."
+
+--- File_302_003_00 ---
+Unlocking the Organ Transport Box
+
+--- File_302_003_01 ---
+
+
+--- File_302_007_00 ---
+Lead Researcher's Message
+
+--- File_302_007_01 ---
+For my secretary,
+
+I've misplaced the key for the puzzle box
+padlock. None of the other executives
+must find out.
+
+I need you to locate it discreetly before
+next week's meeting. If you can't find it,
+get the bottle of <COLOR preset="TextColor0">corrosive</COLOR> from the
+<COLOR preset="TextColor0">conference room</COLOR> and melt the lock off.
+
+--- File_302_010_00 ---
+Folded Note
+
+--- File_302_010_01 ---
+I have to get the hell out of here, but the whole
+building is locked down. I'll need to ask the
+<COLOR preset="TextColor0">chairman</COLOR> to get his <COLOR preset="TextColor0">quartz</COLOR> for me.
+
+I just heard another scream.
+My colleagues are killing each other.
+What the fuck is going on?
+
+--- File_302_014_00 ---
+Copy of an Email to a Manager
+
+--- File_302_014_01 ---
+Subject: Personnel Change
+From: Mitchell Bennett
+
+The new hire showed promise at the dinner
+meeting last month. Have his clearance
+bumped up a level and get him set up
+to work on the project.
+
+Send the current researcher for processing
+while you're at it.
+
+--- File_302_017_00 ---
+Safe Replacements
+
+--- File_302_017_01 ---
+To all staff,
+
+We will be updating the following safes
+in the facility:
+
+<COLOR preset="TextColor0">- East wing 1F: Waiting Room</COLOR>
+<COLOR preset="TextColor0">- West wing 2F: Bar & Lounge</COLOR>
+- East wing 1F: [blurred and illegible]
+
+The remaining safe will be replaced at a later
+date.
+
+--- File_302_018_00 ---
+Blood Compound Synthesis
+
+--- File_302_018_01 ---
+The custom blood collector that
+Dr. Richardson ordered has finally
+arrived.
+
+To be honest, I was skeptical at first,
+but I'm genuinely impressed by its
+effectiveness.
+
+--- File_302_018_02 ---
+Combining infected blood with our
+experimental substances has been such
+a challenge for us, but this device makes
+it so easy!
+
+This is sure to improve the efficiency of
+our blood research and speed up analysis
+for further mutation patterns.
+
+--- File_302_019_00 ---
+Patient Medical Records
+
+--- File_302_019_01 ---
+Subject: Martin L. Case
+Symptoms: Auditory sensitivity
+
+Following an experiment with an overdose
+of Zipreval, the subject started to have
+auditory hallucinations and became
+aggressive and difficult to control.
+The subject exhibits erratic behavior
+when exposed to <COLOR preset="TextColor0">loud noises</COLOR>.
+
+--- File_302_019_02 ---
+Subject: Eileen Zimmerson
+Symptoms: Persistent vocalization and wandering
+
+The surgical removal of some cranial nerves
+resulted in a type of histrionic personality
+disorder that can only be described as
+"main character syndrome." The patient
+continues to wander around the care
+center singing.
+
+--- File_302_019_03 ---
+Subject: Selena Corey
+Symptoms: Persistent vocalization and wandering
+
+Her symptoms are more pronounced than
+Zimmerson's. She often puts on performances
+in the west wing's bar and lounge, as if she's
+competing with her rival.
+
+--- File_302_021_00 ---
+Construction Notice
+
+--- File_302_021_01 ---
+Due to aging infrastructure, construction
+on the garage will be carried out during
+the following dates.
+
+October 21-28
+
+Do not enter work area unless authorized.
+
+--- File_302_022_00 ---
+Note to the Chairman
+
+--- File_302_022_01 ---
+I suspect that we'll receive a visit from
+the DSO shortly.
+
+I want you to enact Code Six at 23:30.
+I've achieved my goal and no longer
+have any need for this place.
+
+V
+
+--- File_302_023_00 ---
+Chairman's Note
+
+--- File_302_023_01 ---
+Moon
+Sun
+Star
+Moon
+
+--- File_302_024_00 ---
+Examination Room Safe Code
+
+--- File_302_024_01 ---
+As announced in the letter regarding safe
+replacements, all contents of this safe must
+be removed by 11:30 p.m.
+
+The code is <COLOR preset="TextColor0">{0}</COLOR>
+
+Any uncollected contents will be disposed
+of by management.
+
+--- File_302_025_00 ---
+Bar & Lounge Safe Code
+
+--- File_302_025_01 ---
+You really saved my butt the other day.
+As thanks, you can take whatever you want
+from the safe.
+
+The code is <COLOR preset="TextColor0">{0}</COLOR>
+
+--- File_320_001_00 ---
+Satiety Suppression Medical Records
+
+--- File_320_001_01 ---
+Subject: Thomas K. Jackson
+Symptoms: Irregular eating patterns
+
+After a surgical procedure to suppress
+the satiety center of the brain, the subject
+experienced an increase in appetite
+and weight gain.
+
+He began to ingest everything he could get
+his hands on, including infusion pumps
+and pacemakers.
+
+--- File_320_001_02 ---
+Subject: Timothy B. Jackson
+Symptoms: Irregular eating patterns
+
+Exhibits the same symptoms as his brother,
+with a particularly strong fixation on human
+flesh. Must be treated with extreme caution
+as he becomes violently agitated if not
+constantly eating.
+
+--- File_320_002_00 ---
+Special Directive for Raccoon City
+
+--- File_320_002_01 ---
+To: White House Chief of Staff, <FONT 4>■■■■■■</FONT>
+From: <FONT 4>■■■■■■■■</FONT>
+Security Clearance: LEVEL 9 - TOP SECRET
+
+Raccoon City is <FONT 4>■■■■■■■■■■■■</FONT>
+<FONT 4>■■■■■■■■■■■■■■■■■■■■</FONT>
+<FONT 4>■■■■■■■■■■■■</FONT>.
+
+<FONT 4>■■■■■■■■■■■■■■■
+■■■■■■</FONT> for the sake of Elpis.
+
+Commence <FONT 4>■■■■■■■■■■■■■■■■■</FONT>.
+
+--- File_303_001_00 ---
+Technician's Note
+
+--- File_303_001_01 ---
+Taking the <COLOR preset="TextColor0">toolbox</COLOR> to the <COLOR preset="TextColor0">boiler room</COLOR> for repairs.
+
+The quality of blood the laboratory receives
+has gone downhill. We've been notified
+from above to take immediate action.
+
+Looks like some problem during the separation
+process is to blame. Going to do some work on it.
+
+--- File_303_002_00 ---
+Unlocking the Cells
+
+--- File_303_002_01 ---
+<COLOR preset="TextColor0">You gotta insert the three joint plugs</COLOR>
+and pull the <COLOR preset="TextColor0">left lever</COLOR> if you're crazy
+enough to open the cells.
+
+The <COLOR preset="TextColor0">joint plugs</COLOR> are currently being
+used to <COLOR preset="TextColor0">power</COLOR> other areas.
+
+<COLOR preset="TextColor0">I've marked their locations on the map</COLOR>.
+Removing them will cut the electricity,
+so you better be extra sure before
+you start messing around with them.
+
+--- File_303_004_00 ---
+Operation to Eliminate "The Girl"
+
+--- File_303_004_01 ---
+To all employees,
+
+<COLOR preset="TextColor0">The Girl</COLOR> is currently occupying the basement.
+We plan to corner her by <COLOR preset="TextColor0">taking advantage
+of the subject's intolerance to light</COLOR> and will
+place high-intensity ultraviolet lamps
+throughout the area.
+
+Once this is complete, we will begin the operation
+to eliminate the subject.
+
+Prepare your weapons and be on standby.
+
+--- File_303_005_00 ---
+Security Guard's Report
+
+--- File_303_005_01 ---
+The 12 subjects we were provided with were
+confirmed infected and reduced to blood
+at the processing area.
+
+We'll be able to increase the turnover rate even
+more thanks to the increased stock from our
+supply chain.
+
+We have already started processing today's
+additions.
+
+--- File_303_006_00 ---
+Staff Member's Last Words
+
+--- File_303_006_01 ---
+Everyone's dead.
+The plan went to shit.
+
+I'm the only one left in this godforsaken place.
+I tried to escape, but what's the point.
+
+I can still see my colleagues being eaten alive.
+Like an endless loop playing over and over
+in my head. Let it stop.
+Please.
+
+--- File_445_000_00 ---
+New Researcher's Notebook
+
+--- File_445_000_01 ---
+Today was unbelievable.
+I somehow got invited to the renowned
+Ozwell E. Spencer's lab.
+
+I heard rumors about the place,
+but to think ARK has been underneath
+me this entire time!
+
+--- File_445_000_02 ---
+I was given a quick tour of the attached
+orphanage too. The children there really
+creeped me out—they all have nasty
+surgical scars across their heads,
+and if you meet their gaze, they'll
+greet you with this unsettling giggle.
+
+Apparently, they are used for human
+experiments. The whole thing gives
+me goosebumps.
+
+To have built a place like this, Spencer
+must've been more unhinged than
+any of us imagined.
+
+--- File_445_000_03 ---
+Sensational.
+The prospect of being able to freely
+experiment on those kids sends
+shivers of anticipation throughout
+my entire body. It's all so exciting!
+
+For now, I'll start by making the rounds
+at the orphanage tonight. It seems like
+the newbie always gets stuck with the
+boring jobs. Hopefully I can wrap up the
+tedious bits quickly so I can prepare
+for the real fun tomorrow.
+
+--- File_420_000_00 ---
+Orders for the Engineer Corps
+
+--- File_420_000_01 ---
+The <COLOR preset="TextColor0">detonator</COLOR> requires <COLOR preset="TextColor0">three parts</COLOR>.
+
+<COLOR preset="TextColor0">Signal Receiver</COLOR>: East Point
+<COLOR preset="TextColor0">Distributor</COLOR>: Mid Point
+<COLOR preset="TextColor0">Relay</COLOR>: West Point
+
+Retrieve them immediately.
+
+--- File_420_000_02 ---
+We don't have much time.
+Avoid contact with the infected at all costs.
+If combat is unavoidable, deal with it quickly.
+
+Provide situational updates every 30 minutes.
+
+--- File_305_000_00 ---
+Roof Hatch Manual
+
+--- File_305_000_01 ---
+The roof hatch is operated by the <COLOR preset="TextColor0">panel outside
+the storage bay</COLOR>.
+
+Troubleshooting:
+
+If power supply errors persist, you must <COLOR preset="TextColor0">restart
+the three power distribution units in the lower
+area</COLOR>. This should reactivate the control panel
+and allow you to operate the hatch.
+
+--- File_324_001_00 ---
+Note Regarding Research Results
+
+--- File_324_001_01 ---
+Your presentation was quite impressive.
+While we are pleased to hear that the
+experiment has progressed to phase four,
+it is far from the results we expect.
+
+It has been more than twenty years since the
+establishment of this care center. We require
+clear results.
+
+As an added precaution, we have requested
+the blockade be extended to 2040. It is
+imperative we obtain Elpis before
+that deadline.
+
+--- File_304_001_00 ---
+Spencer's Research II
+
+--- File_304_001_01 ---
+Memory Transfer
+Ozwell E. Spencer
+
+Humanity suffers when the drive and experience
+of our most exceptional leaders is lost.
+The ultimate way to preserve such greatness
+is to transfer those memories to a new vessel.
+
+Just as fruit flies have the potential to pass
+on certain memories to their offspring through
+their genes, so too can the memories of
+a human donor be passed on to a recipient.
+
+The question we now face is how to harness
+this incredible potential.
+
+--- File_304_001_02 ---
+The answer lies in the medium of memory—blood.
+
+Cells within the blood contain multitudes of
+information, including factors tied to memory.
+
+Thus, since the T-Virus grants us control
+over factors within the blood, it can be
+hypothesized that harnessing those same
+elements will allow us to transfer memories
+from superior individuals.
+
+--- File_304_001_03 ---
+However, for such a procedure to succeed,
+the host must be able to withstand the toxicity
+of the mutated T-Virus strain while preserving
+their own intelligence. Sourcing viable subjects
+will be the key to future research and testing.
+
+--- File_420_002_00 ---
+Battery Storage Locations
+
+--- File_420_002_01 ---
+All staff,
+
+When a <COLOR preset="TextColor0">battery</COLOR> dies, you'll need to get
+a new one from either the <COLOR preset="TextColor0">sewage facility</COLOR>
+or the <COLOR preset="TextColor0">underground parking garage</COLOR>.
+
+--- File_324_004_00 ---
+Visitor Record
+
+--- File_324_004_01 ---
+Date: Sept. 14, 2026
+Time In: 5:10 p.m.
+Time Out: 6:35 p.m.
+
+Name: Z
+Purpose: Project review with Victor Gideon
+Notes: Patient status, preliminary research
+              findings
+
+--- File_510_000_00 ---
+Product Catalog 1 (2026)
+
+--- File_510_000_01 ---
+Code: CM-G-002 (Garmr)
+Price: $30,000,000~
+
+Product Specifications:
+Umbrella Corporation's "Cerberus" has been
+further enhanced and enlarged, resulting
+in increased combat capabilities. It can
+track and pursue targets at speeds
+exceeding 60 mph.
+
+--- File_510_000_02 ---
+Code: CM-LB-110 (Licker β2)
+Price: $14,000,000~
+
+Product Specifications:
+Originally an infection anomaly, rigorous
+experimentation revealed the key to
+activating the mutation, paving the way
+for commercialization. Product boasts
+enhanced climbing capabilities and
+possesses sharp claws and a pointed tongue.
+
+--- File_510_000_03 ---
+Code: CX-P-001 (Plant)
+Price: $100,000,000~
+
+Product Specifications:
+A prototype bioweapon developed from a viral
+plant infection found in the Arklay Mountains
+and Raccoon City.
+
+Note:
+An incident occurred during the transport
+of the experimental Plant 43 and has resulted in
+an infestation near the service entrance of ARK.
+Always exercise extreme caution when
+transporting bioweapons.
+
+--- File_420_005_00 ---
+Inventory List
+
+--- File_420_005_01 ---
+Container 01: Medical supplies, consumables
+Container 02: Motorcycle, <COLOR preset="TextColor0">repair kit</COLOR>
+Container 03: <COLOR preset="TextColor0">Sniper rifles</COLOR>
+Container 04: <COLOR preset="TextColor0">Sniper rifle attachments</COLOR>
+
+--- File_420_009_00 ---
+Engineer Corps Note
+
+--- File_420_009_01 ---
+Go grab a <COLOR preset="TextColor0">repair kit from container 02</COLOR>
+in the <COLOR preset="TextColor0">central camp</COLOR>. The signal receiver
+got all beat up during transport and
+we need to fix it.
+
+I just got reassigned and can't get it myself.
+This one's up to you, Graves.
+
+--- File_440_000_00 ---
+Record of Events
+
+--- File_440_000_01 ---
+September 25th
+We're turning the station into a temporary
+shelter due to the sudden massive outbreak.
+All police personnel have been instructed to
+make the safety of the citizens their top
+priority as we try to accommodate as many
+of them as possible.
+
+--- File_440_000_02 ---
+September 25th (addendum)
+One of the refugees attacked us in the
+middle of the night, resulting in the death of
+one officer and injuring three others. The person
+in question was quickly restrained. We believe
+this was simply a case of someone snapping
+under intense stress.
+
+--- File_440_000_03 ---
+September 26th
+A mob attacked the station today, resulting
+in a number of casualties. A few survivors were
+able to make it safely behind the emergency
+shutters, but surrounded as we are, it'll be
+hard for any of us to escape this place. We're
+not sure we can fix any of our comm equipment,
+so we remain cut off from the outside world.
+
+--- File_440_000_04 ---
+September 27th
+There was another clash on the west side of
+the station around 1 p.m. Twelve people died,
+and there is only a handful of survivors left.
+Everything is falling into disarray in here.
+
+                                                            David Ford
+
+--- File_440_001_00 ---
+Guide Pamphlet
+
+--- File_440_001_01 ---
+Welcome to Raccoon City!
+
+Did you know: While we are the home of
+pharmaceutical giant Umbrella Corporation,
+Raccoon City is a vibrant and dynamic city with
+a long, rich history of its own. In this guide,
+we'll introduce you to just a few of the more
+unusual points of interest our city has to offer.
+
+--- File_440_001_02 ---
+Raccoon City Police Station
+
+The building in the center of town wasn't
+always a police station—in fact, it used to
+be an art museum. Various features like the
+unusual clock tower and the goddess statue
+in the main hall remind us of a bygone era.
+
+--- File_440_001_03 ---
+Orphanage
+
+Just a few blocks from the police station is an
+orphanage founded and run by the Umbrella
+Corporation with the help of generous donations
+from businesses and citizens alike. The building
+is known for its stained glass window, which
+attracts visitors from around the world.
+
+--- File_410_000_00 ---
+Raccoon City Incident Newspaper
+
+--- File_410_000_01 ---
+EVACUATE IMMEDIATELY!
+
+If you are in Raccoon City, I urge you
+to evacuate now! Leave if you can!
+
+If you cannot evacuate, go to the police
+station, the nearest public facility,
+wherever you can!
+
+Take any weapon you have and hide
+in the nearest sturdy building.
+
+--- File_410_000_02 ---
+This will probably be the last paper we
+will publish. And I am the last Raccoon
+Times reporter.
+
+Thank you, dear readers, for all your
+support over the years.
+
+I urge you once more. Run.
+Find somewhere safe.
+
+Survive.
+
+--- File_320_004_00 ---
+Report on Raccoon City Syndrome
+
+--- File_320_004_01 ---
+This report outlines the current research on
+Latent Onset T-Virus Syndrome (henceforth
+referred to as Raccoon City Syndrome).
+
+Raccoon City Syndrome occurs when residual
+T-Virus within the body mutates over a prolonged
+period of time.
+
+I have yet to find an effective treatment,
+and when it manifests, the results are fatal.
+
+--- File_320_004_02 ---
+Raccoon City Syndrome appears to develop
+through the following stages.
+
+Stage 0: Dormancy
+The virus lies temporarily dormant within the host
+due to the presence of specific antibodies. As
+the virus is not completely suppressed, it begins
+to build an immunity to the antibodies over time.
+
+Stage 1: Activation
+The virus becomes active and black, bruise-like
+marks begin to appear on parts of the body.
+Mild symptoms such as general malaise
+and coughing occur.
+
+--- File_320_004_03 ---
+Stage 2: Development
+The black marks spread further across the body,
+coupled with numbness in the affected areas.
+The marks extend to the internal organs,
+sometimes leading to hematemesis.
+
+Stage 3: End-stage
+The black marks darken and spread across
+the entire body. Severe pain and intense
+fatigue make moving difficult.
+Vomiting of blood becomes uncontrollable.
+Patients at the terminal stage typically
+die within one to two hours.
+
+--- File_445_001_00 ---
+Toe Tag
+
+--- File_445_001_01 ---
+Name of Deceased: Charlotte
+Age: 7 years 2 months
+Sex: Female
+Date of Death: January 14, 1990
+Comments: Discarded due to volatile symptoms.
+
+--- File_110_000_00 ---
+Report on Victor Gideon
+
+--- File_110_000_01 ---
+Investigator
+Andrew Hughes (DSO Survey Team)
+
+Person of Interest
+Name: Victor Gideon
+Age: 54
+Gender: Male
+Nationality: USA
+
+--- File_110_000_02 ---
+I couldn't dig up much on Victor Gideon.
+What we do know is that he's a former employee
+of Umbrella and was involved in researching
+the T-Virus.
+
+After the Raccoon City Incident, he was called
+as a witness in the Umbrella trials, but the
+court couldn't track him down.
+
+--- File_110_000_03 ---
+I traced his whereabouts to the Rhodes Hill
+Chronic Care Center, a private institution
+where he acts as the director.
+
+The center is also a research facility that
+handles highly sensitive data. It's had
+a clean bill for years and avoided the
+scrutiny of any and all agencies.
+
+--- File_110_000_04 ---
+Additional Notes:
+Rhodes Hill Chronic Care Center was
+once run by the Spencer Foundation.
+
+I'd be surprised if we didn't find
+something off about the place.
+
+--- File_304_005_00 ---
+Subject 170 Record
+
+--- File_304_005_01 ---
+Extracted a 2.3-milliliter sample from the
+524.3 liters of blood collected from 115 infected.
+
+Administered to Marie.
+Henceforth registered as subject 170.
+
+--- File_304_005_02 ---
+Subject 170 exhibited increased physical
+resilience but failed to fulfill the goal
+of the experiment. The subject showed
+signs of mental instability before escaping.
+
+Confirmed for immediate disposal.
+
+--- File_304_006_00 ---
+Grace Ashcroft Blood Analysis Report
+
+--- File_304_006_01 ---
+Here are the results of the comprehensive blood
+analysis you requested. The genetic information
+matches the specified data perfectly.
+
+STR Analysis: Match
+SNP Analysis: Match
+HLA Type: Match
+mtDNA Haplogroup: Match
+SLC24A5: Match
+CYP2D6: Match
+ABCC11: Match
+TAS2R38: Match
+C = 4.2 ly
+
+--- File_302_027_00 ---
+Background Check
+
+--- File_302_027_01 ---
+Subject: Grace Ashcroft
+Period of Observation: September 9-16, 2026
+Detective: M. D. Birdie, RGT Detective Agency
+
+Summary of Investigation
+- Employed by the FBI at the Midwest Field Office.
+- Lives alone, close to her office.
+- Goes home late, often after midnight.
+- Spends her free time at home.
+- No confirmed contact with others.
+
+--- File_302_027_02 ---
+Findings
+It's difficult to get close as the target rarely
+leaves the FBI Midwest Field Office area.
+If you want to make contact without raising
+suspicion, it would be best to do so when
+she's away from home.
+
+A more detailed report and several photographs
+will be sent at a later date.
+
+--- File_302_028_00 ---
+Victor's Journal Entry
+
+--- File_302_028_01 ---
+November 30, 2004
+
+My master's research has come to fruition.
+
+And that child. She must be the final piece
+of the puzzle.
+
+I need to get my hands on the child's data.
+I'm sure this will bring me closer to his vision.
+
+--- File_302_028_02 ---
+December 8, 2004
+
+The organization was able to get me
+the child's medical records.
+
+It was lacking in certain areas, but did have
+her genetic information. I can use this.
+
+--- File_302_029_00 ---
+Spencer's Research I
+
+--- File_302_029_01 ---
+Master Spencer's Research
+
+Victor Gideon
+
+--- File_302_029_02 ---
+Mutated T-Virus Strain
+
+Herein documents a theory that uses the
+T-Virus to control memories and will.
+
+This research shall serve as a guiding light
+for all of humanity.
+
+--- File_302_029_03 ---
+In rare instances, repeated mutations of
+the T-Virus can trigger an abnormal reaction
+in an infected individual's body, leading
+to changes in their blood.
+
+The mutated strains of the T-Virus will likely
+sweep the world, and total eradication will
+be impossible.
+
+--- File_302_029_04 ---
+Those infected by the mutated T-Virus strain
+firmly retain their pre-infection habits
+and characteristics.
+
+→ Blood transformation.
+
+Within this lies the key to humanity's evolution.
+
+(The file ends here.)
+
+--- File_302_030_00 ---
+Nurse's Log
+
+--- File_302_030_01 ---
+Sept. 3
+
+As per the doctor's orders, from today I will take
+part in monitoring the progress of subject 171.
+She is emotionless and unsettling.
+This assignment fills me with unease.
+
+--- File_302_030_02 ---
+Sept. 10
+
+Subject 171 is blind and requires a lot of
+assistance. I felt sorry for her and tried
+to offer some comfort by stroking her hair,
+but as always received no reaction.
+Such an unnerving child. I just want to go
+home and shower.
+
+--- File_302_030_03 ---
+Sept. 24
+
+For some reason the security manager joined
+me today. He asked subject 171 two or three
+questions about blood, but of course a child
+wouldn't know how to respond.
+What a strange man.
+
+--- File_440_002_00 ---
+Top Secret Operation
+
+--- File_440_002_01 ---
+Champions of justice, are you ready?
+Duty calls!
+
+Provisions Specialist Neil,
+Do you have the pizza and beer at the ready?
+Make sure you've got some soda on hand too—
+in case the rookie is liver-conscious.
+
+--- File_440_002_02 ---
+Decoration Manager Elliot,
+Think you're an artist? Then show us what
+you got! Make sure you use the banner with
+the stars on it.
+
+Gift Coordinator Scott,
+Don't forget to pick up the goods from Robert's
+shop on the day. Get what Barry suggested,
+that man knows his stuff!
+
+--- File_440_002_03 ---
+One last thing!
+Make sure the chief doesn't catch wind
+of the welcome party for the new recruit.
+We wouldn't want to put young Kennedy
+in his bad books right away.
+
+Marvin
+
+--- File_440_003_00 ---
+Barry's To Do List
+
+--- File_440_003_01 ---
+- Turn in training plan for the new recruit.
+- Join Jill at the shooting range.
+- Pick the girls up from soccer.
+   (Don't be late!)
+- Find that missing library book.
+  ↑ TOP PRIORITY!
+    The librarian is about to blow a gasket.
+    Looks like the captain checked it out last.
+
+--- File_510_001_00 ---
+N0-AH Status Report
+
+--- File_510_001_01 ---
+Current facility operation status...
+
+Auto-Processing... Green
+Network System... All Areas Online
+Environmental Control Systems... Green
+Disposal Systems... Green
+
+Security: Level 2... Guards on patrol
+
+--- File_510_001_02 ---
+Area Status...
+
+- Lab Unit 01: Checking
+- Lab Unit 02: Normal
+- Restricted Area: Normal
+- PANDORA: Normal
+
+Now operating at 82%
+System access must be performed
+manually from the restricted area.
+
+--- File_510_002_00 ---
+Raccoon City Bioweapon Research - Report
+
+--- File_510_002_01 ---
+As previously stated, ARK is focused
+on bioweapon research and development,
+utilizing the unique environment of Raccoon City.
+
+In particular, experiments performed by infecting
+nearby zombies with the mutated T-Virus strain
+have yielded a great deal of empirical data.
+
+This has also proven effective against the BSAA's
+attempts to eradicate ARK.
+
+--- File_510_002_02 ---
+The development of a new bioweapon based
+on this hard data is in the final stages.
+If said bioweapon is released, we can expect
+further profit growth next fiscal year.
+
+ARK has now become a key bioweapon
+production hub for North America. It will
+continue to bring great benefits to both us
+and the United States.
+
+--- File_320_006_00 ---
+Dishwasher's Note
+
+--- File_320_006_01 ---
+Hey asshat!
+
+Heard you lost the <COLOR preset="TextColor0">pantry key</COLOR> again.
+Mr. Bigshot Chef made me crawl around
+the filthy fucking floors to find it.
+
+I finally found it in a puddle of grease,
+along with a dead rat the size of a dog,
+and gave it back to the chef.
+
+You fucking owe me!
+
+--- File_320_007_00 ---
+Basement Safe Code
+
+--- File_320_007_01 ---
+For the security manager:
+
+I put the discussed item in the safe and
+moved it to a discreet location in the
+basement, away from wandering eyes.
+
+The code is <COLOR preset="TextColor0">{0}</COLOR>
+
+--- File_410_002_00 ---
+Report on the Raccoon City Incident
+
+--- File_410_002_01 ---
+Raccoon City
+
+A city in the Midwest surrounded by nature. From
+the early to mid-90s, pharmaceutical giant
+Umbrella invested heavily in the city.
+
+However, in September 1998, the T-Virus leaked
+from Umbrella's underground laboratory, causing
+a city-wide epidemic.
+
+On October 1, the U.S. government recognized
+the severity of the situation and ordered a
+sterilization of the city. Raccoon City was
+wiped off the face of the earth and remains
+under lockdown to this day.
+
+--- File_410_002_02 ---
+Umbrella
+
+Umbrella was founded in 1968 by three people,
+one of whom was Ozwell E. Spencer.
+
+On the surface it was a successful international
+corporation, but beneath the veneer lay
+a hive of illegal research, including
+development of the T-Virus.
+
+The infamous 1998 disaster, now known as
+the "Raccoon City Incident," exposed their illicit
+deeds to the public. Umbrella went to trial
+and eventually ceased operations in 2004,
+after declaring bankruptcy.
+
+--- File_410_002_03 ---
+Ozwell E. Spencer
+
+Spencer was a founding member, and leader,
+of Umbrella. His excellent managerial skills
+helped the company grow into a major corporation.
+
+His true nature, however, was that of a monster
+who repeatedly conducted inhumane tests
+to advance his illegal viral research.
+Spencer was egotistical and ruthless in pursuit
+of his ambitions. It's believed he even took out
+the other founders of Umbrella.
+
+He passed away in 2006 at his secluded estate,
+after Umbrella went under.
+
+--- File_440_004_00 ---
+Library Card
+
+--- File_440_004_01 ---
+Title: Medicinal Benefits of Herbs
+
+E. Edward    05/02 - 05/11
+Y. Kashima   09/15 - 09/21
+R. Phillips    01/10 - 01/18
+A. Wesker    03/01 - 03/03
+
+--- File_440_005_00 ---
+Photograph
+
+--- File_440_005_01 ---
+Rising
+Rookie
+Rebecca
+
+--- File_440_006_00 ---
+R.P.D. Perimeter Report
+
+--- File_440_006_01 ---
+From our survey of the grounds, we've
+pinpointed some locations that still have
+viable resources.
+
+2F Office: The <COLOR preset="TextColor0">Armory</COLOR> has leftover supplies
+
+Gun Shop out back: Working <COLOR preset="TextColor0">shotgun</COLOR>
+and ammo
+
+Parking Garage: Advance team supplies, <COLOR preset="TextColor0">weapon
+upgrade parts</COLOR>
+
+--- File_440_009_00 ---
+Scavenger Hunt - Clue 1
+
+--- File_440_009_01 ---
+You kids have fun solving this one! - Barry
+
+--- File_440_009_02 ---
+
+
+--- File_440_010_00 ---
+Scavenger Hunt - Clue 2
+
+--- File_440_010_01 ---
+You kids have fun solving this one! - Barry
+
+--- File_440_010_02 ---
+
+
+--- File_502_000_00 ---
+Access Log: 51st Assembly Minutes
+
+--- File_502_000_01 ---
+Checking database access request...
+The following data was found.
+
+Minutes of the 51st assembly meeting
+as transcribed by AI control center N0-AH.
+
+--- File_502_000_02 ---
+The State
+We heard the "key," Grace Ashcroft, has
+finally been found. It's been 28 years since
+we occupied ARK. Are you sure she's the one?
+
+Z
+Without a doubt. There's no need to worry.
+More importantly, don't you think your
+withdrawal from the treaty is too blatant?
+
+--- File_502_000_03 ---
+The State
+It's a bluff. The United States is, and always will
+be, at the center of the world. The BSAA are fully
+under our control as well. Are there any changes
+in product supply?
+
+Z
+ARK's factory automation is constantly evolving.
+I believe that's enough for today. We can discuss
+further while we view the products.
+
+(Transcript ends here.)
+
+--- File_502_001_00 ---
+Access Log: First Assembly Minutes
+
+--- File_502_001_01 ---
+Checking database access request...
+The following data was found.
+
+Minutes of the first assembly meeting
+as transcribed by AI control center N0-AH.
+
+--- File_502_001_02 ---
+The Defense
+The leakage of the T-Virus has caused
+an epidemic. If things continue like this,
+all eyes will be focused on Raccoon City.
+
+K.D.
+There's nothing to worry about. ARK has been
+secured. Commence the missile strike.
+
+The Defense
+We are lacking presidential authorization.
+
+--- File_502_001_03 ---
+K.D.
+The organization is involved. There's no need
+for the usual procedures. The blame will fall
+solely on Spencer.
+
+The Defense
+Understood.
+
+K.D.
+With this, Umbrella will be dismantled and we'll
+seize their assets.
+
+(Transcript ends here.)
+
+--- File_502_004_00 ---
+Sterilization Chamber Safe
+
+--- File_502_004_01 ---
+Emergency supplies code
+
+<COLOR preset="TextColor0">{0}</COLOR>
+
+--- File_502_005_00 ---
+Monitor Control Room Safe
+
+--- File_502_005_01 ---
+Emergency supplies code
+
+<COLOR preset="TextColor0">{0}</COLOR>
+
+--- File_502_006_00 ---
+Alyssa's Interview Notes
+
+--- File_502_006_01 ---
+16th, 13:00, Ozwell E. Spencer
+
+- World War and Cold War. Founded Umbrella
+   out of despair. Loquacious.
+
+- T-Virus, bioweapons. Incomplete blood research.
+
+- Immortality, memory transfer, advanced breed
+   of human, mind control.
+   → All for the evolution of humanity?
+
+- Bioterrorism and human experimentation.
+   No response to questions. Doubt?
+
+- "Elpis will be their <FONT 4>■■■■■■</FONT>"
+   → Elpis? Look it up later.
+
+--- File_502_006_02 ---
+Impressions:
+
+More rational than expected. A "pure" scientist.
+An idealist.
+→ That purity was the origin of madness?
+→ A twisted genius at his core.
+
+Some hesitation in his speech.
+Is he hiding something? Anger? Regret?
+
+--- File_502_007_00 ---
+Letter from Patrick
+
+--- File_502_007_01 ---
+Ms. Alyssa Ashcroft,
+I hope this letter finds you in good health.
+My name is Patrick, and I am writing to you
+as the butler of Ozwell E. Spencer.
+Perhaps you remember me.
+
+I'd like to extend my gratitude once more to you
+for taking the time to interview Master Ozwell.
+I am writing to you today to inform you
+of his last will and testament.
+
+--- File_502_007_02 ---
+In his later years, my master was often in a state
+of unrest and his speech was somewhat jumbled.
+As such, his last will and testament was quite
+unintelligible aside from the following passage.
+
+I would appreciate if you could read it carefully.
+Kindly respond at your earliest convenience.
+
+Below follows an excerpt from the will.
+
+--- File_502_007_03 ---
+I designate Alyssa Ashcroft as the guardian
+of my adopted daughter, Grace.
+She will be safe in her care.
+
+Ozwell E. Spencer
+
+--- File_302_032_00 ---
+Lead Researcher's Picture 1
+
+--- File_302_032_01 ---
+
+
+--- File_302_033_00 ---
+Lead Researcher's Picture 2
+
+--- File_302_033_01 ---
+Artificial Organ Transplantation Experiment Team
+
+--- File_302_033_02 ---
+
+
+--- File_302_034_00 ---
+Lead Researcher's Picture 3
+
+--- File_302_034_01 ---
+In the Chairman's Office with Mitchell Bennett
+
+--- File_302_034_02 ---
+
+
+--- File_302_035_00 ---
+Double Mutation
+
+--- File_302_035_01 ---
+There have been a number of cases where corpses
+infected with the mutated T-Virus strain have
+exhibited rapid tissue regeneration and sudden
+violent behavior.
+
+Analysis of the enlarged tumor that formed on
+the heads of these patients revealed a sudden
+change in red blood cell patterns consistent
+with the pattern found in urine tests.
+This additional mutation is considered a side
+effect of the mutated T-Virus strain.
+
+We have named those with double mutation
+symptoms <COLOR preset="TextColor0">"Blister Heads."</COLOR>
+
+--- File_302_035_02 ---
+In rare cases, the tumor was observed to spread
+from the head across the entire body.
+
+If the abscesses covering these individuals burst,
+the fluids they expel will induce double mutation
+in nearby infected.
+
+<COLOR preset="TextColor0">Hemolytic poison</COLOR> has proven effective at
+preventing double mutation, otherwise
+<COLOR preset="TextColor0">the head must be completely destroyed</COLOR>.
+Always exercise extreme caution when
+handling infected corpses.
+
+--- File_302_039_00 ---
+Disposal Team Report
+
+--- File_302_039_01 ---
+Assignment: Evidence Erasure
+Report Date: Oct. 20, 2018, 6:42 a.m.
+
+A retrieval mission was conducted shortly
+after 1:30 a.m. at the Wrenwood Hotel.
+
+We were dispatched soon after to dispose
+of any evidence.
+
+--- File_302_039_02 ---
+All witnesses at the hotel had already
+been taken care of.
+
+The body of the assassin that was sent
+was also destroyed. We had a stroke of
+luck with that fire. As they say, the best
+place to hide a leaf is in a forest.
+
+This incident will likely be ruled an act of
+arson and homicide by some nutcase.
+
+Any evidence linking us to the scene is gone.
+
+--- File_445_002_00 ---
+Series 60 Results
+
+--- File_445_002_01 ---
+Though the Series 60 possesses recombinant
+DNA, increasing the volume of Spencer's injected
+plasma did not result in successful memory
+transfer. Mental abnormalities were developed.
+
+We will perform the next medical procedure
+and progress to the final phase.
+
+--- File_445_002_02 ---
+However, after adjusting the viral load
+in the blood of Series 70 subject "Chloe,"
+improved signs of stability were observed.
+
+We will continue to monitor her progress.
+
+--- File_510_003_00 ---
+Product Catalog 2 (2026)
+
+--- File_510_003_01 ---
+Code: CM-T-501 (Tyrant)
+Price: $120,000,000~
+
+Product Specifications:
+A humanoid bioweapon with exceptional
+combat capabilities.
+
+It can execute simple commands, such as tracking
+and eliminating targets, and comes with a coat
+as standard, for effective human disguise.
+
+--- File_510_003_02 ---
+Code: CM-NE-γ-001 (Nemesis-γ) 
+Price: Negotiable
+
+Product Specifications:
+Based on the Umbrella Corporation's parasitic
+"NE-α," this mass-produced model focuses on
+cost reduction and performance enhancement.
+Repeated improvements have resulted in a
+significant boost to physical ability and
+recovery, regardless of the host's durability.
+
+--- File_999_000_00 ---
+Grace's Report
+
+--- File_999_000_01 ---
+The Truth Behind Raccoon City
+
+--- File_999_000_02 ---
+Introduction
+
+--- File_999_000_03 ---
+In 1998, Raccoon City was devastated by
+a massive outbreak caused by a viral leak
+from the pharmaceutical giant, Umbrella.
+
+The United States government responded by
+launching a missile strike to wipe out the
+infected, and erected a blockade to seal off
+the city.
+
+In 2004, following a court trial, the Umbrella
+Corporation declared bankruptcy. A complete
+account of the events was never released.
+
+--- File_999_000_04 ---
+However, in October 2026, it was discovered that
+the city had been used as a hub for the production
+and trafficking of bioweapons.
+
+This report reveals that the established narrative
+of the Raccoon City Incident was falsified and
+elucidates newly discovered truths surrounding
+the incident.
+
+--- File_999_000_05 ---
+1968
+
+--- File_999_000_06 ---
+To properly understand the truth, we must first
+go back to the beginning of it all.
+
+In 1968, Ozwell E. Spencer, James Marcus,
+and Edward Ashford founded the Umbrella
+Corporation.
+
+Having witnessed the horrors of the Second World
+War and the dread of the Cold War, Spencer felt
+a sense of despair at watching the world repeat
+the same mistakes. He felt it was his duty to
+bring about a change to humanity.
+
+--- File_999_000_07 ---
+As stated in court records following the Raccoon
+City incident, his ultimate goal was to bring
+about the "viral evolution of the human race."
+
+Thus, he relentlessly pursued virus research
+through illegal and inhumane means. This fact
+remains unchanged.
+
+--- File_999_000_08 ---
+1970s
+
+--- File_999_000_09 ---
+From the very beginning of Umbrella, the company
+faced rapid change and intense internal strife—
+most notably, the sharp ideological divide
+between Spencer and Marcus.
+
+According to court records, this conflict was
+cited as the primary factor leading to the
+unusual developments which followed.
+
+In 1978, James Marcus developed the T-Virus,
+which would go on to become the cause of
+the subsequent outbreak.
+
+--- File_999_000_10 ---
+1980s
+
+--- File_999_000_11 ---
+This is a crucial period for understanding the
+basis of what caused the incident and the
+truth behind the entire case.
+
+--- File_999_000_12 ---
+Spencer's Influence and ARK's Establishment
+
+--- File_999_000_13 ---
+Spencer used internal politics to have Marcus
+demoted, absorbing T-Virus research into a facility
+under his own control. From then on, Umbrella
+began to actively research and develop bioweapons
+under Spencer's leadership.
+
+The underground facility known as ARK, which
+was discovered during recent events, originally
+served as the administrative center of
+Umbrella's research.
+
+Several documents outlining Spencer's plan for
+ARK have also been discovered.
+
+--- File_999_000_14 ---
+Excerpt from confiscated records:
+"Long-Term Strategic Review 1980_0422"
+
+ARK-centric Integrated Research Roadmap
+
+Step 1: Concentrated investment into Wesker's
+               plan and the T-Virus
+Step 2: Establishment of ARK as a central
+               command center
+Step 3: Development of Elpis
+Step 4: Memory transfer and forced evolution
+
+--- File_999_000_15 ---
+This is the first recorded instance
+of a significant keyword—Elpis.
+
+--- File_999_000_16 ---
+The Connections' Involvement
+
+--- File_999_000_17 ---
+The following documents regarding Marcus'
+involvement were also discovered.
+
+--- File_999_000_18 ---
+Excerpt from confiscated records:
+"Receipt of Donation 1986_0138"
+
+Recipient: James Marcus
+Sender: F Foundation
+
+Amount: $30,000,000
+
+--- File_999_000_19 ---
+This document shows a suspicious flow of funds
+being channeled to Marcus.
+
+Past FBI investigations revealed that the source
+of the funds—the F Foundation—was just one
+of the puppet organizations of The Connections.
+(The F Foundation no longer exists.)
+
+--- File_999_000_20 ---
+The Connections is a criminal organization that
+various government agencies have been sounding
+the alarm against for years. This illicit group is
+at the heart of all this.
+
+Evidence suggests that The Connections sought
+involvement with Umbrella's central operations.
+
+Additional documents belonging to the protégé
+of Marcus, Brandon Bailey, have been uncovered.
+
+--- File_999_000_21 ---
+Excerpt from confiscated records:
+"Telegraph Log 1988_0996"
+
+Sender: Brandon Bailey
+Recipient: F Foundation
+
+Preparations are complete. I think it's time
+they made contact with me directly, don't you?
+I await a response.
+
+--- File_999_000_22 ---
+This indicates that Bailey took over correspondence
+with The Connections, succeeding Marcus.
+
+Bailey was rumored to be the founder of
+The Connections, but he may have only been
+a small cog in the larger machine. We now
+believe The Connections has had deep roots
+in the criminal underworld since before
+the 1980s.
+
+Much about The Connections remains unknown.
+
+--- File_999_000_23 ---
+Spencer's Purge
+
+--- File_999_000_24 ---
+In order for Spencer to obtain complete control
+over Umbrella, he used force to deal with any
+internal opposition and influential adversaries.
+
+A list of these individuals, seemingly prepared
+by an associate of Spencer's, was recently
+discovered.
+
+--- File_999_000_25 ---
+Excerpt from confiscated records:
+"Reevaluation List"
+
+Following the CEO's reevaluation protocol,
+measures will be taken against these individuals:
+
+- Cheryl Moore
+- Michael Kramer
+- James Marcus
+.........
+[OMITTED]
+
+--- File_999_000_27 ---
+1990s
+
+--- File_999_000_28 ---
+During this period, Umbrella continued to grow
+and expand through ties with the government.
+The organization became so large that Spencer
+could no longer fully control it.
+
+Numerous accidents plagued Umbrella facilities
+around the world as a result of poor management.
+
+Furthermore, information was being leaked
+to rival organizations and The Connections due
+to moles who had infiltrated the company.
+
+--- File_999_000_29 ---
+Yet despite the circumstances, Spencer was able
+to thoroughly protect and complete his research
+at ARK. The research—Elpis.
+
+While most records regarding Elpis were lost with
+the destruction of ARK, a precious few remain.
+
+--- File_999_000_30 ---
+Excerpt from confiscated records:
+"Spencer's Message 199... [DATA MISSING]"
+
+Tricell, H.C.F., The Family, and Umbrella.
+Elpis shall bring it all to an end.
+[DATA CORRUPTED]
+
+--- File_999_000_31 ---
+The only information leaked about Elpis was
+that it had the potential to upset the military
+balance of the entire world.
+
+However, a strictly managed password known
+only to Spencer was needed to access it.
+
+--- File_999_000_32 ---
+What is Elpis?
+
+--- File_999_000_33 ---
+Elpis is a powerful antiviral drug.
+
+However, this was unknown to those who sought it.
+The Connections, and other black-market groups,
+mistakenly thought it to be a powerful bioweapon
+with the potential to control human minds.
+
+--- File_999_000_34 ---
+This confusion likely stemmed from the fierce
+competition surrounding bioweapon development.
+It was common knowledge that Spencer, the
+developer of Elpis, aimed for the evolution and
+control of humanity through viral technology.
+
+--- File_999_000_35 ---
+Completion of Elpis
+
+--- File_999_000_36 ---
+Based on data taken from the confiscated records
+and changes in Spencer's behavior, we believe
+Elpis was completed around the mid-1990s.
+
+After this period, the records show a marked
+decrease in the number of public statements
+from Spencer.
+
+A similar decrease in activity was also observed
+at the Raccoon City orphanage.
+
+Disturbingly, it is suspected that the children
+at the orphanage had long been used for
+Umbrella experimentation.
+
+--- File_999_000_37 ---
+While Spencer frequently visited the orphanage,
+records indicate he stopped in the 1990s.
+
+Furthermore, the orphanage was under the research
+jurisdiction of William Birkin in the late 90s.
+
+Birkin turned against Spencer, ultimately leading
+to the leak of the T-Virus.
+
+--- File_999_000_38 ---
+1998 - The Raccoon City Incident
+
+--- File_999_000_39 ---
+The T-Virus leaked from the Umbrella research
+facility in Raccoon City, causing an unprecedented
+outbreak. In response, the government decided
+to launch a missile strike on the city, under
+the pretense of containing the spread.
+
+However, this is where we have been misled.
+The missile strike was not launched to prevent
+the spread of infection.
+
+--- File_999_000_40 ---
+A plan was formed to disrupt the relationship
+between the government and Umbrella, and shift
+the blame for all illegal activities onto Spencer.
+
+Found records indicate that The Connections
+lobbied for the missile strike.
+
+--- File_999_000_41 ---
+Excerpts from confiscated records:
+"Access Log: First Assembly Minutes"
+
+ARK has been secured. Commence the missile strike.
+The blame will fall solely on Spencer. With this,
+Umbrella will be dismantled and we'll seize
+their assets.
+
+--- File_999_000_42 ---
+Their goal was the acquisition of Umbrella assets,
+particularly the thing they believed would disrupt
+the world's military balance—Elpis.
+
+Due to Bailey's involvement, The Connections
+were aware of Umbrella's inner workings prior
+to the Raccoon City Incident. This set them up
+to swiftly secure ARK before instructing the
+government to carry out the missile strike.
+
+--- File_999_000_43 ---
+After the Raccoon City Incident
+
+--- File_999_000_44 ---
+The Umbrella Trials
+
+--- File_999_000_45 ---
+As is well known, trials were held after the
+events of the Raccoon City Incident.
+
+Testimony from Raccoon City survivors, along
+with evidence submitted by the Global
+Pharmaceutical Consortium, demonstrated
+the scope of Umbrella's nefarious activities.
+
+--- File_999_000_46 ---
+Evidence against Spencer was presented at
+the trials by his subordinate, Albert Wesker.
+
+It is now evident that Wesker was linked to
+Tricell, which in turn had strong ties to
+The Connections.
+
+Therefore, it is highly likely there was pressure
+from the government and The Connections
+during the trials.
+
+--- File_999_000_47 ---
+In 2004, following the outcome of the trials,
+Umbrella was forced into bankruptcy.
+
+Just as The Connections and the government
+intended, Ozwell E. Spencer was held accountable
+as CEO and he disappeared from the public eye.
+
+--- File_999_000_48 ---
+Acquisition of ARK
+
+--- File_999_000_49 ---
+The Connections and the government seized
+ARK during the Raccoon City Incident.
+
+Thereafter, ARK served as a base for the research,
+development, and distribution of bioweapons.
+
+--- File_999_000_50 ---
+Documents believed to be transaction lists
+have also been seized.
+
+These list Umbrella's competitors, along with
+organizations that were previously found
+guilty of illegal activity.
+
+Unfortunately, most evidence was lost with
+the collapse of ARK. Recovery efforts continue
+but success is unlikely.
+
+--- File_999_000_51 ---
+Proliferation of Bioterrorism
+
+--- File_999_000_52 ---
+Following the Raccoon City Incident, weaponized
+viruses developed by Umbrella were leaked.
+
+Subsequently, instances of bioterrorism utilizing
+this technology spread around the globe.
+
+--- File_999_000_53 ---
+In 2013, President Adam Benford was assassinated
+in a bioterrorist attack. Intelligence agencies
+report that the president wished to reveal the
+full truth of the Raccoon City Incident.
+
+It is possible that President Benford was privy
+to the facts revealed in this report.
+
+--- File_999_000_54 ---
+Spencer's Final Years
+
+--- File_999_000_55 ---
+Remaining records about Spencer after the
+dissolution of Umbrella are scarce, but a new
+source of information has recently come to light:
+an interview conducted by Alyssa Ashcroft.
+
+Despite being responsible for countless
+atrocities, Spencer showed some signs
+of remorse in this interview.
+
+--- File_999_000_56 ---
+Having lost everything, he sought atonement.
+
+While Elpis is a powerful instrument that can
+render viral weapons inert, it also has the
+potential as a panacea to be used for good.
+
+It's possible that Spencer's true motivations
+behind Elpis were peace and redemption.
+
+--- File_999_000_57 ---
+While he remained obsessed with the evolution
+of humanity throughout his later years, most
+testimonies describe him as nothing but
+a senile old man.
+
+Spencer died in 2006 at his secluded estate.
+His true intentions behind developing Elpis
+will forever remain unknown.
+
+--- File_999_000_58 ---
+Conclusion
+
+--- File_999_000_59 ---
+As we can see from the records, the Umbrella
+Corporation's liquidation was intentionally
+orchestrated by The Connections and the
+U.S. government.
+
+Furthermore, they were involved in the illegal
+development and trafficking of bioweapons
+in Raccoon City.
+
+The extent to which past and present governments
+were involved requires further investigation.
+
+--- File_999_000_60 ---
+Much about The Connections remains shrouded
+in mystery, and most records of their involvement
+were destroyed alongside ARK.
+
+--- File_999_000_61 ---
+Countless lives have been lost.
+
+As government officials, we have a duty to pursue
+the truth. If anything, finding it will finally offer
+some closure to everyone who fell victim to
+these heinous actions.
+
+               FBI Intelligence Analyst, Grace Ashcroft
+

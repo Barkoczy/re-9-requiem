@@ -1,0 +1,600 @@
+--- TutorialList_001_Title ---
+Blood Collector
+
+--- TutorialList_001_Description_00 ---
+Use the blood collector to gather
+<COLOR preset="TextColor0">infected blood</COLOR> which can be
+harnessed to craft useful items.
+
+--- TutorialList_001_Description_01 ---
+You can increase your crafting capabilities
+by <COLOR preset="TextColor0">analyzing blood specimens
+with the laser microscope</COLOR>.
+
+--- TutorialList_002_Title ---
+Using Typewriters
+
+--- TutorialList_002_Description_00 ---
+When playing on Standard (Classic) difficulty
+or above, <COLOR preset="TextColor0">autosaves during Grace's story
+will be limited.</COLOR> Ink ribbons are required
+to save at typewriters.
+
+--- TutorialList_002_Description_01 ---
+<COLOR preset="TextColor0">Ink ribbons</COLOR> are scarce, so make sure
+to use them wisely.
+
+--- TutorialList_003_Title ---
+Weapon Shortcuts
+
+--- TutorialList_003_Description ---
+Weapons can be assigned to shortcuts
+via the Items menu. Up to six weapons
+can be assigned at once, two weapons
+in three different directions.
+
+--- TutorialList_004_Title ---
+Hemolytic Injectors
+
+--- TutorialList_004_Description_00 ---
+If you sneak up on an enemy from behind,
+you can use a hemolytic injector to take
+them out instantly—the same strategy
+can be used on staggered enemies.
+
+--- TutorialList_005_Title ---
+Custom Parts
+
+--- TutorialList_005_Description ---
+Custom parts can be utilized to enhance
+certain weapons.
+
+Select custom parts via the Items menu
+to attach them to a compatible weapon.
+
+--- TutorialList_008_Title ---
+Managing Credits
+
+--- TutorialList_008_Description_00 ---
+The Tactical Tracker logs your combat
+data in real time: the more enemies you
+dispatch, the more credits you earn.
+<COLOR preset="TextColor0">Credits can be used to purchase items,
+weapons, or upgrades at a supply box</COLOR>.
+
+--- TutorialList_011_Title ---
+Quick Turning
+
+--- TutorialList_011_Description ---
+Use <ICON QUICK_TURN> to perform a quick turn.
+
+--- TutorialList_012_Title ---
+Parrying
+
+--- TutorialList_012_Description_00 ---
+You can parry certain enemy attacks
+with <ICON GUARD>. But be careful, you can't
+parry with a blunt hatchet.
+
+--- TutorialList_012_Description_01 ---
+Time it just right, and you can perform
+a perfect parry that will stagger
+your enemies.
+
+--- TutorialList_013_Title ---
+Sharpening the Hatchet
+
+--- TutorialList_013_Description ---
+Stay sharp. If the hatchet's durability
+reaches zero, the blade will dull and
+become unusable.
+Use <ICON SHARPEN> or <ICON MELEE_WEAPON> (when blunt)
+to regain the edge in battle.
+
+--- TutorialList_014_Title ---
+Close Combat Attacks
+
+--- TutorialList_014_Description ---
+While wielding the hatchet, you can
+use <ICON MELEE_WEAPON> to perform close combat
+attacks. You can perform a more
+powerful attack with <ICON GUARD_ATTACK>.
+
+--- TutorialList_015_Title ---
+The Map
+
+--- TutorialList_015_Description ---
+View the map with <ICON SUBMENU> to confirm your current
+position, destination, and item locations.
+
+--- TutorialList_017_Title ---
+Restoring Health
+
+--- TutorialList_017_Description ---
+Use green herbs or med injectors to restore
+health. Green herbs aren't as potent on
+their own, so try using them in crafting
+to increase their healing properties.
+
+--- TutorialList_018_Title ---
+Melee Attacks
+
+--- TutorialList_018_Description_00 ---
+Attacking an enemy's head or legs will stagger
+them. While staggered, you can knock them
+back with a melee attack using <ICON INTERACT_MARTIAL_ARTS>.
+Use this tactic to your advantage to
+knock back multiple nearby enemies.
+
+--- TutorialList_018_Description_01 ---
+Knock an enemy onto the ground or into
+a wall with a melee attack, and you'll
+have a short window of time to perform
+a finishing attack with <ICON INTERACT_MELEE_WEAPON>.
+
+--- TutorialList_019_Title ---
+Managing Items
+
+--- TutorialList_019_Description ---
+Item management is key to survival. Avoid
+throwing items away by storing items in
+the item box or utilizing a hip pouch to
+increase your carrying capacity.
+
+--- TutorialList_020_Title ---
+Selling Weapons
+
+--- TutorialList_020_Description ---
+Weapons that don't fit into your attaché
+case can be sold at the supply box.
+They can be bought back for the same
+amount, so just consider them on hold
+for safekeeping.
+
+--- TutorialList_021_Title ---
+The Items Menu
+
+--- TutorialList_021_Description ---
+You can check your acquired items from
+the Items menu and examine them for
+more details.
+
+--- TutorialList_022_Title ---
+Using Enemy Weapons
+
+--- TutorialList_022_Description ---
+Enemy weapons can be picked up and thrown
+at other enemies to stagger them, but only
+once a target is in range.
+
+--- TutorialList_023_Title ---
+Light-Sensitive Zombies
+
+--- TutorialList_023_Description ---
+Among the infected, there are those which
+exhibit an aversion to light. They will
+compulsively turn off any lights around
+them, so use this to lure them where you
+want them.
+
+--- TutorialList_024_Title ---
+Sound-Sensitive Zombies
+
+--- TutorialList_024_Description ---
+Certain infected are extremely sensitive
+to sound, and will fly into a rage when they
+hear loud noises. But since they will attack
+the source of sound indiscriminately, they
+may even attack other infected.
+
+--- TutorialList_025_Title ---
+Antique Coins
+
+--- TutorialList_025_Description ---
+Antique coins can be exchanged
+for rare items in the parlor.
+
+--- TutorialList_026_Title ---
+Knife Combat
+
+--- TutorialList_026_Description_00 ---
+While wielding knives, you can slash at
+an enemy with <ICON MELEE_WEAPON>, or perform a quick thrust
+with <ICON GUARD_ATTACK>.
+
+--- TutorialList_026_Description_01 ---
+When in doubt, it's always good to have
+a knife on hand. Knives can be used
+to escape when an enemy catches you
+in its grasp—but you won't be able to
+get your knife back until you defeat it.
+
+--- TutorialList_027_Title ---
+Stealth Kills
+
+--- TutorialList_027_Description ---
+Use the hatchet to execute unsuspecting
+enemies from behind.
+
+--- TutorialList_028_Title ---
+Blister Head Mutation
+
+--- TutorialList_028_Description_00 ---
+Infected enemies that have been put down once
+may mutate and rise again. This mutation
+causes abnormal growth, starting at the head.
+As such, they have been given the name
+"Blister Heads."
+
+--- TutorialList_028_Description_01 ---
+There are two sure-fire ways to prevent
+the infected from mutating into Blister
+Heads: destroy their heads in battle or
+use a hemolytic injector to break down
+their remains.
+
+--- TutorialList_030_Title ---
+Item Check Marks
+
+--- TutorialList_030_Description ---
+Items with check marks have served
+their purpose. You can discard them
+to free up space in your inventory.
+
+--- TutorialList_031_Title ---
+Blister Borne
+
+--- TutorialList_031_Description_00 ---
+The only way to defeat the large, mutated
+Blister Borne is by destroying the tumors
+covering its body.
+
+--- TutorialList_031_Description_01 ---
+When a tumor bursts, it'll cause all
+the surrounding zombies to mutate.
+Either burst the tumors where there are
+no other zombies, or destroy the heads
+of the zombies before they can change.
+
+--- TutorialList_032_Title ---
+Elite Guards
+
+--- TutorialList_032_Description ---
+The elite guards won't hold back if
+they spot you. Stay hidden and watch
+your opponents' movements carefully.
+
+--- TutorialList_033_Title ---
+The Commander
+
+--- TutorialList_033_Description ---
+Novice tactics will have little effect
+against the highly-trained commander.
+Use parries and powerful attacks to make
+yourself an opening.
+
+--- TutorialList_034_Title ---
+Licker β2
+
+--- TutorialList_034_Description ---
+Since β2 type lickers cannot see, they
+hone in on their prey using sound alone.
+Watch your step and try not to make too
+much noise...or you might end up on
+the business end of one of their tongues.
+
+--- TutorialList_035_Title ---
+Leon's Coughing Fits
+
+--- TutorialList_035_Description ---
+Leon is reaching his limit. Sudden bouts
+of coughing and blurred vision will cause
+him to falter. He can only wait for these
+effects to subside.
+
+--- TutorialList_038_Title ---
+Charms (Leon)
+
+--- TutorialList_038_Description ---
+You can equip a charm to your weapon
+to activate an effect. Equip a charm by
+selecting a weapon via the Items menu,
+then select the charm you want to equip.
+
+--- TutorialList_039_Title ---
+Second Playthrough (Leon)
+
+--- TutorialList_039_Description ---
+From the second playthrough onward, Leon can
+obtain and tune up equipment earlier.
+- The Tactical Tracker begins in his inventory.
+- Supply boxes are available in each area.
+- Equipment acquired in previous playthroughs
+can be obtained from the supply box.
+
+--- TutorialList_040_Title ---
+Camera Wobble Settings
+
+--- TutorialList_040_Description ---
+Camera wobble intensity can be adjusted
+via Options.
+
+--- TutorialList_041_Title ---
+Exploration Tips
+
+--- TutorialList_041_Description ---
+Exploration and information will be the key
+to your survival. Check the map regularly.
+
+--- TutorialList_042_Title ---
+Improving Your Aim
+
+--- TutorialList_042_Description ---
+If you aim without moving your weapon,
+the reticle will narrow. This will increase
+the power of shots and make them more
+likely to stagger enemies.
+
+--- TutorialList_043_Title ---
+Finishing Attacks (Firearms)
+
+--- TutorialList_043_Description ---
+A firearm finishing attack is a shot at
+point-blank range that lets you instantly
+take down an enemy with low health.
+
+--- TutorialList_045_Title ---
+The Girl
+
+--- TutorialList_045_Description ---
+The Girl detests light. If you hear
+her coming, get to a bright room.
+
+--- TutorialList_046_Title ---
+Clearing the Path
+
+--- TutorialList_046_Description ---
+You need to take down enough enemies to clear
+an escape route. Determine which enemies pose
+the most trouble.
+
+--- TutorialList_047_Title ---
+Targeting Attacks
+
+--- TutorialList_047_Description ---
+Aim for the head or legs to stagger an enemy.
+Once staggered, you can send them flying
+using a melee attack with <ICON INTERACT_MARTIAL_ARTS>.
+
+--- TutorialList_048_Title ---
+Higher Blood Yields
+
+--- TutorialList_048_Description ---
+An enemy's head and legs will bleed more
+than other parts after destroying them, so
+aim for those areas to collect more blood
+after taking them out.
+
+--- TutorialList_049_Title ---
+Zombies and Flashlights
+
+--- TutorialList_049_Description ---
+Zombies won't change their behavior
+in response to flashlights.
+
+--- TutorialList_050_Title ---
+Requiem
+
+--- TutorialList_050_Description ---
+Use Requiem if you find yourself in trouble.
+
+--- TutorialList_051_Title ---
+Choosing Weapons
+
+--- TutorialList_051_Description ---
+Use the right weapon for the situation.
+Shotguns are great for close range
+attacks with high firepower.
+
+--- TutorialList_052_Title ---
+Chunks
+
+--- TutorialList_052_Description ---
+Due to the amount of cushioning fat on their
+bodies, many attacks won't hurt the Chunks.
+Aim for their heads and try to stagger them
+to give yourself an opening.
+
+--- TutorialList_053_Title ---
+Gas Canisters
+
+--- TutorialList_053_Description ---
+Shoot gas canisters to engulf the
+surrounding area in an explosion.
+
+--- TutorialList_054_Title ---
+Beware of Flying Objects
+
+--- TutorialList_054_Description ---
+Make sure to avoid flying debris. Consider
+your position carefully and quickly take
+out the zombies throwing rubble.
+
+--- TutorialList_055_Title ---
+BSAA Zombies
+
+--- TutorialList_055_Description ---
+Zombies wielding machine guns pose
+a severe threat. Once they open fire,
+find cover until they have to reload.
+
+--- TutorialList_056_Title ---
+Mortars
+
+--- TutorialList_056_Description ---
+Get under cover when the mortars start
+firing. You'll have to take out the zombie
+controlling the weapon to stop it.
+
+--- TutorialList_057_Title ---
+Breaking Glass
+
+--- TutorialList_057_Description ---
+Glass surfaces are incredibly fragile and
+require extra caution. However, shooting
+the glass out from under an enemy will
+cause them to fall through.
+
+--- TutorialList_058_Title ---
+Tyrant T-501
+
+--- TutorialList_058_Description ---
+You can't fight the Tyrant properly in tight
+spaces. Your only option is to run.
+
+--- TutorialList_060_Title ---
+Plant 43
+
+--- TutorialList_060_Description ---
+Shooting Plant 43 while its flowers are closed
+won't be very effective, so wait until they open
+to unleash your attacks.
+
+--- TutorialList_061_Title ---
+Victor (Mutated)
+
+--- TutorialList_061_Description ---
+The best defense is a good offense.
+Shoot Victor before he can blast you
+with his rocket launcher.
+
+--- TutorialList_062_Title ---
+Victor (Rampant)
+
+--- TutorialList_062_Description ---
+Victor's weak points will be exposed when
+he starts thrashing around. Aim for them
+to put an end to the fight.
+
+--- TutorialList_063_Title ---
+Bottles of Acid
+
+--- TutorialList_063_Description ---
+If you break a bottle of acid, the contents
+will disperse into the surrounding area.
+A particularly effective strategy against
+the Licker β2.
+
+--- TutorialList_066_Title ---
+Saving
+
+--- TutorialList_066_Description ---
+Use typewriters to save your progress.
+
+--- TutorialList_067_Title ---
+The Item Box
+
+--- TutorialList_067_Description ---
+There's a limit to how many items you can
+carry around, so if you don't want to leave
+anything behind, store items you don't need
+in the item box.
+
+--- TutorialList_068_Title ---
+Body Armor
+
+--- TutorialList_068_Description ---
+If you find yourself taking more damage
+than you bargained for, you might want
+to buy some body armor. Worn out body
+armor can be repaired at the supply box.
+
+--- TutorialList_069_Title ---
+Super Tyrant Weakness
+
+--- TutorialList_069_Description ---
+Even the Super Tyrant has a weakness.
+Try targeting its exposed heart.
+
+--- TutorialList_070_Title ---
+Item Crafting
+
+--- TutorialList_070_Description ---
+You can craft items by combining materials
+together via the Crafting menu, or by
+selecting the material and then "Combine"
+via the Items menu.
+
+--- TutorialList_072_Title ---
+
+
+--- TutorialList_072_Description ---
+
+
+--- TutorialList_073_Title ---
+
+
+--- TutorialList_073_Description ---
+
+
+--- TutorialList_074_Title ---
+
+
+--- TutorialList_074_Description ---
+
+
+--- TutorialList_075_Title ---
+
+
+--- TutorialList_075_Description ---
+
+
+--- TutorialList_076_Title ---
+
+
+--- TutorialList_076_Description ---
+
+
+--- TutorialList_077_Title ---
+
+
+--- TutorialList_077_Description ---
+
+
+--- TutorialList_078_Title ---
+
+
+--- TutorialList_078_Description ---
+
+
+--- TutorialList_079_Title ---
+
+
+--- TutorialList_079_Description ---
+
+
+--- TutorialList_080_Title ---
+
+
+--- TutorialList_080_Description ---
+
+
+--- TutorialList_081_Title ---
+
+
+--- TutorialList_081_Description ---
+
+
+--- TutorialList_082_Title ---
+
+
+--- TutorialList_082_Description ---
+
+
+--- TutorialList_083_Title ---
+Weapon Shortcuts
+
+--- TutorialList_083_Description ---
+Weapons can be assigned to shortcuts
+via the Items menu.
+

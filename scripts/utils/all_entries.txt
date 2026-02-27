@@ -1,0 +1,813 @@
+=== Entry 0: File_101_000_00 ===
+'Wrenwood City Guide'
+
+=== Entry 1: File_101_000_01 ===
+'Welcome to the beautiful and historic city\r\nof Wrenwood!\r\n\r\nCome soak in the nostalgia of a bygone era\r\nwith chic art galleries, classic restaurants,\r\nand plenty of stores where you can shop\r\ntill you drop.\r\n\r\nIf you want to get away from the modern hustle\r\nand bustle, Wrenwood is the place to be!'
+
+=== Entry 2: File_101_001_00 ===
+'Hotel Pamphlet'
+
+=== Entry 3: File_101_001_01 ===
+"The Wrenwood Hotel has been welcoming\r\nguests from all walks of life since opening\r\nits doors in 1928.\r\n\r\nExperience the warm embrace of nearly\r\na century's worth of history along with\r\nWrenwood's time-honored traditions."
+
+=== Entry 4: File_101_002_00 ===
+'Notice of Closure'
+
+=== Entry 5: File_101_002_01 ===
+'To all employees,\r\n\r\nFollowing the recent incident, management\r\nhas been working hard to restore public trust.\r\n\r\nUnfortunately, due to the extent of the damage,\r\nit is unclear if it will be possible to reopen.\r\nConsequently, it is with great regret that we\r\nmust announce the official closure of\r\nThe Wrenwood Hotel.\r\n\r\nWe apologize greatly for the impact this may\r\nhave on you and your families, and wish to\r\nextend our heartfelt gratitude for the support\r\nand hard work you have brought to the\r\nlong-standing business.'
+
+=== Entry 6: File_101_003_00 ===
+'Investigation Report'
+
+=== Entry 7: File_101_003_01 ===
+'Submitted by:\r\nFBI Special Agent, Kyle Eames'
+
+=== Entry 8: File_101_003_02 ===
+'Overview:\r\nOn September 28, 2026 at 11:20 p.m., the body\r\nof a man was found at an abandoned hotel\r\nin the midwestern city of Wrenwood.'
+
+=== Entry 9: File_101_003_03 ===
+'The body was discovered in the hotel restroom.\r\nBased on the level of decay, it is suspected to\r\nhave been there for several days.'
+
+=== Entry 10: File_101_003_04 ===
+'Prior to this incident, multiple cases of\r\nsimilarly mysterious deaths have been\r\nreported in locations across the United States.'
+
+=== Entry 11: File_101_003_05 ===
+'H. Ramirez (59): Pronounced dead at Stoneville\r\n                           Hospital\r\nE. Wilkins (51): Pronounced dead at Hotel\r\n                           Dehnbar'
+
+=== Entry 12: File_101_003_06 ===
+'K. White (67): Pronounced dead at Green Oak\r\n                           Apartments\r\nM. Warren (90): Pronounced dead at Night Valley\r\n                           Nursing Home'
+
+=== Entry 13: File_101_003_07 ===
+'It has been confirmed that all the identified\r\nvictims were survivors of the Raccoon City\r\nincident.'
+
+=== Entry 14: File_101_003_08 ===
+"The victims' bodies all had extensive black\r\nbruising."
+
+=== Entry 15: File_101_005_00 ===
+"Alyssa's Journal"
+
+=== Entry 16: File_101_005_01 ===
+"October 17, 2018\r\n\r\nWork has settled down and we're heading\r\nto a new town the day after tomorrow.\r\nI'm thankful my freelance work allows me to\r\nwork anywhere, but I'm worried about Grace.\r\nIt's difficult for her to make friends when\r\nwe're constantly on the move. Maybe we\r\ncan spend a little more time in the next town."
+
+=== Entry 17: File_101_005_02 ===
+"October 18, 2018\r\n\r\nFinished some research and stopped in\r\na cafe when I noticed a hooded man.\r\nI could have sworn he was watching me.\r\nMaybe I'm just being paranoid."
+
+=== Entry 18: File_101_005_03 ===
+"October 19, 2018\r\n\r\nI saw that hooded man again.\r\nHe's definitely following me.\r\n\r\nWe only just got here, but I think we\r\nshould move on. I can't let anything\r\nhappen to Grace."
+
+=== Entry 19: File_301_000_00 ===
+'Progress Notes'
+
+=== Entry 20: File_301_000_01 ===
+'22:03 - Began blood extraction\r\n22:05 - Checked pulse,\r\n               no abnormalities\r\n22:11 - Administered Dexifil\r\n22:18 - Condition stable, ready\r\n               for further examination'
+
+=== Entry 21: File_301_001_00 ===
+'Note on Cardboard Box'
+
+=== Entry 22: File_301_001_01 ===
+'To Staff,\r\n\r\nI have moved some items out of the closet.\r\n\r\nThe <COLOR preset="TextColor0">screwdriver</COLOR> is now in <COLOR preset="TextColor0">the toolbox in the\r\nnurses\' station</COLOR>.\r\n\r\nThe sewing kit is [text is blurred and illegible]'
+
+=== Entry 23: File_302_000_00 ===
+'Whiteboard Scrawl'
+
+=== Entry 24: File_302_000_01 ===
+'Medication Room\r\n\r\nUnauthorized personnel are not permitted\r\npast this point.\r\n\r\nIn the case of irregularities, contact\r\nthe lead researcher immediately.\r\n\r\nIn emergencies—'
+
+=== Entry 25: File_302_002_00 ===
+'Care Center Pamphlet'
+
+=== Entry 26: File_302_002_01 ===
+'Director: Victor Gideon\r\n"Transforming lives through medicine."\r\n\r\nChairman: Mitchell Bennett\r\nLead Researcher: Anthony Richardson\r\nSecurity Manager: Luke Clark\r\n\r\n"Dignity of the moon, trust of the sun,\r\nserenity of the stars. We are partners."'
+
+=== Entry 27: File_302_003_00 ===
+'Unlocking the Organ Transport Box'
+
+=== Entry 28: File_302_003_01 ===
+''
+
+=== Entry 29: File_302_007_00 ===
+"Lead Researcher's Message"
+
+=== Entry 30: File_302_007_01 ===
+'For my secretary,\r\n\r\nI\'ve misplaced the key for the puzzle box\r\npadlock. None of the other executives\r\nmust find out.\r\n\r\nI need you to locate it discreetly before\r\nnext week\'s meeting. If you can\'t find it,\r\nget the bottle of <COLOR preset="TextColor0">corrosive</COLOR> from the\r\n<COLOR preset="TextColor0">conference room</COLOR> and melt the lock off.'
+
+=== Entry 31: File_302_010_00 ===
+'Folded Note'
+
+=== Entry 32: File_302_010_01 ===
+'I have to get the hell out of here, but the whole\r\nbuilding is locked down. I\'ll need to ask the\r\n<COLOR preset="TextColor0">chairman</COLOR> to get his <COLOR preset="TextColor0">quartz</COLOR> for me.\r\n\r\nI just heard another scream.\r\nMy colleagues are killing each other.\r\nWhat the fuck is going on?'
+
+=== Entry 33: File_302_014_00 ===
+'Copy of an Email to a Manager'
+
+=== Entry 34: File_302_014_01 ===
+"Subject: Personnel Change\r\nFrom: Mitchell Bennett\r\n\r\nThe new hire showed promise at the dinner\r\nmeeting last month. Have his clearance\r\nbumped up a level and get him set up\r\nto work on the project.\r\n\r\nSend the current researcher for processing\r\nwhile you're at it."
+
+=== Entry 35: File_302_017_00 ===
+'Safe Replacements'
+
+=== Entry 36: File_302_017_01 ===
+'To all staff,\r\n\r\nWe will be updating the following safes\r\nin the facility:\r\n\r\n<COLOR preset="TextColor0">- East wing 1F: Waiting Room</COLOR>\r\n<COLOR preset="TextColor0">- West wing 2F: Bar & Lounge</COLOR>\r\n- East wing 1F: [blurred and illegible]\r\n\r\nThe remaining safe will be replaced at a later\r\ndate.'
+
+=== Entry 37: File_302_018_00 ===
+'Blood Compound Synthesis'
+
+=== Entry 38: File_302_018_01 ===
+"The custom blood collector that\r\nDr. Richardson ordered has finally\r\narrived.\r\n\r\nTo be honest, I was skeptical at first,\r\nbut I'm genuinely impressed by its\r\neffectiveness."
+
+=== Entry 39: File_302_018_02 ===
+'Combining infected blood with our\r\nexperimental substances has been such\r\na challenge for us, but this device makes\r\nit so easy!\r\n\r\nThis is sure to improve the efficiency of\r\nour blood research and speed up analysis\r\nfor further mutation patterns.'
+
+=== Entry 40: File_302_019_00 ===
+'Patient Medical Records'
+
+=== Entry 41: File_302_019_01 ===
+'Subject: Martin L. Case\r\nSymptoms: Auditory sensitivity\r\n\r\nFollowing an experiment with an overdose\r\nof Zipreval, the subject started to have\r\nauditory hallucinations and became\r\naggressive and difficult to control.\r\nThe subject exhibits erratic behavior\r\nwhen exposed to <COLOR preset="TextColor0">loud noises</COLOR>.'
+
+=== Entry 42: File_302_019_02 ===
+'Subject: Eileen Zimmerson\r\nSymptoms: Persistent vocalization and wandering\r\n\r\nThe surgical removal of some cranial nerves\r\nresulted in a type of histrionic personality\r\ndisorder that can only be described as\r\n"main character syndrome." The patient\r\ncontinues to wander around the care\r\ncenter singing.'
+
+=== Entry 43: File_302_019_03 ===
+"Subject: Selena Corey\r\nSymptoms: Persistent vocalization and wandering\r\n\r\nHer symptoms are more pronounced than\r\nZimmerson's. She often puts on performances\r\nin the west wing's bar and lounge, as if she's\r\ncompeting with her rival."
+
+=== Entry 44: File_302_021_00 ===
+'Construction Notice'
+
+=== Entry 45: File_302_021_01 ===
+'Due to aging infrastructure, construction\r\non the garage will be carried out during\r\nthe following dates.\r\n\r\nOctober 21-28\r\n\r\nDo not enter work area unless authorized.'
+
+=== Entry 46: File_302_022_00 ===
+'Note to the Chairman'
+
+=== Entry 47: File_302_022_01 ===
+"I suspect that we'll receive a visit from\r\nthe DSO shortly.\r\n\r\nI want you to enact Code Six at 23:30.\r\nI've achieved my goal and no longer\r\nhave any need for this place.\r\n\r\nV"
+
+=== Entry 48: File_302_023_00 ===
+"Chairman's Note"
+
+=== Entry 49: File_302_023_01 ===
+'Moon\r\nSun\r\nStar\r\nMoon'
+
+=== Entry 50: File_302_024_00 ===
+'Examination Room Safe Code'
+
+=== Entry 51: File_302_024_01 ===
+'As announced in the letter regarding safe\r\nreplacements, all contents of this safe must\r\nbe removed by 11:30 p.m.\r\n\r\nThe code is <COLOR preset="TextColor0">{0}</COLOR>\r\n\r\nAny uncollected contents will be disposed\r\nof by management.'
+
+=== Entry 52: File_302_025_00 ===
+'Bar & Lounge Safe Code'
+
+=== Entry 53: File_302_025_01 ===
+'You really saved my butt the other day.\r\nAs thanks, you can take whatever you want\r\nfrom the safe.\r\n\r\nThe code is <COLOR preset="TextColor0">{0}</COLOR>'
+
+=== Entry 54: File_320_001_00 ===
+'Satiety Suppression Medical Records'
+
+=== Entry 55: File_320_001_01 ===
+'Subject: Thomas K. Jackson\r\nSymptoms: Irregular eating patterns\r\n\r\nAfter a surgical procedure to suppress\r\nthe satiety center of the brain, the subject\r\nexperienced an increase in appetite\r\nand weight gain.\r\n\r\nHe began to ingest everything he could get\r\nhis hands on, including infusion pumps\r\nand pacemakers.'
+
+=== Entry 56: File_320_001_02 ===
+'Subject: Timothy B. Jackson\r\nSymptoms: Irregular eating patterns\r\n\r\nExhibits the same symptoms as his brother,\r\nwith a particularly strong fixation on human\r\nflesh. Must be treated with extreme caution\r\nas he becomes violently agitated if not\r\nconstantly eating.'
+
+=== Entry 57: File_320_002_00 ===
+'Special Directive for Raccoon City'
+
+=== Entry 58: File_320_002_01 ===
+'To: White House Chief of Staff, <FONT 4>■■■■■■</FONT>\r\nFrom: <FONT 4>■■■■■■■■</FONT>\r\nSecurity Clearance: LEVEL 9 - TOP SECRET\r\n\r\nRaccoon City is <FONT 4>■■■■■■■■■■■■</FONT>\r\n<FONT 4>■■■■■■■■■■■■■■■■■■■■</FONT>\r\n<FONT 4>■■■■■■■■■■■■</FONT>.\r\n\r\n<FONT 4>■■■■■■■■■■■■■■■\r\n■■■■■■</FONT> for the sake of Elpis.\r\n\r\nCommence <FONT 4>■■■■■■■■■■■■■■■■■</FONT>.'
+
+=== Entry 59: File_303_001_00 ===
+"Technician's Note"
+
+=== Entry 60: File_303_001_01 ===
+'Taking the <COLOR preset="TextColor0">toolbox</COLOR> to the <COLOR preset="TextColor0">boiler room</COLOR> for repairs.\r\n\r\nThe quality of blood the laboratory receives\r\nhas gone downhill. We\'ve been notified\r\nfrom above to take immediate action.\r\n\r\nLooks like some problem during the separation\r\nprocess is to blame. Going to do some work on it.'
+
+=== Entry 61: File_303_002_00 ===
+'Unlocking the Cells'
+
+=== Entry 62: File_303_002_01 ===
+'<COLOR preset="TextColor0">You gotta insert the three joint plugs</COLOR>\r\nand pull the <COLOR preset="TextColor0">left lever</COLOR> if you\'re crazy\r\nenough to open the cells.\r\n\r\nThe <COLOR preset="TextColor0">joint plugs</COLOR> are currently being\r\nused to <COLOR preset="TextColor0">power</COLOR> other areas.\r\n\r\n<COLOR preset="TextColor0">I\'ve marked their locations on the map</COLOR>.\r\nRemoving them will cut the electricity,\r\nso you better be extra sure before\r\nyou start messing around with them.'
+
+=== Entry 63: File_303_004_00 ===
+'Operation to Eliminate "The Girl"'
+
+=== Entry 64: File_303_004_01 ===
+'To all employees,\r\n\r\n<COLOR preset="TextColor0">The Girl</COLOR> is currently occupying the basement.\r\nWe plan to corner her by <COLOR preset="TextColor0">taking advantage\r\nof the subject\'s intolerance to light</COLOR> and will\r\nplace high-intensity ultraviolet lamps\r\nthroughout the area.\r\n\r\nOnce this is complete, we will begin the operation\r\nto eliminate the subject.\r\n\r\nPrepare your weapons and be on standby.'
+
+=== Entry 65: File_303_005_00 ===
+"Security Guard's Report"
+
+=== Entry 66: File_303_005_01 ===
+"The 12 subjects we were provided with were\r\nconfirmed infected and reduced to blood\r\nat the processing area.\r\n\r\nWe'll be able to increase the turnover rate even\r\nmore thanks to the increased stock from our\r\nsupply chain.\r\n\r\nWe have already started processing today's\r\nadditions."
+
+=== Entry 67: File_303_006_00 ===
+"Staff Member's Last Words"
+
+=== Entry 68: File_303_006_01 ===
+"Everyone's dead.\r\nThe plan went to shit.\r\n\r\nI'm the only one left in this godforsaken place.\r\nI tried to escape, but what's the point.\r\n\r\nI can still see my colleagues being eaten alive.\r\nLike an endless loop playing over and over\r\nin my head. Let it stop.\r\nPlease."
+
+=== Entry 69: File_445_000_00 ===
+"New Researcher's Notebook"
+
+=== Entry 70: File_445_000_01 ===
+"Today was unbelievable.\r\nI somehow got invited to the renowned\r\nOzwell E. Spencer's lab.\r\n\r\nI heard rumors about the place,\r\nbut to think ARK has been underneath\r\nme this entire time!"
+
+=== Entry 71: File_445_000_02 ===
+"I was given a quick tour of the attached\r\norphanage too. The children there really\r\ncreeped me out—they all have nasty\r\nsurgical scars across their heads,\r\nand if you meet their gaze, they'll\r\ngreet you with this unsettling giggle.\r\n\r\nApparently, they are used for human\r\nexperiments. The whole thing gives\r\nme goosebumps.\r\n\r\nTo have built a place like this, Spencer\r\nmust've been more unhinged than\r\nany of us imagined."
+
+=== Entry 72: File_445_000_03 ===
+"Sensational.\r\nThe prospect of being able to freely\r\nexperiment on those kids sends\r\nshivers of anticipation throughout\r\nmy entire body. It's all so exciting!\r\n\r\nFor now, I'll start by making the rounds\r\nat the orphanage tonight. It seems like\r\nthe newbie always gets stuck with the\r\nboring jobs. Hopefully I can wrap up the\r\ntedious bits quickly so I can prepare\r\nfor the real fun tomorrow."
+
+=== Entry 73: File_420_000_00 ===
+'Orders for the Engineer Corps'
+
+=== Entry 74: File_420_000_01 ===
+'The <COLOR preset="TextColor0">detonator</COLOR> requires <COLOR preset="TextColor0">three parts</COLOR>.\r\n\r\n<COLOR preset="TextColor0">Signal Receiver</COLOR>: East Point\r\n<COLOR preset="TextColor0">Distributor</COLOR>: Mid Point\r\n<COLOR preset="TextColor0">Relay</COLOR>: West Point\r\n\r\nRetrieve them immediately.'
+
+=== Entry 75: File_420_000_02 ===
+"We don't have much time.\r\nAvoid contact with the infected at all costs.\r\nIf combat is unavoidable, deal with it quickly.\r\n\r\nProvide situational updates every 30 minutes."
+
+=== Entry 76: File_305_000_00 ===
+'Roof Hatch Manual'
+
+=== Entry 77: File_305_000_01 ===
+'The roof hatch is operated by the <COLOR preset="TextColor0">panel outside\r\nthe storage bay</COLOR>.\r\n\r\nTroubleshooting:\r\n\r\nIf power supply errors persist, you must <COLOR preset="TextColor0">restart\r\nthe three power distribution units in the lower\r\narea</COLOR>. This should reactivate the control panel\r\nand allow you to operate the hatch.'
+
+=== Entry 78: File_324_001_00 ===
+'Note Regarding Research Results'
+
+=== Entry 79: File_324_001_01 ===
+'Your presentation was quite impressive.\r\nWhile we are pleased to hear that the\r\nexperiment has progressed to phase four,\r\nit is far from the results we expect.\r\n\r\nIt has been more than twenty years since the\r\nestablishment of this care center. We require\r\nclear results.\r\n\r\nAs an added precaution, we have requested\r\nthe blockade be extended to 2040. It is\r\nimperative we obtain Elpis before\r\nthat deadline.'
+
+=== Entry 80: File_304_001_00 ===
+"Spencer's Research II"
+
+=== Entry 81: File_304_001_01 ===
+'Memory Transfer\r\nOzwell E. Spencer\r\n\r\nHumanity suffers when the drive and experience\r\nof our most exceptional leaders is lost.\r\nThe ultimate way to preserve such greatness\r\nis to transfer those memories to a new vessel.\r\n\r\nJust as fruit flies have the potential to pass\r\non certain memories to their offspring through\r\ntheir genes, so too can the memories of\r\na human donor be passed on to a recipient.\r\n\r\nThe question we now face is how to harness\r\nthis incredible potential.'
+
+=== Entry 82: File_304_001_02 ===
+'The answer lies in the medium of memory—blood.\r\n\r\nCells within the blood contain multitudes of\r\ninformation, including factors tied to memory.\r\n\r\nThus, since the T-Virus grants us control\r\nover factors within the blood, it can be\r\nhypothesized that harnessing those same\r\nelements will allow us to transfer memories\r\nfrom superior individuals.'
+
+=== Entry 83: File_304_001_03 ===
+'However, for such a procedure to succeed,\r\nthe host must be able to withstand the toxicity\r\nof the mutated T-Virus strain while preserving\r\ntheir own intelligence. Sourcing viable subjects\r\nwill be the key to future research and testing.'
+
+=== Entry 84: File_420_002_00 ===
+'Battery Storage Locations'
+
+=== Entry 85: File_420_002_01 ===
+'All staff,\r\n\r\nWhen a <COLOR preset="TextColor0">battery</COLOR> dies, you\'ll need to get\r\na new one from either the <COLOR preset="TextColor0">sewage facility</COLOR>\r\nor the <COLOR preset="TextColor0">underground parking garage</COLOR>.'
+
+=== Entry 86: File_324_004_00 ===
+'Visitor Record'
+
+=== Entry 87: File_324_004_01 ===
+'Date: Sept. 14, 2026\r\nTime In: 5:10 p.m.\r\nTime Out: 6:35 p.m.\r\n\r\nName: Z\r\nPurpose: Project review with Victor Gideon\r\nNotes: Patient status, preliminary research\r\n              findings'
+
+=== Entry 88: File_510_000_00 ===
+'Product Catalog 1 (2026)'
+
+=== Entry 89: File_510_000_01 ===
+'Code: CM-G-002 (Garmr)\r\nPrice: $30,000,000~\r\n\r\nProduct Specifications:\r\nUmbrella Corporation\'s "Cerberus" has been\r\nfurther enhanced and enlarged, resulting\r\nin increased combat capabilities. It can\r\ntrack and pursue targets at speeds\r\nexceeding 60 mph.'
+
+=== Entry 90: File_510_000_02 ===
+'Code: CM-LB-110 (Licker β2)\r\nPrice: $14,000,000~\r\n\r\nProduct Specifications:\r\nOriginally an infection anomaly, rigorous\r\nexperimentation revealed the key to\r\nactivating the mutation, paving the way\r\nfor commercialization. Product boasts\r\nenhanced climbing capabilities and\r\npossesses sharp claws and a pointed tongue.'
+
+=== Entry 91: File_510_000_03 ===
+'Code: CX-P-001 (Plant)\r\nPrice: $100,000,000~\r\n\r\nProduct Specifications:\r\nA prototype bioweapon developed from a viral\r\nplant infection found in the Arklay Mountains\r\nand Raccoon City.\r\n\r\nNote:\r\nAn incident occurred during the transport\r\nof the experimental Plant 43 and has resulted in\r\nan infestation near the service entrance of ARK.\r\nAlways exercise extreme caution when\r\ntransporting bioweapons.'
+
+=== Entry 92: File_420_005_00 ===
+'Inventory List'
+
+=== Entry 93: File_420_005_01 ===
+'Container 01: Medical supplies, consumables\r\nContainer 02: Motorcycle, <COLOR preset="TextColor0">repair kit</COLOR>\r\nContainer 03: <COLOR preset="TextColor0">Sniper rifles</COLOR>\r\nContainer 04: <COLOR preset="TextColor0">Sniper rifle attachments</COLOR>'
+
+=== Entry 94: File_420_009_00 ===
+'Engineer Corps Note'
+
+=== Entry 95: File_420_009_01 ===
+'Go grab a <COLOR preset="TextColor0">repair kit from container 02</COLOR>\r\nin the <COLOR preset="TextColor0">central camp</COLOR>. The signal receiver\r\ngot all beat up during transport and\r\nwe need to fix it.\r\n\r\nI just got reassigned and can\'t get it myself.\r\nThis one\'s up to you, Graves.'
+
+=== Entry 96: File_440_000_00 ===
+'Record of Events'
+
+=== Entry 97: File_440_000_01 ===
+"September 25th\r\nWe're turning the station into a temporary\r\nshelter due to the sudden massive outbreak.\r\nAll police personnel have been instructed to\r\nmake the safety of the citizens their top\r\npriority as we try to accommodate as many\r\nof them as possible."
+
+=== Entry 98: File_440_000_02 ===
+'September 25th (addendum)\r\nOne of the refugees attacked us in the\r\nmiddle of the night, resulting in the death of\r\none officer and injuring three others. The person\r\nin question was quickly restrained. We believe\r\nthis was simply a case of someone snapping\r\nunder intense stress.'
+
+=== Entry 99: File_440_000_03 ===
+"September 26th\r\nA mob attacked the station today, resulting\r\nin a number of casualties. A few survivors were\r\nable to make it safely behind the emergency\r\nshutters, but surrounded as we are, it'll be\r\nhard for any of us to escape this place. We're\r\nnot sure we can fix any of our comm equipment,\r\nso we remain cut off from the outside world."
+
+=== Entry 100: File_440_000_04 ===
+'September 27th\r\nThere was another clash on the west side of\r\nthe station around 1 p.m. Twelve people died,\r\nand there is only a handful of survivors left.\r\nEverything is falling into disarray in here.\r\n\r\n                                                            David Ford'
+
+=== Entry 101: File_440_001_00 ===
+'Guide Pamphlet'
+
+=== Entry 102: File_440_001_01 ===
+"Welcome to Raccoon City!\r\n\r\nDid you know: While we are the home of\r\npharmaceutical giant Umbrella Corporation,\r\nRaccoon City is a vibrant and dynamic city with\r\na long, rich history of its own. In this guide,\r\nwe'll introduce you to just a few of the more\r\nunusual points of interest our city has to offer."
+
+=== Entry 103: File_440_001_02 ===
+"Raccoon City Police Station\r\n\r\nThe building in the center of town wasn't\r\nalways a police station—in fact, it used to\r\nbe an art museum. Various features like the\r\nunusual clock tower and the goddess statue\r\nin the main hall remind us of a bygone era."
+
+=== Entry 104: File_440_001_03 ===
+'Orphanage\r\n\r\nJust a few blocks from the police station is an\r\norphanage founded and run by the Umbrella\r\nCorporation with the help of generous donations\r\nfrom businesses and citizens alike. The building\r\nis known for its stained glass window, which\r\nattracts visitors from around the world.'
+
+=== Entry 105: File_410_000_00 ===
+'Raccoon City Incident Newspaper'
+
+=== Entry 106: File_410_000_01 ===
+'EVACUATE IMMEDIATELY!\r\n\r\nIf you are in Raccoon City, I urge you\r\nto evacuate now! Leave if you can!\r\n\r\nIf you cannot evacuate, go to the police\r\nstation, the nearest public facility,\r\nwherever you can!\r\n\r\nTake any weapon you have and hide\r\nin the nearest sturdy building.'
+
+=== Entry 107: File_410_000_02 ===
+'This will probably be the last paper we\r\nwill publish. And I am the last Raccoon\r\nTimes reporter.\r\n\r\nThank you, dear readers, for all your\r\nsupport over the years.\r\n\r\nI urge you once more. Run.\r\nFind somewhere safe.\r\n\r\nSurvive.'
+
+=== Entry 108: File_320_004_00 ===
+'Report on Raccoon City Syndrome'
+
+=== Entry 109: File_320_004_01 ===
+'This report outlines the current research on\r\nLatent Onset T-Virus Syndrome (henceforth\r\nreferred to as Raccoon City Syndrome).\r\n\r\nRaccoon City Syndrome occurs when residual\r\nT-Virus within the body mutates over a prolonged\r\nperiod of time.\r\n\r\nI have yet to find an effective treatment,\r\nand when it manifests, the results are fatal.'
+
+=== Entry 110: File_320_004_02 ===
+'Raccoon City Syndrome appears to develop\r\nthrough the following stages.\r\n\r\nStage 0: Dormancy\r\nThe virus lies temporarily dormant within the host\r\ndue to the presence of specific antibodies. As\r\nthe virus is not completely suppressed, it begins\r\nto build an immunity to the antibodies over time.\r\n\r\nStage 1: Activation\r\nThe virus becomes active and black, bruise-like\r\nmarks begin to appear on parts of the body.\r\nMild symptoms such as general malaise\r\nand coughing occur.'
+
+=== Entry 111: File_320_004_03 ===
+'Stage 2: Development\r\nThe black marks spread further across the body,\r\ncoupled with numbness in the affected areas.\r\nThe marks extend to the internal organs,\r\nsometimes leading to hematemesis.\r\n\r\nStage 3: End-stage\r\nThe black marks darken and spread across\r\nthe entire body. Severe pain and intense\r\nfatigue make moving difficult.\r\nVomiting of blood becomes uncontrollable.\r\nPatients at the terminal stage typically\r\ndie within one to two hours.'
+
+=== Entry 112: File_445_001_00 ===
+'Toe Tag'
+
+=== Entry 113: File_445_001_01 ===
+'Name of Deceased: Charlotte\r\nAge: 7 years 2 months\r\nSex: Female\r\nDate of Death: January 14, 1990\r\nComments: Discarded due to volatile symptoms.'
+
+=== Entry 114: File_110_000_00 ===
+'Report on Victor Gideon'
+
+=== Entry 115: File_110_000_01 ===
+'Investigator\r\nAndrew Hughes (DSO Survey Team)\r\n\r\nPerson of Interest\r\nName: Victor Gideon\r\nAge: 54\r\nGender: Male\r\nNationality: USA'
+
+=== Entry 116: File_110_000_02 ===
+"I couldn't dig up much on Victor Gideon.\r\nWhat we do know is that he's a former employee\r\nof Umbrella and was involved in researching\r\nthe T-Virus.\r\n\r\nAfter the Raccoon City Incident, he was called\r\nas a witness in the Umbrella trials, but the\r\ncourt couldn't track him down."
+
+=== Entry 117: File_110_000_03 ===
+"I traced his whereabouts to the Rhodes Hill\r\nChronic Care Center, a private institution\r\nwhere he acts as the director.\r\n\r\nThe center is also a research facility that\r\nhandles highly sensitive data. It's had\r\na clean bill for years and avoided the\r\nscrutiny of any and all agencies."
+
+=== Entry 118: File_110_000_04 ===
+"Additional Notes:\r\nRhodes Hill Chronic Care Center was\r\nonce run by the Spencer Foundation.\r\n\r\nI'd be surprised if we didn't find\r\nsomething off about the place."
+
+=== Entry 119: File_304_005_00 ===
+'Subject 170 Record'
+
+=== Entry 120: File_304_005_01 ===
+'Extracted a 2.3-milliliter sample from the\r\n524.3 liters of blood collected from 115 infected.\r\n\r\nAdministered to Marie.\r\nHenceforth registered as subject 170.'
+
+=== Entry 121: File_304_005_02 ===
+'Subject 170 exhibited increased physical\r\nresilience but failed to fulfill the goal\r\nof the experiment. The subject showed\r\nsigns of mental instability before escaping.\r\n\r\nConfirmed for immediate disposal.'
+
+=== Entry 122: File_304_006_00 ===
+'Grace Ashcroft Blood Analysis Report'
+
+=== Entry 123: File_304_006_01 ===
+'Here are the results of the comprehensive blood\r\nanalysis you requested. The genetic information\r\nmatches the specified data perfectly.\r\n\r\nSTR Analysis: Match\r\nSNP Analysis: Match\r\nHLA Type: Match\r\nmtDNA Haplogroup: Match\r\nSLC24A5: Match\r\nCYP2D6: Match\r\nABCC11: Match\r\nTAS2R38: Match\r\nC = 4.2 ly'
+
+=== Entry 124: File_302_027_00 ===
+'Background Check'
+
+=== Entry 125: File_302_027_01 ===
+'Subject: Grace Ashcroft\r\nPeriod of Observation: September 9-16, 2026\r\nDetective: M. D. Birdie, RGT Detective Agency\r\n\r\nSummary of Investigation\r\n- Employed by the FBI at the Midwest Field Office.\r\n- Lives alone, close to her office.\r\n- Goes home late, often after midnight.\r\n- Spends her free time at home.\r\n- No confirmed contact with others.'
+
+=== Entry 126: File_302_027_02 ===
+"Findings\r\nIt's difficult to get close as the target rarely\r\nleaves the FBI Midwest Field Office area.\r\nIf you want to make contact without raising\r\nsuspicion, it would be best to do so when\r\nshe's away from home.\r\n\r\nA more detailed report and several photographs\r\nwill be sent at a later date."
+
+=== Entry 127: File_302_028_00 ===
+"Victor's Journal Entry"
+
+=== Entry 128: File_302_028_01 ===
+"November 30, 2004\r\n\r\nMy master's research has come to fruition.\r\n\r\nAnd that child. She must be the final piece\r\nof the puzzle.\r\n\r\nI need to get my hands on the child's data.\r\nI'm sure this will bring me closer to his vision."
+
+=== Entry 129: File_302_028_02 ===
+"December 8, 2004\r\n\r\nThe organization was able to get me\r\nthe child's medical records.\r\n\r\nIt was lacking in certain areas, but did have\r\nher genetic information. I can use this."
+
+=== Entry 130: File_302_029_00 ===
+"Spencer's Research I"
+
+=== Entry 131: File_302_029_01 ===
+"Master Spencer's Research\r\n\r\nVictor Gideon"
+
+=== Entry 132: File_302_029_02 ===
+'Mutated T-Virus Strain\r\n\r\nHerein documents a theory that uses the\r\nT-Virus to control memories and will.\r\n\r\nThis research shall serve as a guiding light\r\nfor all of humanity.'
+
+=== Entry 133: File_302_029_03 ===
+"In rare instances, repeated mutations of\r\nthe T-Virus can trigger an abnormal reaction\r\nin an infected individual's body, leading\r\nto changes in their blood.\r\n\r\nThe mutated strains of the T-Virus will likely\r\nsweep the world, and total eradication will\r\nbe impossible."
+
+=== Entry 134: File_302_029_04 ===
+"Those infected by the mutated T-Virus strain\r\nfirmly retain their pre-infection habits\r\nand characteristics.\r\n\r\n→ Blood transformation.\r\n\r\nWithin this lies the key to humanity's evolution.\r\n\r\n(The file ends here.)"
+
+=== Entry 135: File_302_030_00 ===
+"Nurse's Log"
+
+=== Entry 136: File_302_030_01 ===
+"Sept. 3\r\n\r\nAs per the doctor's orders, from today I will take\r\npart in monitoring the progress of subject 171.\r\nShe is emotionless and unsettling.\r\nThis assignment fills me with unease."
+
+=== Entry 137: File_302_030_02 ===
+'Sept. 10\r\n\r\nSubject 171 is blind and requires a lot of\r\nassistance. I felt sorry for her and tried\r\nto offer some comfort by stroking her hair,\r\nbut as always received no reaction.\r\nSuch an unnerving child. I just want to go\r\nhome and shower.'
+
+=== Entry 138: File_302_030_03 ===
+"Sept. 24\r\n\r\nFor some reason the security manager joined\r\nme today. He asked subject 171 two or three\r\nquestions about blood, but of course a child\r\nwouldn't know how to respond.\r\nWhat a strange man."
+
+=== Entry 139: File_440_002_00 ===
+'Top Secret Operation'
+
+=== Entry 140: File_440_002_01 ===
+"Champions of justice, are you ready?\r\nDuty calls!\r\n\r\nProvisions Specialist Neil,\r\nDo you have the pizza and beer at the ready?\r\nMake sure you've got some soda on hand too—\r\nin case the rookie is liver-conscious."
+
+=== Entry 141: File_440_002_02 ===
+"Decoration Manager Elliot,\r\nThink you're an artist? Then show us what\r\nyou got! Make sure you use the banner with\r\nthe stars on it.\r\n\r\nGift Coordinator Scott,\r\nDon't forget to pick up the goods from Robert's\r\nshop on the day. Get what Barry suggested,\r\nthat man knows his stuff!"
+
+=== Entry 142: File_440_002_03 ===
+"One last thing!\r\nMake sure the chief doesn't catch wind\r\nof the welcome party for the new recruit.\r\nWe wouldn't want to put young Kennedy\r\nin his bad books right away.\r\n\r\nMarvin"
+
+=== Entry 143: File_440_003_00 ===
+"Barry's To Do List"
+
+=== Entry 144: File_440_003_01 ===
+"- Turn in training plan for the new recruit.\r\n- Join Jill at the shooting range.\r\n- Pick the girls up from soccer.\r\n   (Don't be late!)\r\n- Find that missing library book.\r\n  ↑ TOP PRIORITY!\r\n    The librarian is about to blow a gasket.\r\n    Looks like the captain checked it out last."
+
+=== Entry 145: File_510_001_00 ===
+'N0-AH Status Report'
+
+=== Entry 146: File_510_001_01 ===
+'Current facility operation status...\r\n\r\nAuto-Processing... Green\r\nNetwork System... All Areas Online\r\nEnvironmental Control Systems... Green\r\nDisposal Systems... Green\r\n\r\nSecurity: Level 2... Guards on patrol'
+
+=== Entry 147: File_510_001_02 ===
+'Area Status...\r\n\r\n- Lab Unit 01: Checking\r\n- Lab Unit 02: Normal\r\n- Restricted Area: Normal\r\n- PANDORA: Normal\r\n\r\nNow operating at 82%\r\nSystem access must be performed\r\nmanually from the restricted area.'
+
+=== Entry 148: File_510_002_00 ===
+'Raccoon City Bioweapon Research - Report'
+
+=== Entry 149: File_510_002_01 ===
+"As previously stated, ARK is focused\r\non bioweapon research and development,\r\nutilizing the unique environment of Raccoon City.\r\n\r\nIn particular, experiments performed by infecting\r\nnearby zombies with the mutated T-Virus strain\r\nhave yielded a great deal of empirical data.\r\n\r\nThis has also proven effective against the BSAA's\r\nattempts to eradicate ARK."
+
+=== Entry 150: File_510_002_02 ===
+'The development of a new bioweapon based\r\non this hard data is in the final stages.\r\nIf said bioweapon is released, we can expect\r\nfurther profit growth next fiscal year.\r\n\r\nARK has now become a key bioweapon\r\nproduction hub for North America. It will\r\ncontinue to bring great benefits to both us\r\nand the United States.'
+
+=== Entry 151: File_320_006_00 ===
+"Dishwasher's Note"
+
+=== Entry 152: File_320_006_01 ===
+'Hey asshat!\r\n\r\nHeard you lost the <COLOR preset="TextColor0">pantry key</COLOR> again.\r\nMr. Bigshot Chef made me crawl around\r\nthe filthy fucking floors to find it.\r\n\r\nI finally found it in a puddle of grease,\r\nalong with a dead rat the size of a dog,\r\nand gave it back to the chef.\r\n\r\nYou fucking owe me!'
+
+=== Entry 153: File_320_007_00 ===
+'Basement Safe Code'
+
+=== Entry 154: File_320_007_01 ===
+'For the security manager:\r\n\r\nI put the discussed item in the safe and\r\nmoved it to a discreet location in the\r\nbasement, away from wandering eyes.\r\n\r\nThe code is <COLOR preset="TextColor0">{0}</COLOR>'
+
+=== Entry 155: File_410_002_00 ===
+'Report on the Raccoon City Incident'
+
+=== Entry 156: File_410_002_01 ===
+"Raccoon City\r\n\r\nA city in the Midwest surrounded by nature. From\r\nthe early to mid-90s, pharmaceutical giant\r\nUmbrella invested heavily in the city.\r\n\r\nHowever, in September 1998, the T-Virus leaked\r\nfrom Umbrella's underground laboratory, causing\r\na city-wide epidemic.\r\n\r\nOn October 1, the U.S. government recognized\r\nthe severity of the situation and ordered a\r\nsterilization of the city. Raccoon City was\r\nwiped off the face of the earth and remains\r\nunder lockdown to this day."
+
+=== Entry 157: File_410_002_02 ===
+'Umbrella\r\n\r\nUmbrella was founded in 1968 by three people,\r\none of whom was Ozwell E. Spencer.\r\n\r\nOn the surface it was a successful international\r\ncorporation, but beneath the veneer lay\r\na hive of illegal research, including\r\ndevelopment of the T-Virus.\r\n\r\nThe infamous 1998 disaster, now known as\r\nthe "Raccoon City Incident," exposed their illicit\r\ndeeds to the public. Umbrella went to trial\r\nand eventually ceased operations in 2004,\r\nafter declaring bankruptcy.'
+
+=== Entry 158: File_410_002_03 ===
+"Ozwell E. Spencer\r\n\r\nSpencer was a founding member, and leader,\r\nof Umbrella. His excellent managerial skills\r\nhelped the company grow into a major corporation.\r\n\r\nHis true nature, however, was that of a monster\r\nwho repeatedly conducted inhumane tests\r\nto advance his illegal viral research.\r\nSpencer was egotistical and ruthless in pursuit\r\nof his ambitions. It's believed he even took out\r\nthe other founders of Umbrella.\r\n\r\nHe passed away in 2006 at his secluded estate,\r\nafter Umbrella went under."
+
+=== Entry 159: File_440_004_00 ===
+'Library Card'
+
+=== Entry 160: File_440_004_01 ===
+'Title: Medicinal Benefits of Herbs\r\n\r\nE. Edward    05/02 - 05/11\r\nY. Kashima   09/15 - 09/21\r\nR. Phillips    01/10 - 01/18\r\nA. Wesker    03/01 - 03/03'
+
+=== Entry 161: File_440_005_00 ===
+'Photograph'
+
+=== Entry 162: File_440_005_01 ===
+'Rising\r\nRookie\r\nRebecca'
+
+=== Entry 163: File_440_006_00 ===
+'R.P.D. Perimeter Report'
+
+=== Entry 164: File_440_006_01 ===
+'From our survey of the grounds, we\'ve\r\npinpointed some locations that still have\r\nviable resources.\r\n\r\n2F Office: The <COLOR preset="TextColor0">Armory</COLOR> has leftover supplies\r\n\r\nGun Shop out back: Working <COLOR preset="TextColor0">shotgun</COLOR>\r\nand ammo\r\n\r\nParking Garage: Advance team supplies, <COLOR preset="TextColor0">weapon\r\nupgrade parts</COLOR>'
+
+=== Entry 165: File_440_009_00 ===
+'Scavenger Hunt - Clue 1'
+
+=== Entry 166: File_440_009_01 ===
+'You kids have fun solving this one! - Barry'
+
+=== Entry 167: File_440_009_02 ===
+''
+
+=== Entry 168: File_440_010_00 ===
+'Scavenger Hunt - Clue 2'
+
+=== Entry 169: File_440_010_01 ===
+'You kids have fun solving this one! - Barry'
+
+=== Entry 170: File_440_010_02 ===
+''
+
+=== Entry 171: File_502_000_00 ===
+'Access Log: 51st Assembly Minutes'
+
+=== Entry 172: File_502_000_01 ===
+'Checking database access request...\r\nThe following data was found.\r\n\r\nMinutes of the 51st assembly meeting\r\nas transcribed by AI control center N0-AH.'
+
+=== Entry 173: File_502_000_02 ===
+'The State\r\nWe heard the "key," Grace Ashcroft, has\r\nfinally been found. It\'s been 28 years since\r\nwe occupied ARK. Are you sure she\'s the one?\r\n\r\nZ\r\nWithout a doubt. There\'s no need to worry.\r\nMore importantly, don\'t you think your\r\nwithdrawal from the treaty is too blatant?'
+
+=== Entry 174: File_502_000_03 ===
+"The State\r\nIt's a bluff. The United States is, and always will\r\nbe, at the center of the world. The BSAA are fully\r\nunder our control as well. Are there any changes\r\nin product supply?\r\n\r\nZ\r\nARK's factory automation is constantly evolving.\r\nI believe that's enough for today. We can discuss\r\nfurther while we view the products.\r\n\r\n(Transcript ends here.)"
+
+=== Entry 175: File_502_001_00 ===
+'Access Log: First Assembly Minutes'
+
+=== Entry 176: File_502_001_01 ===
+'Checking database access request...\r\nThe following data was found.\r\n\r\nMinutes of the first assembly meeting\r\nas transcribed by AI control center N0-AH.'
+
+=== Entry 177: File_502_001_02 ===
+"The Defense\r\nThe leakage of the T-Virus has caused\r\nan epidemic. If things continue like this,\r\nall eyes will be focused on Raccoon City.\r\n\r\nK.D.\r\nThere's nothing to worry about. ARK has been\r\nsecured. Commence the missile strike.\r\n\r\nThe Defense\r\nWe are lacking presidential authorization."
+
+=== Entry 178: File_502_001_03 ===
+"K.D.\r\nThe organization is involved. There's no need\r\nfor the usual procedures. The blame will fall\r\nsolely on Spencer.\r\n\r\nThe Defense\r\nUnderstood.\r\n\r\nK.D.\r\nWith this, Umbrella will be dismantled and we'll\r\nseize their assets.\r\n\r\n(Transcript ends here.)"
+
+=== Entry 179: File_502_004_00 ===
+'Sterilization Chamber Safe'
+
+=== Entry 180: File_502_004_01 ===
+'Emergency supplies code\r\n\r\n<COLOR preset="TextColor0">{0}</COLOR>'
+
+=== Entry 181: File_502_005_00 ===
+'Monitor Control Room Safe'
+
+=== Entry 182: File_502_005_01 ===
+'Emergency supplies code\r\n\r\n<COLOR preset="TextColor0">{0}</COLOR>'
+
+=== Entry 183: File_502_006_00 ===
+"Alyssa's Interview Notes"
+
+=== Entry 184: File_502_006_01 ===
+'16th, 13:00, Ozwell E. Spencer\r\n\r\n- World War and Cold War. Founded Umbrella\r\n   out of despair. Loquacious.\r\n\r\n- T-Virus, bioweapons. Incomplete blood research.\r\n\r\n- Immortality, memory transfer, advanced breed\r\n   of human, mind control.\r\n   → All for the evolution of humanity?\r\n\r\n- Bioterrorism and human experimentation.\r\n   No response to questions. Doubt?\r\n\r\n- "Elpis will be their <FONT 4>■■■■■■</FONT>"\r\n   → Elpis? Look it up later.'
+
+=== Entry 185: File_502_006_02 ===
+'Impressions:\r\n\r\nMore rational than expected. A "pure" scientist.\r\nAn idealist.\r\n→ That purity was the origin of madness?\r\n→ A twisted genius at his core.\r\n\r\nSome hesitation in his speech.\r\nIs he hiding something? Anger? Regret?'
+
+=== Entry 186: File_502_007_00 ===
+'Letter from Patrick'
+
+=== Entry 187: File_502_007_01 ===
+"Ms. Alyssa Ashcroft,\r\nI hope this letter finds you in good health.\r\nMy name is Patrick, and I am writing to you\r\nas the butler of Ozwell E. Spencer.\r\nPerhaps you remember me.\r\n\r\nI'd like to extend my gratitude once more to you\r\nfor taking the time to interview Master Ozwell.\r\nI am writing to you today to inform you\r\nof his last will and testament."
+
+=== Entry 188: File_502_007_02 ===
+'In his later years, my master was often in a state\r\nof unrest and his speech was somewhat jumbled.\r\nAs such, his last will and testament was quite\r\nunintelligible aside from the following passage.\r\n\r\nI would appreciate if you could read it carefully.\r\nKindly respond at your earliest convenience.\r\n\r\nBelow follows an excerpt from the will.'
+
+=== Entry 189: File_502_007_03 ===
+'I designate Alyssa Ashcroft as the guardian\r\nof my adopted daughter, Grace.\r\nShe will be safe in her care.\r\n\r\nOzwell E. Spencer'
+
+=== Entry 190: File_302_032_00 ===
+"Lead Researcher's Picture 1"
+
+=== Entry 191: File_302_032_01 ===
+''
+
+=== Entry 192: File_302_033_00 ===
+"Lead Researcher's Picture 2"
+
+=== Entry 193: File_302_033_01 ===
+'Artificial Organ Transplantation Experiment Team'
+
+=== Entry 194: File_302_033_02 ===
+''
+
+=== Entry 195: File_302_034_00 ===
+"Lead Researcher's Picture 3"
+
+=== Entry 196: File_302_034_01 ===
+"In the Chairman's Office with Mitchell Bennett"
+
+=== Entry 197: File_302_034_02 ===
+''
+
+=== Entry 198: File_302_035_00 ===
+'Double Mutation'
+
+=== Entry 199: File_302_035_01 ===
+'There have been a number of cases where corpses\r\ninfected with the mutated T-Virus strain have\r\nexhibited rapid tissue regeneration and sudden\r\nviolent behavior.\r\n\r\nAnalysis of the enlarged tumor that formed on\r\nthe heads of these patients revealed a sudden\r\nchange in red blood cell patterns consistent\r\nwith the pattern found in urine tests.\r\nThis additional mutation is considered a side\r\neffect of the mutated T-Virus strain.\r\n\r\nWe have named those with double mutation\r\nsymptoms <COLOR preset="TextColor0">"Blister Heads."</COLOR>'
+
+=== Entry 200: File_302_035_02 ===
+'In rare cases, the tumor was observed to spread\r\nfrom the head across the entire body.\r\n\r\nIf the abscesses covering these individuals burst,\r\nthe fluids they expel will induce double mutation\r\nin nearby infected.\r\n\r\n<COLOR preset="TextColor0">Hemolytic poison</COLOR> has proven effective at\r\npreventing double mutation, otherwise\r\n<COLOR preset="TextColor0">the head must be completely destroyed</COLOR>.\r\nAlways exercise extreme caution when\r\nhandling infected corpses.'
+
+=== Entry 201: File_302_039_00 ===
+'Disposal Team Report'
+
+=== Entry 202: File_302_039_01 ===
+'Assignment: Evidence Erasure\r\nReport Date: Oct. 20, 2018, 6:42 a.m.\r\n\r\nA retrieval mission was conducted shortly\r\nafter 1:30 a.m. at the Wrenwood Hotel.\r\n\r\nWe were dispatched soon after to dispose\r\nof any evidence.'
+
+=== Entry 203: File_302_039_02 ===
+'All witnesses at the hotel had already\r\nbeen taken care of.\r\n\r\nThe body of the assassin that was sent\r\nwas also destroyed. We had a stroke of\r\nluck with that fire. As they say, the best\r\nplace to hide a leaf is in a forest.\r\n\r\nThis incident will likely be ruled an act of\r\narson and homicide by some nutcase.\r\n\r\nAny evidence linking us to the scene is gone.'
+
+=== Entry 204: File_445_002_00 ===
+'Series 60 Results'
+
+=== Entry 205: File_445_002_01 ===
+"Though the Series 60 possesses recombinant\r\nDNA, increasing the volume of Spencer's injected\r\nplasma did not result in successful memory\r\ntransfer. Mental abnormalities were developed.\r\n\r\nWe will perform the next medical procedure\r\nand progress to the final phase."
+
+=== Entry 206: File_445_002_02 ===
+'However, after adjusting the viral load\r\nin the blood of Series 70 subject "Chloe,"\r\nimproved signs of stability were observed.\r\n\r\nWe will continue to monitor her progress.'
+
+=== Entry 207: File_510_003_00 ===
+'Product Catalog 2 (2026)'
+
+=== Entry 208: File_510_003_01 ===
+'Code: CM-T-501 (Tyrant)\r\nPrice: $120,000,000~\r\n\r\nProduct Specifications:\r\nA humanoid bioweapon with exceptional\r\ncombat capabilities.\r\n\r\nIt can execute simple commands, such as tracking\r\nand eliminating targets, and comes with a coat\r\nas standard, for effective human disguise.'
+
+=== Entry 209: File_510_003_02 ===
+'Code: CM-NE-γ-001 (Nemesis-γ) \r\nPrice: Negotiable\r\n\r\nProduct Specifications:\r\nBased on the Umbrella Corporation\'s parasitic\r\n"NE-α," this mass-produced model focuses on\r\ncost reduction and performance enhancement.\r\nRepeated improvements have resulted in a\r\nsignificant boost to physical ability and\r\nrecovery, regardless of the host\'s durability.'
+
+=== Entry 210: File_999_000_00 ===
+"Grace's Report"
+
+=== Entry 211: File_999_000_01 ===
+'The Truth Behind Raccoon City'
+
+=== Entry 212: File_999_000_02 ===
+'Introduction'
+
+=== Entry 213: File_999_000_03 ===
+'In 1998, Raccoon City was devastated by\r\na massive outbreak caused by a viral leak\r\nfrom the pharmaceutical giant, Umbrella.\r\n\r\nThe United States government responded by\r\nlaunching a missile strike to wipe out the\r\ninfected, and erected a blockade to seal off\r\nthe city.\r\n\r\nIn 2004, following a court trial, the Umbrella\r\nCorporation declared bankruptcy. A complete\r\naccount of the events was never released.'
+
+=== Entry 214: File_999_000_04 ===
+'However, in October 2026, it was discovered that\r\nthe city had been used as a hub for the production\r\nand trafficking of bioweapons.\r\n\r\nThis report reveals that the established narrative\r\nof the Raccoon City Incident was falsified and\r\nelucidates newly discovered truths surrounding\r\nthe incident.'
+
+=== Entry 215: File_999_000_05 ===
+'1968'
+
+=== Entry 216: File_999_000_06 ===
+'To properly understand the truth, we must first\r\ngo back to the beginning of it all.\r\n\r\nIn 1968, Ozwell E. Spencer, James Marcus,\r\nand Edward Ashford founded the Umbrella\r\nCorporation.\r\n\r\nHaving witnessed the horrors of the Second World\r\nWar and the dread of the Cold War, Spencer felt\r\na sense of despair at watching the world repeat\r\nthe same mistakes. He felt it was his duty to\r\nbring about a change to humanity.'
+
+=== Entry 217: File_999_000_07 ===
+'As stated in court records following the Raccoon\r\nCity incident, his ultimate goal was to bring\r\nabout the "viral evolution of the human race."\r\n\r\nThus, he relentlessly pursued virus research\r\nthrough illegal and inhumane means. This fact\r\nremains unchanged.'
+
+=== Entry 218: File_999_000_08 ===
+'1970s'
+
+=== Entry 219: File_999_000_09 ===
+'From the very beginning of Umbrella, the company\r\nfaced rapid change and intense internal strife—\r\nmost notably, the sharp ideological divide\r\nbetween Spencer and Marcus.\r\n\r\nAccording to court records, this conflict was\r\ncited as the primary factor leading to the\r\nunusual developments which followed.\r\n\r\nIn 1978, James Marcus developed the T-Virus,\r\nwhich would go on to become the cause of\r\nthe subsequent outbreak.'
+
+=== Entry 220: File_999_000_10 ===
+'1980s'
+
+=== Entry 221: File_999_000_11 ===
+'This is a crucial period for understanding the\r\nbasis of what caused the incident and the\r\ntruth behind the entire case.'
+
+=== Entry 222: File_999_000_12 ===
+"Spencer's Influence and ARK's Establishment"
+
+=== Entry 223: File_999_000_13 ===
+"Spencer used internal politics to have Marcus\r\ndemoted, absorbing T-Virus research into a facility\r\nunder his own control. From then on, Umbrella\r\nbegan to actively research and develop bioweapons\r\nunder Spencer's leadership.\r\n\r\nThe underground facility known as ARK, which\r\nwas discovered during recent events, originally\r\nserved as the administrative center of\r\nUmbrella's research.\r\n\r\nSeveral documents outlining Spencer's plan for\r\nARK have also been discovered."
+
+=== Entry 224: File_999_000_14 ===
+'Excerpt from confiscated records:\r\n"Long-Term Strategic Review 1980_0422"\r\n\r\nARK-centric Integrated Research Roadmap\r\n\r\nStep 1: Concentrated investment into Wesker\'s\r\n               plan and the T-Virus\r\nStep 2: Establishment of ARK as a central\r\n               command center\r\nStep 3: Development of Elpis\r\nStep 4: Memory transfer and forced evolution'
+
+=== Entry 225: File_999_000_15 ===
+'This is the first recorded instance\r\nof a significant keyword—Elpis.'
+
+=== Entry 226: File_999_000_16 ===
+"The Connections' Involvement"
+
+=== Entry 227: File_999_000_17 ===
+"The following documents regarding Marcus'\r\ninvolvement were also discovered."
+
+=== Entry 228: File_999_000_18 ===
+'Excerpt from confiscated records:\r\n"Receipt of Donation 1986_0138"\r\n\r\nRecipient: James Marcus\r\nSender: F Foundation\r\n\r\nAmount: $30,000,000'
+
+=== Entry 229: File_999_000_19 ===
+'This document shows a suspicious flow of funds\r\nbeing channeled to Marcus.\r\n\r\nPast FBI investigations revealed that the source\r\nof the funds—the F Foundation—was just one\r\nof the puppet organizations of The Connections.\r\n(The F Foundation no longer exists.)'
+
+=== Entry 230: File_999_000_20 ===
+"The Connections is a criminal organization that\r\nvarious government agencies have been sounding\r\nthe alarm against for years. This illicit group is\r\nat the heart of all this.\r\n\r\nEvidence suggests that The Connections sought\r\ninvolvement with Umbrella's central operations.\r\n\r\nAdditional documents belonging to the protégé\r\nof Marcus, Brandon Bailey, have been uncovered."
+
+=== Entry 231: File_999_000_21 ===
+'Excerpt from confiscated records:\r\n"Telegraph Log 1988_0996"\r\n\r\nSender: Brandon Bailey\r\nRecipient: F Foundation\r\n\r\nPreparations are complete. I think it\'s time\r\nthey made contact with me directly, don\'t you?\r\nI await a response.'
+
+=== Entry 232: File_999_000_22 ===
+'This indicates that Bailey took over correspondence\r\nwith The Connections, succeeding Marcus.\r\n\r\nBailey was rumored to be the founder of\r\nThe Connections, but he may have only been\r\na small cog in the larger machine. We now\r\nbelieve The Connections has had deep roots\r\nin the criminal underworld since before\r\nthe 1980s.\r\n\r\nMuch about The Connections remains unknown.'
+
+=== Entry 233: File_999_000_23 ===
+"Spencer's Purge"
+
+=== Entry 234: File_999_000_24 ===
+"In order for Spencer to obtain complete control\r\nover Umbrella, he used force to deal with any\r\ninternal opposition and influential adversaries.\r\n\r\nA list of these individuals, seemingly prepared\r\nby an associate of Spencer's, was recently\r\ndiscovered."
+
+=== Entry 235: File_999_000_25 ===
+'Excerpt from confiscated records:\r\n"Reevaluation List"\r\n\r\nFollowing the CEO\'s reevaluation protocol,\r\nmeasures will be taken against these individuals:\r\n\r\n- Cheryl Moore\r\n- Michael Kramer\r\n- James Marcus\r\n.........\r\n[OMITTED]'
+
+=== Entry 236: File_999_000_27 ===
+'1990s'
+
+=== Entry 237: File_999_000_28 ===
+'During this period, Umbrella continued to grow\r\nand expand through ties with the government.\r\nThe organization became so large that Spencer\r\ncould no longer fully control it.\r\n\r\nNumerous accidents plagued Umbrella facilities\r\naround the world as a result of poor management.\r\n\r\nFurthermore, information was being leaked\r\nto rival organizations and The Connections due\r\nto moles who had infiltrated the company.'
+
+=== Entry 238: File_999_000_29 ===
+'Yet despite the circumstances, Spencer was able\r\nto thoroughly protect and complete his research\r\nat ARK. The research—Elpis.\r\n\r\nWhile most records regarding Elpis were lost with\r\nthe destruction of ARK, a precious few remain.'
+
+=== Entry 239: File_999_000_30 ===
+'Excerpt from confiscated records:\r\n"Spencer\'s Message 199... [DATA MISSING]"\r\n\r\nTricell, H.C.F., The Family, and Umbrella.\r\nElpis shall bring it all to an end.\r\n[DATA CORRUPTED]'
+
+=== Entry 240: File_999_000_31 ===
+'The only information leaked about Elpis was\r\nthat it had the potential to upset the military\r\nbalance of the entire world.\r\n\r\nHowever, a strictly managed password known\r\nonly to Spencer was needed to access it.'
+
+=== Entry 241: File_999_000_32 ===
+'What is Elpis?'
+
+=== Entry 242: File_999_000_33 ===
+'Elpis is a powerful antiviral drug.\r\n\r\nHowever, this was unknown to those who sought it.\r\nThe Connections, and other black-market groups,\r\nmistakenly thought it to be a powerful bioweapon\r\nwith the potential to control human minds.'
+
+=== Entry 243: File_999_000_34 ===
+'This confusion likely stemmed from the fierce\r\ncompetition surrounding bioweapon development.\r\nIt was common knowledge that Spencer, the\r\ndeveloper of Elpis, aimed for the evolution and\r\ncontrol of humanity through viral technology.'
+
+=== Entry 244: File_999_000_35 ===
+'Completion of Elpis'
+
+=== Entry 245: File_999_000_36 ===
+"Based on data taken from the confiscated records\r\nand changes in Spencer's behavior, we believe\r\nElpis was completed around the mid-1990s.\r\n\r\nAfter this period, the records show a marked\r\ndecrease in the number of public statements\r\nfrom Spencer.\r\n\r\nA similar decrease in activity was also observed\r\nat the Raccoon City orphanage.\r\n\r\nDisturbingly, it is suspected that the children\r\nat the orphanage had long been used for\r\nUmbrella experimentation."
+
+=== Entry 246: File_999_000_37 ===
+'While Spencer frequently visited the orphanage,\r\nrecords indicate he stopped in the 1990s.\r\n\r\nFurthermore, the orphanage was under the research\r\njurisdiction of William Birkin in the late 90s.\r\n\r\nBirkin turned against Spencer, ultimately leading\r\nto the leak of the T-Virus.'
+
+=== Entry 247: File_999_000_38 ===
+'1998 - The Raccoon City Incident'
+
+=== Entry 248: File_999_000_39 ===
+'The T-Virus leaked from the Umbrella research\r\nfacility in Raccoon City, causing an unprecedented\r\noutbreak. In response, the government decided\r\nto launch a missile strike on the city, under\r\nthe pretense of containing the spread.\r\n\r\nHowever, this is where we have been misled.\r\nThe missile strike was not launched to prevent\r\nthe spread of infection.'
+
+=== Entry 249: File_999_000_40 ===
+'A plan was formed to disrupt the relationship\r\nbetween the government and Umbrella, and shift\r\nthe blame for all illegal activities onto Spencer.\r\n\r\nFound records indicate that The Connections\r\nlobbied for the missile strike.'
+
+=== Entry 250: File_999_000_41 ===
+'Excerpts from confiscated records:\r\n"Access Log: First Assembly Minutes"\r\n\r\nARK has been secured. Commence the missile strike.\r\nThe blame will fall solely on Spencer. With this,\r\nUmbrella will be dismantled and we\'ll seize\r\ntheir assets.'
+
+=== Entry 251: File_999_000_42 ===
+"Their goal was the acquisition of Umbrella assets,\r\nparticularly the thing they believed would disrupt\r\nthe world's military balance—Elpis.\r\n\r\nDue to Bailey's involvement, The Connections\r\nwere aware of Umbrella's inner workings prior\r\nto the Raccoon City Incident. This set them up\r\nto swiftly secure ARK before instructing the\r\ngovernment to carry out the missile strike."
+
+=== Entry 252: File_999_000_43 ===
+'After the Raccoon City Incident'
+
+=== Entry 253: File_999_000_44 ===
+'The Umbrella Trials'
+
+=== Entry 254: File_999_000_45 ===
+"As is well known, trials were held after the\r\nevents of the Raccoon City Incident.\r\n\r\nTestimony from Raccoon City survivors, along\r\nwith evidence submitted by the Global\r\nPharmaceutical Consortium, demonstrated\r\nthe scope of Umbrella's nefarious activities."
+
+=== Entry 255: File_999_000_46 ===
+'Evidence against Spencer was presented at\r\nthe trials by his subordinate, Albert Wesker.\r\n\r\nIt is now evident that Wesker was linked to\r\nTricell, which in turn had strong ties to\r\nThe Connections.\r\n\r\nTherefore, it is highly likely there was pressure\r\nfrom the government and The Connections\r\nduring the trials.'
+
+=== Entry 256: File_999_000_47 ===
+'In 2004, following the outcome of the trials,\r\nUmbrella was forced into bankruptcy.\r\n\r\nJust as The Connections and the government\r\nintended, Ozwell E. Spencer was held accountable\r\nas CEO and he disappeared from the public eye.'
+
+=== Entry 257: File_999_000_48 ===
+'Acquisition of ARK'
+
+=== Entry 258: File_999_000_49 ===
+'The Connections and the government seized\r\nARK during the Raccoon City Incident.\r\n\r\nThereafter, ARK served as a base for the research,\r\ndevelopment, and distribution of bioweapons.'
+
+=== Entry 259: File_999_000_50 ===
+"Documents believed to be transaction lists\r\nhave also been seized.\r\n\r\nThese list Umbrella's competitors, along with\r\norganizations that were previously found\r\nguilty of illegal activity.\r\n\r\nUnfortunately, most evidence was lost with\r\nthe collapse of ARK. Recovery efforts continue\r\nbut success is unlikely."
+
+=== Entry 260: File_999_000_51 ===
+'Proliferation of Bioterrorism'
+
+=== Entry 261: File_999_000_52 ===
+'Following the Raccoon City Incident, weaponized\r\nviruses developed by Umbrella were leaked.\r\n\r\nSubsequently, instances of bioterrorism utilizing\r\nthis technology spread around the globe.'
+
+=== Entry 262: File_999_000_53 ===
+'In 2013, President Adam Benford was assassinated\r\nin a bioterrorist attack. Intelligence agencies\r\nreport that the president wished to reveal the\r\nfull truth of the Raccoon City Incident.\r\n\r\nIt is possible that President Benford was privy\r\nto the facts revealed in this report.'
+
+=== Entry 263: File_999_000_54 ===
+"Spencer's Final Years"
+
+=== Entry 264: File_999_000_55 ===
+'Remaining records about Spencer after the\r\ndissolution of Umbrella are scarce, but a new\r\nsource of information has recently come to light:\r\nan interview conducted by Alyssa Ashcroft.\r\n\r\nDespite being responsible for countless\r\natrocities, Spencer showed some signs\r\nof remorse in this interview.'
+
+=== Entry 265: File_999_000_56 ===
+"Having lost everything, he sought atonement.\r\n\r\nWhile Elpis is a powerful instrument that can\r\nrender viral weapons inert, it also has the\r\npotential as a panacea to be used for good.\r\n\r\nIt's possible that Spencer's true motivations\r\nbehind Elpis were peace and redemption."
+
+=== Entry 266: File_999_000_57 ===
+'While he remained obsessed with the evolution\r\nof humanity throughout his later years, most\r\ntestimonies describe him as nothing but\r\na senile old man.\r\n\r\nSpencer died in 2006 at his secluded estate.\r\nHis true intentions behind developing Elpis\r\nwill forever remain unknown.'
+
+=== Entry 267: File_999_000_58 ===
+'Conclusion'
+
+=== Entry 268: File_999_000_59 ===
+"As we can see from the records, the Umbrella\r\nCorporation's liquidation was intentionally\r\norchestrated by The Connections and the\r\nU.S. government.\r\n\r\nFurthermore, they were involved in the illegal\r\ndevelopment and trafficking of bioweapons\r\nin Raccoon City.\r\n\r\nThe extent to which past and present governments\r\nwere involved requires further investigation."
+
+=== Entry 269: File_999_000_60 ===
+'Much about The Connections remains shrouded\r\nin mystery, and most records of their involvement\r\nwere destroyed alongside ARK.'
+
+=== Entry 270: File_999_000_61 ===
+'Countless lives have been lost.\r\n\r\nAs government officials, we have a duty to pursue\r\nthe truth. If anything, finding it will finally offer\r\nsome closure to everyone who fell victim to\r\nthese heinous actions.\r\n\r\n               FBI Intelligence Analyst, Grace Ashcroft'
+

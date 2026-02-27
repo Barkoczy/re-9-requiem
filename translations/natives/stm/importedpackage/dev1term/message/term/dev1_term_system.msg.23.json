@@ -1,0 +1,11 @@
+{
+  "Dev1_Term_System_ControllerDisconnect_PS": "Ovladač byl odpojen.\nProsím znovu jej připoj.",
+  "Dev1_Term_System_ControllerDisconnect_XB": "Nebyl nalezen žádný ovladač.\nPřipoj ovladač ke konzoli\na stiskni <ICON R_D>.",
+  "Dev1_Term_System_Update_Confirm": "",
+  "Dev1_Term_System_Update_Recommend1": "",
+  "Dev1_Term_System_Error_PC": "Byla zjištěna nekonzistence dat.\nProsím restartuj hru.",
+  "Dev1_Term_System_NetworkConnecting1": "Připojování k síti.",
+  "Dev1_Term_System_NetworkConnect_Failed1": "Nepodařilo se připojit k síti.",
+  "Dev1_Term_System_Network_Lost": "Síťové připojení bylo ztraceno.",
+  "Dev1_Term_System_Signout_PS": "Byl jsi odhlášen z PlayStation™Network."
+}
