@@ -56,7 +56,7 @@ Keys match `entry.name` in the original MSG file. Empty strings `""` are intenti
 
 ## Remsg Patch
 
-`remsg` v1.2.0 has a uint64 encode bug (writes 4 bytes, reads 8). The postinstall hook (`scripts/utils/patch-remsg.mjs`) fixes `encode.mjs` to use `setInt64(BigInt(v))`. Details in `patches/remsg-encode-uint64.md`.
+`remsg` v1.2.0 has three bugs in `encode.mjs` fixed by the postinstall hook (`scripts/utils/patch-remsg.mjs`): (1) type-0 uint64 written as int32, (2) `setString("GMSG")` adds null terminator causing 1-byte header shift, (3) `attributeValues` offset captured after write (off-by-8). Details in `patches/remsg-encode-uint64.md`.
 
 ## Validation Tools
 
