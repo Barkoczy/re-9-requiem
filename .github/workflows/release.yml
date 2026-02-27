@@ -1,0 +1,96 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v[0-9]+.[0-9]+.[0-9]+'
+
+permissions:
+  contents: write
+  id-token: write  # required by SignPath Foundation
+
+jobs:
+  release:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build release packages
+        run: npm run release
+
+      - name: Install Inno Setup
+        run: choco install innosetup --no-progress -y
+
+      - name: Compile EXE installer
+        shell: pwsh
+        run: |
+          $iscc = "C:\Program Files (x86)\Inno Setup 6\ISCC.exe"
+          & $iscc "/Odist" "dist\inno\re9-cz-mod.iss"
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+
+      - name: Upload unsigned installer artifact
+        id: upload-unsigned
+        uses: actions/upload-artifact@v4
+        with:
+          name: unsigned-installer
+          path: dist/RE9-CZ-Preklad-v*-Setup.exe
+          if-no-files-found: error
+          retention-days: 7
+
+      # --- SignPath Foundation code signing ---
+      # Configure after approval at https://signpath.org/apply
+      # Required GitHub secrets/vars:
+      #   SIGNPATH_API_TOKEN        (secret)
+      #   SIGNPATH_ORGANIZATION_ID  (variable)
+      - name: Sign EXE via SignPath Foundation
+        id: sign
+        if: vars.SIGNPATH_ORGANIZATION_ID != ''
+        uses: SignPath/github-action-submit-signing-request@v1
+        with:
+          api-token: ${{ secrets.SIGNPATH_API_TOKEN }}
+          organization-id: ${{ vars.SIGNPATH_ORGANIZATION_ID }}
+          project-slug: re9-requiem-cz
+          signing-policy-slug: release-signing
+          artifact-configuration-slug: exe-installer
+          github-artifact-id: ${{ steps.upload-unsigned.outputs.artifact-id }}
+          wait-for-completion: true
+          output-artifact-directory: dist/signed
+
+      - name: Replace unsigned EXE with signed
+        if: vars.SIGNPATH_ORGANIZATION_ID != '' && steps.sign.outcome == 'success'
+        shell: pwsh
+        run: Get-ChildItem dist/signed/*.exe | Move-Item -Destination dist/ -Force
+
+      - name: Extract release notes from CHANGELOG
+        shell: pwsh
+        run: |
+          $version = "${{ github.ref_name }}" -replace '^v', ''
+          $content = Get-Content CHANGELOG.md -Raw
+          $pattern = "(?s)## \[$version\][^\n]*\n(.*?)(?=\n## \[|\z)"
+          $match = [regex]::Match($content, $pattern)
+          if ($match.Success) {
+            $match.Groups[1].Value.Trim() | Out-File release-notes.md -Encoding utf8
+          } else {
+            "Viz [CHANGELOG.md](CHANGELOG.md)" | Out-File release-notes.md -Encoding utf8
+          }
+
+      - name: Publish GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          body_path: release-notes.md
+          files: |
+            dist/RE9-CZ-Preklad-v*-Setup.exe
+            dist/RE9-CZ-Preklad-v*-FluffyMM.zip
+            dist/RE9-CZ-Preklad-v*-CLI.zip
+          fail_on_unmatched_files: true

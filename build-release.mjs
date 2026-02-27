@@ -12,7 +12,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 // --- Configuration ---
 const MOD_OUTPUT_DIR =
   process.env.RE9_MOD_OUTPUT ||
-  "C:\\Users\\henri\\Documents\\RE-Requiem-CZ\\mod";
+  resolve(__dirname, "mod");
 
 const DIST_DIR = resolve(__dirname, "dist");
 const INSTALLER_DIR = resolve(__dirname, "installer");
